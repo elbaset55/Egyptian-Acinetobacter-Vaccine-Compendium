@@ -1,7 +1,7 @@
 # PRISMA 2020 Checklist: Subunit, Outer Membrane Protein, and Multi-Epitope Vaccines Against Carbapenem-Resistant *Acinetobacter baumannii*
 
 **Manuscript Title:** Subunit, Outer Membrane Protein, and Multi-Epitope Vaccines Against Carbapenem-Resistant *Acinetobacter baumannii*: A PRISMA 2020 Systematic Review, Preclinical Meta-Analysis, and Methodological Quality Appraisal  
-**Authors:** Abdelbaset A. Diab, M N Seddik  
+**Authors:** Abdelbaset A. Diab, M N Seddek  
 **Affiliation:** Department of Zoology, Faculty of Science, Benha University, Benha 13518, Egypt  
 **Target Journal:** *Frontiers in Immunology* (Systematic Review & Preclinical Meta-Analysis)  
 **Permanent Zenodo DOI:** [10.5281/zenodo.24214866](https://doi.org/10.5281/zenodo.24214866) | **Zenodo Record:** [24214867](https://zenodo.org/records/24214867)  
@@ -53,7 +53,7 @@
 | | 23c | Discuss any limitations of the review processes used. | Section 4.7 (Paragraph 4: Regional ICU epidemiological boundary focused on MENA IC2 endemic theater) |
 | | 23d | Discuss implications of the results for practice, policy, and future research. | Section 4.5 & Section 5 (Translational Roadmap: 5-point engineering blueprint and 3-tier clinical deployment paradigm) |
 | **OTHER INFORMATION** | | | |
-| Registration and protocol | 24a | Provide registration information for the review, including register name and registration number, or state that not registered. | Section 2.1 (Not registered in PROSPERO as preclinical animal/computational reviews fall outside its human-outcome scope; developed under institutional protocol BU-FS-ZOO-2026-SR01 and publicly archived in Zenodo DOI: 10.5281/zenodo.24214866) |
+| Registration and protocol | 24a | Provide registration information for the review, including register name and registration number, or state that not registered. | Section 2.1 (Registered in PROSPERO: CRD420261572661, concurrent/retrospective; institutional departmental protocol BU-FS-ZOO-2026-SR01; publicly archived in Zenodo DOI: 10.5281/zenodo.24214866) |
 | | 24b | Indicate where the review protocol can be accessed, or state that a protocol was not prepared. | Section 2.1 & Back Matter (Data Availability Statement; open-access repository at Zenodo: https://doi.org/10.5281/zenodo.24214866) |
 | | 24c | Describe and explain any amendments to information provided at registration or in the protocol. | Section 2.1 (No amendments were made to the predefined tri-track PICOS protocol during review execution) |
 | Support | 25 | Describe sources of financial or non-financial support for the review, and the role of the funders. | Back Matter, Funding Statement (Self-funded institutional research; no commercial funding involvement) |
