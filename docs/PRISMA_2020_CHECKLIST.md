@@ -53,9 +53,9 @@ Section numbers refer to the main manuscript. Items that were not performed are 
 |  | 23c | Discuss any limitations of the review processes used. | Section 4.7 |
 |  | 23d | Discuss implications of the results for practice, policy, and future research. | Sections 4.5 and 5 |
 | **OTHER INFORMATION** |  |  |  |
-| Registration and protocol | 24a | Provide registration information for the review, including register name and registration number, or state that the review was not registered. | Section 2.1 (PROSPERO CRD420261572661; registered retrospectively) |
+| Registration and protocol | 24a | Provide registration information for the review, including register name and registration number, or state that the review was not registered. | Section 2.1 (PROSPERO CRD420261572661; registered retrospectively; covers Track 1 only) |
 |  | 24b | Indicate where the review protocol can be accessed, or state that a protocol was not prepared. | PROSPERO record CRD420261572661; Section 2.1 |
-|  | 24c | Describe and explain any amendments to information provided at registration or in the protocol. | Not applicable (registration was retrospective) |
+|  | 24c | Describe and explain any amendments to information provided at registration or in the protocol. | Section 2.1 (four deviations from the registered protocol are listed) |
 | Support | 25 | Describe sources of financial or non-financial support for the review. | Funding |
 | Competing interests | 26 | Declare any competing interests of review authors. | Conflict of interest |
 | Availability of data, code and other materials | 27 | Report which of the following are publicly available and where: template data collection forms, data extracted from included studies, data used for all analyses, analytic code, any other materials used in the review. | Data availability statement; Zenodo (doi: 10.5281/zenodo.24218434); GitHub (elbaset55/Egyptian-Acinetobacter-Vaccine-Compendium) |
