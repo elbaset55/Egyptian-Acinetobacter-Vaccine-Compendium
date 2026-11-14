@@ -1,0 +1,17 @@
+{
+  "Q1_OMP_Subunit_InVivo": {
+    "query": "(\"Acinetobacter baumannii\"[Title/Abstract]) AND (\"OmpA\"[Title/Abstract] OR \"BamA\"[Title/Abstract] OR \"LptD\"[Title/Abstract] OR \"OmpW\"[Title/Abstract] OR \"outer membrane protein\"[Title/Abstract]) AND (\"vaccine\"[Title/Abstract] OR \"immunization\"[Title/Abstract] OR \"protective efficacy\"[Title/Abstract]) AND (\"survival\"[Title/Abstract] OR \"mice\"[Title/Abstract] OR \"murine\"[Title/Abstract] OR \"challenge\"[Title/Abstract])",
+    "total_count": 46,
+    "fetched_count": 46
+  },
+  "Q2_MultiEpitope_InSilico": {
+    "query": "(\"Acinetobacter baumannii\"[Title/Abstract]) AND (\"multi-epitope\"[Title/Abstract] OR \"multiepitope\"[Title/Abstract] OR \"reverse vaccinology\"[Title/Abstract] OR \"immunoinformatics\"[Title/Abstract] OR \"pan-genome\"[Title/Abstract]) AND (\"vaccine\"[Title/Abstract])",
+    "total_count": 56,
+    "fetched_count": 56
+  },
+  "Q3_Egypt_CRAB_Epidemiology": {
+    "query": "(\"Acinetobacter baumannii\"[Title/Abstract]) AND (\"Egypt\"[Title/Abstract] OR \"Egyptian\"[Title/Abstract]) AND (\"carbapenem\"[Title/Abstract] OR \"colistin\"[Title/Abstract] OR \"OXA-23\"[Title/Abstract] OR \"NDM\"[Title/Abstract])",
+    "total_count": 74,
+    "fetched_count": 74
+  }
+}

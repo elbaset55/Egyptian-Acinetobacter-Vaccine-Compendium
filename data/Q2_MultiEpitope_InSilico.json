@@ -1,0 +1,923 @@
+[
+  {
+    "pmid": "30798567",
+    "doi": "10.1007/978-1-4939-9118-1_29",
+    "year": "2019",
+    "first_author": "Shahid F et al.",
+    "authors": [
+      "Shahid F",
+      "Ashraf ST",
+      "Ali A"
+    ],
+    "title": "Reverse Vaccinology Approach to Potential Vaccine Candidates Against Acinetobacter baumannii.",
+    "journal": "Methods in molecular biology (Clifton, N.J.)",
+    "abstract": "Acinetobacter baumannii is a rapidly evolving pathogen that largely inhabits intensive care units (ICU). This opportunistic, gram-negative organism has shown noteworthy taxonomic variations during the past three decades. A. baumannii functions as a catalase-positive, oxidase-negative obligate, aerobic, nonmotile, highly infectious, and multidrug-resistant bacterium. Therefore, the infection caused by this bacterium tends to have a fairly higher incidence rate in immune-compromised individuals ranging from 26.5% to 91%, as it colonizes in skin tissues and secretions of the respiratory tract. Recently, it has been globally labeled as a \"red alert\" pathogen, setting alarms throughout the medical community, arising mainly due to its widespread antibiotic resistance continuum. There is a dire need for alternative therapeutic intervention to combat A. baumannii-associated infections and the growing resistance. This chapter focuses upon the reverse vaccinology-based steps and strategies to identify novel potential vaccine candidates against this emerging pathogen."
+  },
+  {
+    "pmid": "37022613",
+    "doi": "10.1007/s12026-023-09374-4",
+    "year": "2023",
+    "first_author": "Dey J et al.",
+    "authors": [
+      "Dey J",
+      "Mahapatra SR",
+      "Singh PK",
+      "Prabhuswamimath SC",
+      "Misra N",
+      "Suar M"
+    ],
+    "title": "Designing of multi-epitope peptide vaccine against Acinetobacter baumannii through combined immunoinformatics and protein interaction-based approaches.",
+    "journal": "Immunologic research",
+    "abstract": "Acinetobacter baumannii is one of the major pathogenic ESKAPE bacterium, which is responsible for about more than 722,000 cases in a year, globally. Despite the alarming increase in multidrug resistance, a safe and effective vaccine for Acinetobacter infections is still not available. Hence in the current study, a multiepitope vaccine construct was developed using linear B cell, cytotoxic T cell, and helper T cell epitopes from the antigenic and well-conserved lipopolysaccharide assembly proteins employing systematic immunoinformatics and structural vaccinology strategies. The multi-peptide vaccine was predicted to be highly antigenic, non-allergenic, non-toxic, and cover maximum population coverage worldwide. Further, the vaccine construct was modeled along with adjuvant and peptide linkers and validated to achieve a high-quality three-dimensional structure which was subsequently utilized for cytokine prediction, disulfide engineering, and docking analyses with Toll-like receptor (TLR4). Ramachandran plot showed 98.3% of the residues were located in the most favorable and permitted regions, thereby corroborating the feasibility of the modeled vaccine construct. Molecular dynamics simulation for a 100 ns timeframe further confirmed the stability of the binding vaccine-receptor complex. Finally, in silico cloning and codon adaptation were also performed with the pET28a (+) plasmid vector to determine the efficiency of expression and translation of the vaccine. Immune simulation studies demonstrated that the vaccine could trigger both B and T cell responses and can elicit strong primary, secondary, and tertiary immune responses. The designed multi-peptide subunit vaccine would certainly expedite the experimental approach for the development of a vaccine against A. baumannii infection."
+  },
+  {
+    "pmid": "41599011",
+    "doi": "10.3390/pathogens15010028",
+    "year": "2025",
+    "first_author": "Hetta HF et al.",
+    "authors": [
+      "Hetta HF",
+      "Khalaf FR",
+      "Kotb AA",
+      "Alatawi MN",
+      "Albalawi AS",
+      "Alharbi AA",
+      "Aljohani MK",
+      "Aljohani SS",
+      "Alatawi MS",
+      "Abd Ellah NH",
+      "Battah B",
+      "Donadu MG",
+      "Mazzarello V"
+    ],
+    "title": "Taming Superbugs: Current Progress and Challenges in Combating ESKAPE Pathogens.",
+    "journal": "Pathogens (Basel, Switzerland)",
+    "abstract": "The global incidence of multidrug-resistant (MDR) ESKAPE pathogens-comprising Enterococcus faecium, Staphylococcus aureus, Klebsiella pneumoniae, Acinetobacter baumannii, Pseudomonas aeruginosa, and Enterobacter species-has surged alarmingly in recent years, posing a significant challenge to healthcare systems worldwide. These organisms are notorious for their capacity to evade the effects of multiple classes of antibiotics, leading to treatment failures, increased morbidity and mortality, and escalating healthcare costs, all of which have placed unprecedented strain on existing infection control measures. This review encapsulates the progress in target-driven vaccine research, including the genomic discovery of highly conserved surface antigens, iron acquisition systems, biofilm- and quorum-sensing-related proteins, and computationally predicted epitopes, which are considered the most attractive targets for broad-spectrum vaccination. Novel vaccine platforms, such as outer membrane vesicles (OMVs), mRNA technologies, and multi-epitope constructs, will rapidly drive the translation of these targets into next-generation vaccine formulations. Nevertheless, challenges such as antigenic variation and immune evasion, as well as the need for a robust mucosal and cross-protective immune response, persist. The sustainability in interdisciplinary investigations are required, along with adjunctive measures and investment in the development of advanced discovery and delivery systems, to achieve the ultimate goal of successful vaccines against MDR ESKAPE infections and to mitigate the worldwide burden of antimicrobial resistance."
+  },
+  {
+    "pmid": "40432488",
+    "doi": "10.1080/1040841X.2025.2510250",
+    "year": "2025",
+    "first_author": "Min J et al.",
+    "authors": [
+      "Min J",
+      "Kim B",
+      "Park Y",
+      "Son Y",
+      "Park W"
+    ],
+    "title": "Bacterial cell wall synthesis and recycling: new antimicrobial targets and vaccine development.",
+    "journal": "Critical reviews in microbiology",
+    "abstract": "Almost all bacteria have peptidoglycan (PG) components that are essential for virulence and are absent in humans, making them a top-priority target for antibiotics and vaccines. The rise of multidrug-resistant bacteria (MRB) necessitates urgent expansion of our arsenal of inhibitors targeting the PG cell wall. This review addresses our understanding of PG biosynthesis and recycling processes, emphasizing the need to identify novel target proteins and redesign existing PG-targeted antimicrobial peptides. Building on our understanding of cell wall biochemistry and biogenesis derived from Escherichia coli, we also aim to compare and elucidate the cell wall processes in other pathogens, such as Acinetobacter baumannii and Salmonella Typhimurium, where knowledge remains incomplete. We cover in detail the distinct roles of PG-related proteins in Gram-negative bacteria, strategies to block PG biosynthesis/recycling pathways, and their potential as novel antibiotic targets to address the growing challenge of antibiotic resistance. Finally, we review the application of rigorous immuno-informatics analysis and several immune filters to construct epitope-specific vaccines displaying PG-related proteins on the surface of outer membrane vesicles (OMVs), aiming to combat MRB proliferation."
+  },
+  {
+    "pmid": "38675740",
+    "doi": "10.3390/vaccines12040358",
+    "year": "2024",
+    "first_author": "Jeffreys S et al.",
+    "authors": [
+      "Jeffreys S",
+      "Tompkins MP",
+      "Aki J",
+      "Papp SB",
+      "Chambers JP",
+      "Guentzel MN",
+      "Hung CY",
+      "Yu JJ",
+      "Arulanandam BP"
+    ],
+    "title": "Development and Evaluation of an Immunoinformatics-Based Multi-Peptide Vaccine against Acinetobacter baumannii Infection.",
+    "journal": "Vaccines",
+    "abstract": "Multi-drug-resistant (MDR) Acinetobacter baumannii is an opportunistic pathogen associated with hospital-acquired infections. Due to its environmental persistence, virulence, and limited treatment options, this organism causes both increased patient mortality and incurred healthcare costs. Thus, prophylactic vaccination could be ideal for intervention against MDR Acinetobacter infection in susceptible populations. In this study, we employed immunoinformatics to identify peptides containing both putative B- and T-cell epitopes from proteins associated with A. baumannii pathogenesis. A novel Acinetobacter Multi-Epitope Vaccine (AMEV2) was constructed using an A. baumannii thioredoxin A (TrxA) leading protein sequence followed by five identified peptide antigens. Antisera from A. baumannii infected mice demonstrated reactivity to rAMEV2, and subcutaneous immunization of mice with rAMEV2 produced high antibody titer against the construct as well as peptide components. Immunization results in increased frequency of IL-4-secreting splenocytes indicative of a Th2 response. AMEV2-immunized mice were protected against intranasal challenge with a hypervirulent strain of A. baumannii and demonstrated reduced bacterial burden at 48 h. In contrast, all mock vaccinated mice succumbed to infection within 3 days. Results presented here provide insight into the effectiveness of immunoinformatic-based vaccine design and its potential as an effective strategy to combat the rise of MDR pathogens."
+  },
+  {
+    "pmid": "35564967",
+    "doi": "10.3390/ijerph19095568",
+    "year": "2022",
+    "first_author": "Ud-Din M et al.",
+    "authors": [
+      "Ud-Din M",
+      "Albutti A",
+      "Ullah A",
+      "Ismail S",
+      "Ahmad S",
+      "Naz A",
+      "Khurram M",
+      "Haq MU",
+      "Afsheen Z",
+      "Bakri YE",
+      "Salman M",
+      "Shaker B",
+      "Tahir Ul Qamar M"
+    ],
+    "title": "Vaccinomics to Design a Multi-Epitopes Vaccine for Acinetobacter baumannii.",
+    "journal": "International journal of environmental research and public health",
+    "abstract": "Antibiotic resistance (AR) is the result of microbes' natural evolution to withstand the action of antibiotics used against them. AR is rising to a high level across the globe, and novel resistant strains are emerging and spreading very fast. Acinetobacter baumannii is a multidrug resistant Gram-negative bacteria, responsible for causing severe nosocomial infections that are treated with several broad spectrum antibiotics: carbapenems, β-lactam, aminoglycosides, tetracycline, gentamicin, impanel, piperacillin, and amikacin. The A. baumannii genome is superplastic to acquire new resistant mechanisms and, as there is no vaccine in the development process for this pathogen, the situation is more worrisome. This study was conducted to identify protective antigens from the core genome of the pathogen. Genomic data of fully sequenced strains of A. baumannii were retrieved from the national center for biotechnological information (NCBI) database and subjected to various genomics, immunoinformatics, proteomics, and biophysical analyses to identify potential vaccine antigens against A. baumannii. By doing so, four outer membrane proteins were prioritized: TonB-dependent siderphore receptor, OmpA family protein, type IV pilus biogenesis stability protein, and OprD family outer membrane porin. Immuoinformatics predicted B-cell and T-cell epitopes from all four proteins. The antigenic epitopes were linked to design a multi-epitopes vaccine construct using GPGPG linkers and adjuvant cholera toxin B subunit to boost the immune responses. A 3D model of the vaccine construct was built, loop refined, and considered for extensive error examination. Disulfide engineering was performed for the stability of the vaccine construct. Blind docking of the vaccine was conducted with host MHC-I, MHC-II, and toll-like receptors 4 (TLR-4) molecules. Molecular dynamic simulation was carried out to understand the vaccine-receptors dynamics and binding stability, as well as to evaluate the presentation of epitopes to the host immune system. Binding energies estimation was achieved to understand intermolecular interaction energies and validate docking and simulation studies. The results suggested that the designed vaccine construct has high potential to induce protective host immune responses and can be a good vaccine candidate for experimental in vivo and in vitro studies."
+  },
+  {
+    "pmid": "34168196",
+    "doi": "10.1038/s41598-021-92501-8",
+    "year": "2021",
+    "first_author": "Shahid F et al.",
+    "authors": [
+      "Shahid F",
+      "Zaheer T",
+      "Ashraf ST",
+      "Shehroz M",
+      "Anwer F",
+      "Naz A",
+      "Ali A"
+    ],
+    "title": "Chimeric vaccine designs against Acinetobacter baumannii using pan genome and reverse vaccinology approaches.",
+    "journal": "Scientific reports",
+    "abstract": "Acinetobacter baumannii (A. baumannii), an opportunistic, gram-negative pathogen, has evoked the interest of the medical community throughout the world because of its ability to cause nosocomial infections, majorly infecting those in intensive care units. It has also drawn the attention of researchers due to its evolving immune evasion strategies and increased drug resistance. The emergence of multi-drug-resistant-strains has urged the need to explore novel therapeutic options as an alternative to antibiotics. Due to the upsurge in antibiotic resistance mechanisms exhibited by A. baumannii, the current therapeutic strategies are rendered less effective. The aim of this study is to explore novel therapeutic alternatives against A. baumannii to control the ailed infection. In this study, a computational framework is employed involving, pan genomics, subtractive proteomics and reverse vaccinology strategies to identify core promiscuous vaccine candidates. Two chimeric vaccine constructs having B-cell derived T-cell epitopes from prioritized vaccine candidates; APN, AdeK and AdeI have been designed and checked for their possible interactions with host BCR, TLRs and HLA Class I and II Superfamily alleles. These vaccine candidates can be experimentally validated and thus contribute to vaccine development against A. baumannii infections."
+  },
+  {
+    "pmid": "34483787",
+    "doi": "10.1007/s10989-021-10262-4",
+    "year": "2021",
+    "first_author": "Touhidinia M et al.",
+    "authors": [
+      "Touhidinia M",
+      "Sefid F",
+      "Bidakhavidi M"
+    ],
+    "title": "Design of a Multi-epitope Vaccine Against Acinetobacter baumannii Using Immunoinformatics Approach.",
+    "journal": "International journal of peptide research and therapeutics",
+    "abstract": "Acinetobacter baumannii is one of the most successful pathogens causing nosocomial infections and has significantly multidrug-resistant. So far, there are no certain treatments to protect against infection with A. baumannii, therefore an effective A. baumannii vaccine needed. The purpose of this study was to predict antigenic epitopes of CarO protein for designing the A. baumannii vaccine using immunoinformatics analysis. CarO protein is one of the most important factors in the resistance against the antibiotic Carbapenem. In this study, T and B-cell epitopes of CarO protein were predicted and screened based on the antigenicity, toxicity, allergenicity features. The epitopes were linked by suitable linkers. Four different adjuvants were attached to the vaccine constructs which among them, vaccine construct 3 was chosen to predict the secondary and the 3D structure of the vaccine. The refinement process was performed to improve the quality of the 3D model structure; the validation process is performed using the Ramachandran plot and ProSA z-score. The designed vaccine's binding affinity to six various HLA molecules and TLR 2 and TLR4 were evaluated by molecular docking. Finally, in silico gene cloning was performed in the pET28a (+) vector. The findings suggest that the vaccine may be a promising vaccine to prevent A. baumannii infection."
+  },
+  {
+    "pmid": "39126830",
+    "doi": "10.1016/j.vaccine.2024.126204",
+    "year": "2024",
+    "first_author": "Nasir S et al.",
+    "authors": [
+      "Nasir S",
+      "Anwer F",
+      "Ishaq Z",
+      "Saeed MT",
+      "Ali A"
+    ],
+    "title": "VacSol-ML(ESKAPE): Machine learning empowering vaccine antigen prediction for ESKAPE pathogens.",
+    "journal": "Vaccine",
+    "abstract": "The ESKAPE family, comprising Enterococcus faecium, Staphylococcus aureus, Klebsiella pneumoniae, Acinetobacter baumannii, Pseudomonas aeruginosa, and Enterobacter spp., poses a significant global threat due to their heightened virulence and extensive antibiotic resistance. These pathogens contribute largely to the prevalence of nosocomial or hospital-acquired infections, resulting in high morbidity and mortality rates. To tackle this healthcare problem urgent measures are needed, including development of innovative vaccines and therapeutic strategies. Designing vaccines involves a complex and resource-intensive process of identifying protective antigens and potential vaccine candidates (PVCs) from pathogens. Reverse vaccinology (RV), an approach based on genomics, made this process more efficient by leveraging bioinformatics tools to identify potential vaccine candidates. In recent years, artificial intelligence and machine learning (ML) techniques has shown promise in enhancing the accuracy and efficiency of reverse vaccinology. This study introduces a supervised ML classification framework, to predict potential vaccine candidates specifically against ESKAPE pathogens. The model's training utilized biological and physicochemical properties from a dataset containing protective antigens and non-protective proteins of ESKAPE pathogens. Conventional autoencoders based strategy was employed for feature encoding and selection. During the training process, seven machine learning algorithms were trained and subjected to Stratified 5-fold Cross Validation. Random Forest and Logistic Regression exhibited best performance in various metrics including accuracy, precision, recall, WF1 score, and Area under the curve. An ensemble model was developed, to take collective strengths of both the algorithms. To assess efficacy of our final ensemble model, a high-quality benchmark dataset was employed. VacSol-ML(ESKAPE) demonstrated outstanding discrimination between protective vaccine candidates (PVCs) and non-protective antigens. VacSol-ML(ESKAPE), proves to be an invaluable tool in expediting vaccine development for these pathogens. Accessible to the public through both a web server and standalone version, it encourages collaborative research. The web-based and standalone tools are available at http://vacsolml.mgbio.tech/."
+  },
+  {
+    "pmid": "40957351",
+    "doi": "10.1016/j.compbiomed.2025.111100",
+    "year": "2025",
+    "first_author": "Khalaj A et al.",
+    "authors": [
+      "Khalaj A",
+      "Moghri SAHMH"
+    ],
+    "title": "Immunoinformatics design of multi-epitope vaccine candidates against \"ESKAPE\" pathogens as nosocomial infection.",
+    "journal": "Computers in biology and medicine",
+    "abstract": "BACKGROUND: Nowadays, the ESKAPE pathogens-Enterococcus faecium, Staphylococcus aureus, Klebsiella pneumoniae, Acinetobacter baumannii, Pseudomonas aeruginosa, and Enterobacter spp.- have been identified as emerging threats to public health. Moreover, these groups of pathogens can lead to nosocomial infections due to critical multidrug-resistant, underscoring that effective therapies are urgently needed. METHOD: In this research, we focused on developing a novel multi-epitope peptide vaccine against ESKAPE pathogens. Hence, we narrowed down 13 antigens from assembly proteins of ESKAPE pathogens due to the high pathogenicity and surface exposure. Then, of these antigens, we filtered the top 36 epitopes based on their elevated antigenicity, and well-conserved sequence and they have been investigated in terms of appropriate attributes such as immunogenicity, MHC binding affinity (nM), allergenicity and toxicity. Through utilizing systematic immunoinformatics and structural vaccinology strategies, we constructed a multi-epitope vaccine consisting of linear B-cell epitopes, CTL epitopes, and HTL epitopes from these significant epitopes. Moreover, the PADRE peptide applied as an adjuvant to boost the immunogenicity of the vaccine. RESULTS: Designed vaccine fulfilled broad population coverage about 94.1 % globally along with appropriate physicochemical characteristics of multi-epitopes vaccine was reported like achievement of higher expression in the Escherichia coli system (CAI = 0.97, and GC contents = 51 %), and secondary and tertiary structures of the vaccine construct were evaluated subsequently. Molecular docking (docking score = -1325.3 kcal/mol) and dynamic simulations (eigen-score = 6.3 × 10-6) were applied to appraise the stability of the vaccine-TLR-2 docked structure, which showed that the vaccine has a high affinity for the TLR-2 receptor which is stable. The immune simulation response revealed that both B and T cells had raised responses (up to 700 and 13,000 cells/mm3, respectively) to the vaccination peptide. The outcomes demonstrated that the designed multi-epitope vaccine induced robust IgG + IgM responses peaking at ∼800,000 AU/ml and remarkably induced elevated IFN-γ secretion levels (∼500,000 ng/mL) after three doses of injections, suggesting a balanced Th1/Th2 response. CONCLUSIONS: Eventually, the in-depth in silico analysis revealed that the suggested multi-epitope vaccine exhibits a robust immune response from both B and T-cells against ESKAPE infection; however, in vitro and in vivo experimentations are highly crucial to validate the protective immunological proficiency of the vaccine."
+  },
+  {
+    "pmid": "35261870",
+    "doi": "10.1007/s13205-022-03148-9",
+    "year": "2022",
+    "first_author": "Singh R et al.",
+    "authors": [
+      "Singh R",
+      "Capalash N",
+      "Sharma P"
+    ],
+    "title": "Vaccine development to control the rising scourge of antibiotic-resistant Acinetobacter baumannii: a systematic review.",
+    "journal": "3 Biotech",
+    "abstract": "Acinetobacter baumannii has emerged as one of major nosocomial pathogen and global emergence of multidrug-resistant strains has become a challenge for developing effective treatment options. A. baumannii has developed resistance to almost all the antibiotics viz. beta-lactams, carbapenems, tigecycline and now colistin, a last resort of antibiotics. The world is on the cusp of post antibiotic era and the evolution of multi-, extreme- and pan-drug-resistant A. baumannii strains is its obvious harbinger. Various combinations of antibiotics have been investigated but no successful treatment option is available. All these failed efforts have led researchers to develop and implement prophylactic vaccination for the prevention of infections caused by this pathogen. In this review, the advantages and disadvantages of active and passive immunization, the types of sub-unit and multi-component vaccine candidates investigated against A. baumannii viz. whole cell organism, outer membrane vesicles, outer membrane complexes, conjugate vaccines and sub-unit vaccines have been discussed. In addition, the benefits of Reverse vaccinology are emphasized here in which the potential vaccine candidates are predicted using bioinformatic online tools prior to in vivo validations."
+  },
+  {
+    "pmid": "37454632",
+    "doi": "10.1016/j.intimp.2023.110650",
+    "year": "2023",
+    "first_author": "Mansouri M et al.",
+    "authors": [
+      "Mansouri M",
+      "Sadeghpoor M",
+      "Abdollahi M",
+      "Vafaei AJ",
+      "Jalali Nadoushan M",
+      "Rasooli I"
+    ],
+    "title": "Synergistic immunoprotection by Oma87 and Bap against Acinetobacter baumannii sepsis model.",
+    "journal": "International immunopharmacology",
+    "abstract": "Acinetobacter baumannii is the leading cause of nosocomial infection. A surface protein commonly known as biofilm associate protein (Bap) has been identified in a bloodstream isolate of A. baumannii. Bap of A. baumannii is involved in intercellular adhesion within the mature biofilm. Outer membrane protein Acinetobacter 87 kDa (Oma87) or β-barrel assembly machinery A (BamA) has been introduced as an immunogenic outer membrane protein via in silico reverse vaccinology. Current research examines the synergistic effect of immunization of mice with both recombinant proteins viz., Oma87 and Bap. Antibodies were raised to the proteins. The mice were challenged with A. baumannii ATCC 19606 and the bacterial burden was enumerated in the mice's livers, spleens, and lungs followed by histological examination. IgG levels significantly increased, and a significant (p < 0.0001) difference was observed between bacterial burdens in the internal organs of the actively and passively immunized groups. Female BALB/c mice weighing 20-25 g, were divided into 4 groups of 14 mice each viz., control, Oma87, Bap, Oma87-Bap groups. The proteins were individually immunogenic, but the combination of both proteins had a synergistic protection property. This is further supported by the histological examination. Based on the results, the combination of Oma87 and Bap may be considered a promising vaccine candidate against A. baumannii ."
+  },
+  {
+    "pmid": "40650846",
+    "doi": "10.1186/s13568-025-01913-6",
+    "year": "2025",
+    "first_author": "Heidarinia H et al.",
+    "authors": [
+      "Heidarinia H",
+      "Tajbakhsh E",
+      "Bahrami Y",
+      "Rostamian M"
+    ],
+    "title": "Design a multi-epitope vaccine candidate against Acinetobacter baumannii using advanced computational methods.",
+    "journal": "AMB Express",
+    "abstract": "Acinetobacter baumannii is a significant cause of hospital-acquired infections and is often resistant to multiple antibiotics. In this study, we designed a multi-epitope vaccine candidate using the outer membrane protein K (OmpK) of A. baumannii. T-cell and B-cell epitopes were predicted, and the best epitopes were selected for multi-epitope design. For selecting the best epitopes, many in silico studies, as well as molecular docking of epitope-HLAs, were performed. The multi-epitope was designed using β-defensin as an adjuvant, PADRE sequence as an immunogenicity enhancer, and appropriate linkers. The tertiary structure of the multi-epitope was obtained using modeling and several molecular dynamics (MD)-based refinements. The sequence and/or 3D model of the multi-epitope was investigated for physicochemical, structural, in silico cloning, conformational B epitope prediction, immune response simulation, molecular docking for assay binding to toll-like receptors (TLRs), and deformability studies. The results showed that the multi-epitope construct is favorable in the case of immunogenicity, physicochemical properties, structure, binding to TLRs, solubility, stability, toxicity, allergenicity, and cross-reactivity. This multi-epitope vaccine candidate has the potential to elicit multiple immune responses against A. baumannii. However, in vitro and in vivo experimental tests are needed to validate its efficacy as a potential vaccine candidate."
+  },
+  {
+    "pmid": "41757946",
+    "doi": "10.1128/spectrum.03095-25",
+    "year": "2026",
+    "first_author": "Afshan G et al.",
+    "authors": [
+      "Afshan G",
+      "Yaseen N",
+      "Khan AU"
+    ],
+    "title": "A mutation-aware proteomics approach for designing a multi-epitope vaccine against multidrug-resistant Acinetobacter baumannii and Pseudomonas aeruginosa.",
+    "journal": "Microbiology spectrum",
+    "abstract": "UNLABELLED: The increasing prevalence of multidrug-resistant Acinetobacter baumannii and Pseudomonas aeruginosa in healthcare settings presents a critical challenge to global public health, necessitating the development of effective therapeutic strategies. Here, we report the rationale design of a mutation-aware multi-epitope vaccine targeting conserved, surface-exposed antigens derived from comparative pan-genomic and subtractive proteomic analyses of 30 proteomes. Following stringent antigenicity, allergenicity, toxicity, and homology filtering, three highly antigenic proteins were identified and used to predict immunodominant cytotoxic T-lymphocyte, helper T-lymphocyte, and B-cell epitopes. Epitope selection incorporated mutation probability profiling, and structurally labile residues, particularly serine, were substituted with conservative alternatives such as threonine to enhance conformational stability and HLA binding without compromising immunogenicity. The final construct, comprising 219 amino acids adjuvanted with human β-defensin-3 and connected by cleavable, immunologically inert linkers EAAAK (adjuvant), AAY (CTL), GPGPG (HTL), and KK (B cell) exhibited favorable physicochemical properties, structural stability, and broad global HLA coverage (79%). Structural modeling revealed a high-quality tertiary structure, with 95.8% of residues in favored regions and validated by ProSA and ERRAT scores. Docking with Toll-like receptor 4 demonstrated strong binding affinity supported by molecular dynamics simulations. In silico immune simulations predicted strong IgM and IgG responses, sustained memory B- and T-cell populations, and strong cytokine production, including IFN-γ, indicative of skewed Th1 immunity. Codon optimization and cloning analysis confirmed its expression potential in Escherichia coli. Collectively, these findings suggest the designed vaccine as a promising therapeutic candidate against polymicrobial infections caused by A. baumannii and P. aeruginosa, requiring further experimental validation. IMPORTANCE: Multidrug resistance has become a common phenomenon leading to difficulty in infection control. No options are left to treat such infections after the emergence of colistin resistance. Therefore, this approach to developing multi-epitope therapeutic vaccines is very promising to face the challenge of infection control. This study is based on comparative pan-genomic and subtractive proteomic analyses of 30 proteomes, which provide a wider range of proteins to select multiple epitopes for effective vaccine."
+  },
+  {
+    "pmid": "33554671",
+    "doi": "10.1080/14760584.2021.1887735",
+    "year": "2021",
+    "first_author": "Ma C et al.",
+    "authors": [
+      "Ma C",
+      "Chen W"
+    ],
+    "title": "Where are we and how far is there to go in the development of an Acinetobacter vaccine?",
+    "journal": "Expert review of vaccines",
+    "abstract": "INTRODUCTION: Healthcare-associated infections caused by multidrug-resistant Acinetobacter baumannii are becoming alarming worldwide. However, the pipeline of new antibiotics is very limited. Vaccination is one of the most cost effective and promising strategies to prevent infections and can play an important role in combat multidrug resistance A. baumannii and prevent the development of new drug resistance. AREA COVERED: This review gives an overview of the research and development of A. baumannii vaccines during the past five years (2015-2020), discusses the key progresses and current challenges of the field, and speculates on the future of A. baumannii vaccine development. EXPERT OPINION: Moderate progresses have been made in the research and development of A. baumannii vaccine in the last five years, in particular in the areas of identification of new protein targets, development of multicomponent vaccines, and use of vaccines and antibodies as adjuncts for antibiotics therapies. However, substantial scientific and logistic challenges, such as selection of lead vaccine candidates and formulation, vaccine clinical trials and targeted population, and financial incentives, remain. Thus, innovative strategies will be needed before an A. baumannii vaccine candidate can be brought into late stage of preclinical development in next five years."
+  },
+  {
+    "pmid": "40610881",
+    "doi": "10.1186/s12879-025-11242-5",
+    "year": "2025",
+    "first_author": "Afshan G et al.",
+    "authors": [
+      "Afshan G",
+      "Yaseen N",
+      "Ali SH",
+      "Khan AU"
+    ],
+    "title": "Immunoinformatics-Based development of a Multi-Epitope vaccine candidate targeting coinfection by Klebsiella pneumoniae and Acinetobacter baumannii.",
+    "journal": "BMC infectious diseases",
+    "abstract": "BACKGROUND: The increasing prevalence of multidrug-resistant (MDR) pathogens in clinical settings underscores the urgent need for effective therapeutic strategies. Among these, ESKAPE pathogens such as Acinetobacter baumannii and Klebsiella pneumoniae are particularly concerning due to their ability to cause severe co-infections with high resistance profiles. METHODS: This study utilized an immunoinformatics-driven approach to design a novel multi-epitope vaccine targeting surface proteins of these pathogens through reverse vaccinology. Computational analyses employed bioinformatics tools, including NetCTLpan 1.1, IEDB T-cell epitope prediction tool, BCPREDS, ExPASy ProtParam, Rosetta, GalaxyRefine, HADDOCK, Disulfide by Design 2, and JCAT. RESULTS: Six cytotoxic T lymphocyte (CTL), six helper T lymphocyte (HTL), and six B-cell epitopes were identified as non-allergenic, non-toxic, and highly antigenic. These epitopes were linked using GPGPG and EAAAK linkers to enhance structural flexibility and immunogenicity. The vaccine's tertiary structure was refined, and the most stable model, selected based on a Z-score of -4.11, was further analysed. Molecular docking revealed strong binding affinities between the vaccine construct and immune receptors, with binding free energies of -13.5 kcal/mol for Toll-like receptor 4 (TLR-4) and - 13.1 kcal/mol for HLA-A*11:01, confirming stable molecular interactions. Molecular dynamics (MD) simulations of the vaccine-TLR4 complex predicted a net binding energy of -508.0 kJ/mol, indicating high stability. Structural stabilization was enhanced by introducing four cysteine residues, forming two disulfide bonds to reduce conformational flexibility. Codon optimization (CAI: 0.58, GC content: 62.5%) indicated efficient expression in E. coli. Immune simulation demonstrated a strong Th1/Th2-skewed immune response, with significant secretion of cytokines IFN-γ, IL-2, and IL-4, supporting its efficacy in bacterial clearance. CONCLUSION: These computational findings highlight the vaccine's potential, though experimental validation remains necessary to confirm immunogenicity and therapeutic viability."
+  },
+  {
+    "pmid": "31203576",
+    "doi": "10.4414/smw.2019.20052",
+    "year": "2019",
+    "first_author": "Ren S et al.",
+    "authors": [
+      "Ren S",
+      "Guan L",
+      "Dong Y",
+      "Wang C",
+      "Feng L",
+      "Xie Y"
+    ],
+    "title": "Design and evaluation of a multi-epitope assembly peptide vaccine against Acinetobacter baumannii infection in mice.",
+    "journal": "Swiss medical weekly",
+    "abstract": "AIM: To design a multi-epitope assembly peptide (MEP) of Acinetobacter baumannii and evaluate its immunogenicity and protective immunity in Balb/c mice. METHODS: The T- and B-cell epitopes of outer membrane proteins FilF and NucAb from A. baumannii were predicted and identified by using bioinformatics software and immunological tests. Peptides with predicted high adhesin probability from A. baumannii Ata protein was used as the backbone, two B-cell epitopes and one CD4+ T-cell epitope from FilF were linked to the N-terminal of the backbone, and two B-cell epitopes and one CD4+ T-cell epitope from NucAb were linked to the C-terminal of the backbone to construct the MEP. The gene of the MEP was expressed in E. coli BL21, and its immunogenicity and protective efficacy were evaluated in Balb/c mice. RESULTS: A recombinant protein with a molecular weight of about 37 kDa was successfully purified, and was identified as the recombinant multi-epitope assembly peptide (rMEP) by Western blot analysis. The animal tests showed that the rMEP was highly immunogenic and could induce high levels of IgG antibody and provide potent protection (88.9%) against lethal doses of A. baumannii. CONCLUSIONS: This is the first report of the design and study of a rMEP vaccine against A. baumannii. The results indicate that the rMEP is a promising vaccine candidate for the control of infections caused by A. baumannii."
+  },
+  {
+    "pmid": "39149030",
+    "doi": "10.1016/j.heliyon.2024.e34690",
+    "year": "2024",
+    "first_author": "Negahdari B et al.",
+    "authors": [
+      "Negahdari B",
+      "Sarkoohi P",
+      "Ghasemi Nezhad F",
+      "Shahbazi B",
+      "Ahmadi K"
+    ],
+    "title": "Design of multi-epitope vaccine candidate based on OmpA, CarO and ZnuD proteins against multi-drug resistant Acinetobacter baumannii.",
+    "journal": "Heliyon",
+    "abstract": "Acinetobacter baumannii has been identified as a major cause of nosocomial infections. Acinetobacter infections are often difficult to treat with multidrug resistant phenotypes. One of the most effective ways to combat infectious diseases is through vaccination. In this study, an attempt was made to select the most protective and potent immunostimulatory epitopes based on the epitope-rich domains of the ZnuD, OmpA and CarO proteins of Acinetobacter baumannii to design a vaccine that can protect against this infection. After predicting the epitope of B- and T-cells, seven antigenic regions of three proteins CarO, ZnuD and OmpA, were selected. These regions were bound by a GGGS linker. The binding affinity and molecular interactions of the vaccine with the immune receptors TLR2 and TLR4 were studied using molecular docking analysis. This vaccine design was subjected to in silico immune simulations using C-ImmSim. The designed vaccine was highly antigenic, non-allergenic and stable. TLR2 and TLR4 were selected to analyze the ability of the modeled chimeric protein to interact with immune system receptors. The results showed strong interaction between the designed protein vaccine with TLR2 (-18.8 kcal mol-1) and TLR4 (-15.1 kcal mol-1). To verify the stability of the interactions and the structure of the designed protein, molecular dynamics (MD) simulations were performed for 200 ns. Various analyses using MD showed that the protein structure is stable alone and in interaction with TLR2 and TLR4. The ability of the vaccine candidate protein to stimulate the immune system to produce the necessary cytokines and antibodies against Acinetobacter baumannii was also demonstrated by the ability of the protein designed using the C-ImmSim web server to induce an immune response. Therefore, the designed protein vaccine may be a suitable candidate for in vivo as well as in vitro studies against Acinetobacter baumannii infections."
+  },
+  {
+    "pmid": "40266138",
+    "doi": "10.3390/vaccines13030236",
+    "year": "2025",
+    "first_author": "Jeffreys S et al.",
+    "authors": [
+      "Jeffreys S",
+      "Aki J",
+      "Tompkins MP",
+      "Prather ND",
+      "Murthy AK",
+      "Chambers JP",
+      "Guentzel MN",
+      "Hung CY",
+      "Arulanandam BP",
+      "Yu JJ"
+    ],
+    "title": "An Immunoinformatics-Based Multi-Peptide Vaccine Provides Antibody-Mediated Protection Against Acinetobacter baumannii Infection.",
+    "journal": "Vaccines",
+    "abstract": "BACKGROUND/OBJECTIVES: Acinetobacter baumannii is an opportunistic nosocomial pathogen characterized by its multidrug-resistant (MDR) phenotype, increasing patient mortality and healthcare costs as a result. Previously, we constructed an immunoinformatics-based Acinetobacter Multi-Epitope Vaccine (AMEV2) candidate and demonstrated robust protection against this MDR pathogen. In this study, we delineate the mechanisms of AMEV2-mediated protective immunity. METHODS: In vivo passive immunization with AMEV2 antisera and in vitro opsonophagocytic killing assays (OPKAs) were used to assess the critical role of antibody-mediated protection induced by AMEV2 vaccination. RESULTS: The passive transfer of AMEV2 immune sera to naïve mice afforded 67% protection in a pulmonary challenge mouse model. Although AMEV2 sera reacts with bacterial antigens, it is not bactericidal on its own and does not enhance the complement-mediated direct killing of A. baumannii. However, OPKAs demonstrate AMEV2 sera enhancement of the killing of A. baumannii in the presence of primary bone marrow-derived macrophages. This killing occurs via complement and Fc gamma receptor-mediated phagocytosis. A highly immunogenic AMEV2 component peptide, pTonB, elicits pTonB-specific antibodies and protection in vivo. The depletion of pTonB antibodies from AMEV2 immune sera by pTonB absorption significantly reduced the opsonophagocytic killing of A. baumannii in vitro. CONCLUSIONS: The data presented here demonstrate the importance of humoral immunity and its protective mechanisms against A. baumannii. These findings further expand the in vivo evaluation of in silico-designed vaccines as a viable alternative to combat the current global MDR pathogen health crisis."
+  },
+  {
+    "pmid": "28230771",
+    "doi": "10.3390/ijms18020458",
+    "year": "2017",
+    "first_author": "Ni Z et al.",
+    "authors": [
+      "Ni Z",
+      "Chen Y",
+      "Ong E",
+      "He Y"
+    ],
+    "title": "Antibiotic Resistance Determinant-Focused Acinetobacter baumannii Vaccine Designed Using Reverse Vaccinology.",
+    "journal": "International journal of molecular sciences",
+    "abstract": "As one of the most influential and troublesome human pathogens, Acinetobacter baumannii (A. baumannii) has emerged with many multidrug-resistant strains. After collecting 33 complete A. baumannii genomes and 84 representative antibiotic resistance determinants, we used the Vaxign reverse vaccinology approach to predict classical type vaccine candidates against A. baumannii infections and new type vaccine candidates against antibiotic resistance. Our genome analysis identified 35 outer membrane or extracellular adhesins that are conserved among all 33 genomes, have no human protein homology, and have less than 2 transmembrane helices. These 35 antigens include 11 TonB dependent receptors, 8 porins, 7 efflux pump proteins, and 2 fimbrial proteins (FilF and CAM87009.1). CAM86003.1 was predicted to be an adhesin outer membrane protein absent from 3 antibiotic-sensitive strains and conserved in 21 antibiotic-resistant strains. Feasible anti-resistance vaccine candidates also include one extracellular protein (QnrA), 3 RND type outer membrane efflux pump proteins, and 3 CTX-M type β-lactamases. Among 39 β-lactamases, A. baumannii CTX-M-2, -5, and -43 enzymes are predicted as adhesins and better vaccine candidates than other β-lactamases to induce preventive immunity and enhance antibiotic treatments. This report represents the first reverse vaccinology study to systematically predict vaccine antigen candidates against antibiotic resistance for a microbial pathogen."
+  },
+  {
+    "pmid": "40616976",
+    "doi": "10.1016/j.jmgm.2025.109120",
+    "year": "2025",
+    "first_author": "González-Cruz M et al.",
+    "authors": [
+      "González-Cruz M",
+      "Reyes-Gastellou A",
+      "Castelán-Vega JA",
+      "Monterrubio-López GP",
+      "Jiménez-Alberto A",
+      "Aparicio-Ozores G",
+      "Ribas-Aparicio RM"
+    ],
+    "title": "In silico development of a broad-spectrum vaccine against ESKAPE pathogens.",
+    "journal": "Journal of molecular graphics & modelling",
+    "abstract": "Antimicrobial-resistant ESKAPE pathogens (Enterococcus faecium, Staphylococcus aureus, Klebsiella pneumoniae, Acinetobacter baumannii, Pseudomonas aeruginosa, and Enterobacter cloacae) have significantly restricted therapeutic alternatives for critical infections, consequently contributing to increase the severity and mortality of infectious illnesses that represent a significant global health challenge. Vaccination as a preventive measure can be crucial in substantially reducing bacterial infections and is potentially effective against antibiotic-resistant bacteria. This study shows the design of an epitope-based vaccine capable of neutralizing shared antigenic determinants present among the ESKAPE pathogens. The pangenome of the ESKAPE pathogens was analyzed to extract the core proteome. This approach facilitated reverse vaccinology analysis to identify antigenic proteins within this bacterial group. The study revealed similar structures in porins OmpA, OprD, and TolC, as well as the collagen-binding adhesins Acm and Cna. These proteins were then utilized to predict T-cell and B-cell epitopes, selecting those with their best physicochemical properties, antigenicity, non-allergenicity, and lack of toxicity. Additionally, epitopes located on the surface of the antigens and capable of coupling with HLA molecules were prioritized. In this computational approach, we engineered a construct incorporating the adjuvant RS09, a TLR4 agonist, and immunogenic epitopes connected by linkers. We assessed the stability of their interaction with pattern recognition receptors of the immune system through molecular docking and molecular dynamics simulations. The in silico immune simulation demonstrated that the vaccine could trigger humoral and cell-mediated immune responses. The resulting construct potentially represents an effective and safe vaccine candidate to prevent infections caused by the ESKAPE group."
+  },
+  {
+    "pmid": "39160492",
+    "doi": "10.1186/s12864-024-10691-7",
+    "year": "2024",
+    "first_author": "Xu Y et al.",
+    "authors": [
+      "Xu Y",
+      "Zhu F",
+      "Zhou Z",
+      "Ma S",
+      "Zhang P",
+      "Tan C",
+      "Luo Y",
+      "Qin R",
+      "Chen J",
+      "Pan P"
+    ],
+    "title": "A novel mRNA multi-epitope vaccine of Acinetobacter baumannii based on multi-target protein design in immunoinformatic approach.",
+    "journal": "BMC genomics",
+    "abstract": "Acinetobacter baumannii is a gram-negative bacillus prevalent in nature, capable of thriving under various environmental conditions. As an opportunistic pathogen, it frequently causes nosocomial infections such as urinary tract infections, bacteremia, and pneumonia, contributing to increased morbidity and mortality in clinical settings. Consequently, developing novel vaccines against Acinetobacter baumannii is of utmost importance. In our study, we identified 10 highly conserved antigenic proteins from the NCBI and UniProt databases for epitope mapping. We subsequently screened and selected 8 CTL, HTL, and LBL epitopes, integrating them into three distinct vaccines constructed with adjuvants. Following comprehensive evaluations of immunological and physicochemical parameters, we conducted molecular docking and molecular dynamics simulations to assess the efficacy and stability of these vaccines. Our findings indicate that all three multi-epitope mRNA vaccines designed against Acinetobacter baumannii are promising; however, further animal studies are required to confirm their reliability and effectiveness."
+  },
+  {
+    "pmid": "39726905",
+    "doi": "10.1007/s40203-024-00292-3",
+    "year": "2025",
+    "first_author": "Sah SN et al.",
+    "authors": [
+      "Sah SN",
+      "Gupta S",
+      "Bhardwaj N",
+      "Gautam LK",
+      "Capalash N",
+      "Sharma P"
+    ],
+    "title": "In silico design and assessment of a multi-epitope peptide vaccine against multidrug-resistant Acinetobacter baumannii.",
+    "journal": "In silico pharmacology",
+    "abstract": "UNLABELLED: Acinetobacter baumannii, an opportunistic and notorious nosocomial pathogen, is responsible for many infections affecting soft tissues, skin, lungs, bloodstream, and urinary tract, accounting for more than 722,000 cases annually. Despite the numerous advancements in therapeutic options, no approved vaccine is currently available for this particular bacterium. Consequently, this study focused on creating a rational vaccine design using bioinformatics tools. Three outer membrane proteins with immunogenic potential and properties of good vaccine candidates were used to select epitopes based on good antigenic properties, non-allergenicity, high binding scores, and a low IC50 value. A multi-epitope peptide (MEP) construct was created by sequentially linking the epitopes using suitable linkers. ClusPro 2.0 and C-ImmSim web servers were used for docking analysis with TLR2/TLR4 and immune response respectively. The Ramachandran plot showed an accurate model of the MEP with 100% residue in the most favored and allowed regions. The construct was highly antigenic, stable, non-allergenic, non-toxic, and soluble, and showed maximum population coverage. Additionally, molecular docking demonstrated strong binding between the designed MEP vaccine and TLR2/TLR4. In silico immunological simulations showed significant increases in T-cell and B-cell populations. Finally, codon optimization and in silico cloning were conducted using the pET-28a (+) plasmid vector to evaluate the efficiency of the expression of vaccine peptide in the host organism (Escherichia coli). This designed MEP vaccine would support and accelerate the laboratory work to develop a potent vaccine targeting MDR Acinetobacter baumannii. SUPPLEMENTARY INFORMATION: The online version contains supplementary material available at 10.1007/s40203-024-00292-3."
+  },
+  {
+    "pmid": "41893811",
+    "doi": "10.3390/vaccines14030275",
+    "year": "2026",
+    "first_author": "Prather ND et al.",
+    "authors": [
+      "Prather ND",
+      "Aki J",
+      "Jeffreys S",
+      "Arulanandam BP",
+      "Hung CY",
+      "Yu JJ"
+    ],
+    "title": "Generation and Evaluation of a Multi-Epitope Vaccine Against Acinetobacter baumannii, a Nosocomial Bacterial Pathogen.",
+    "journal": "Vaccines",
+    "abstract": "BACKGROUND/OBJECTIVES: Multidrug-resistant (MDR) Acinetobacter baumannii (Ab) has emerged as a significant bacterial pathogen responsible for nosocomial infections. The most common clinical manifestations of Ab infection include ventilator-associated pneumonia and catheter-related bloodstream/urinary infections. Given the extensive MDR phenotype of Ab, preventive vaccination strategies are crucial for protecting susceptible populations. METHODS: We utilized immunoinformatics to identify candidate peptides containing both putative B- and T-cell epitopes from proteins associated with Ab pathogenesis. Subsequently, we designed novel Acinetobacter Multi-Epitope Vaccines (AMEVs), each comprising an Ab thioredoxin A (TrxA) leader protein, five to seven of the identified peptide antigens, and a C-terminal His(6x)-tag to facilitate protein purification. RESULTS: Subcutaneous vaccination of C57BL/6 mice with AMEV1 or AMEV2, formulated with TiterMax adjuvant, conferred 60% and 80% protection, respectively, against intraperitoneal Ab challenge. AMEV vaccination induced a robust antibody response to each corresponding whole protein and most of its component peptides. We then constructed an improved vaccine, AMEV5, which included the Ab TrxA protein and seven confirmed B-cell epitope peptides. Subcutaneous immunization of BALB/c mice (n = 10 per group) with rAMEV5 emulsified in Adda03 adjuvant activated antigen-specific IL-5-secreting T cells and antibody-producing B cells. Evaluation of vaccine efficacy demonstrated that AMEV2- and AMEV5-immunized mice were protected from a lethal intraperitoneal Ab challenge, with survival rates of 70% and 90%, respectively. CONCLUSIONS: These study results provide insights into the application of reverse vaccinology to combat the rise of MDR Acinetobacter infection."
+  },
+  {
+    "pmid": "35908655",
+    "doi": "10.1016/j.jim.2022.113325",
+    "year": "2022",
+    "first_author": "Mahapatra SR et al.",
+    "authors": [
+      "Mahapatra SR",
+      "Dey J",
+      "Jaiswal A",
+      "Roy R",
+      "Misra N",
+      "Suar M"
+    ],
+    "title": "Immunoinformatics-guided designing of epitope-based subunit vaccine from Pilus assembly protein of Acinetobacter baumannii bacteria.",
+    "journal": "Journal of immunological methods",
+    "abstract": "Acinetobacter baumannii, a prominent pathogen responsible for chronic infections in the blood, urinary tract, and lungs, has a high mortality due to its virulence and limited preventive methods. The present study aims to characterize the pilus assembly protein of A. baumannii to offer leads for epitope-based vaccine development. FilF is the putative pilus assembly protein that reportedly plays a supreme character in the virulence of this WHO-listed ESKAPE bacterium. Implementing various bioinformatics tools, led to the recognition of many antigenic B and T cell epitopes. Most promising B and T-cell epitopes were selected based on their binding efficiency with commonly occurring MHC alleles. Finally, we stepped down to fourteen protective antigenic peptides. These epitopes were also revealed to be non-allergenic and non-toxic. As a result, a vaccine chimera was created by linking these epitopes with appropriate linkers and adjuvant such as β-defensins. Furthermore, homology modeling and validation were carried out, with the modeled structure being employed for molecular docking with the immunological receptor (TLR-4) found on lymphocyte cells. As a result of the molecular dynamics simulation, the interaction between human TLR-4 and the multi-epitope vaccine sequence was stable. Finally, in silico cloning and immune simulation were carried out to see the efficacy of the construct vaccine. This is the first study targeting the pilus assembly protein from A. baumannii to identify novel epitopes that hold potential for further experimental design of multi-peptide vaccine construct against the pathogen."
+  },
+  {
+    "pmid": "31512768",
+    "doi": "10.1111/apm.12992",
+    "year": "2019",
+    "first_author": "Aghajani Z et al.",
+    "authors": [
+      "Aghajani Z",
+      "Rasooli I",
+      "Mousavi Gargari SL"
+    ],
+    "title": "Exploitation of two siderophore receptors, BauA and BfnH, for protection against Acinetobacter baumannii infection.",
+    "journal": "APMIS : acta pathologica, microbiologica, et immunologica Scandinavica",
+    "abstract": "Iron uptake system is expressed in early stages of Acinetobacter baumannii infections under iron-restricted conditions. This study is aimed at the evaluation of immuno-protectivity of BfnH in comparison with BauA in both mature and selected fragmental proteins. The study was designed in single and combined forms of antigens. BfnH is presented in 3472 strains of A. baumannii with more than 97% identity. The preliminary immune-informatics analysis of this protein indicated a region from the β-barrel domain including exposed loops 2-5, with antigenic score comparable to that of BfnH. There was a significant rise in the specific IgG response in all test groups. The bacterial challenge with a lethal dose of A. baumannii demonstrated partial protection of whole proteins which coincides with a significant reduction in the bacterial population colonized in the main organs and an increase in the survival level. Passive immunization of the mice brought about 50% survival in the mice groups immunized with BfnH and with a combination of BfnH and BauA. The protectivity of siderophore receptors suggests their potential immunogenic role that could be considered as a component of multivalent subunit vaccine candidates against A. baumannii."
+  },
+  {
+    "pmid": "32145321",
+    "doi": "10.1016/j.micpath.2020.104114",
+    "year": "2020",
+    "first_author": "Fereshteh S et al.",
+    "authors": [
+      "Fereshteh S",
+      "Abdoli S",
+      "Shahcheraghi F",
+      "Ajdary S",
+      "Nazari M",
+      "Badmasti F"
+    ],
+    "title": "New putative vaccine candidates against Acinetobacter baumannii using the reverse vaccinology method.",
+    "journal": "Microbial pathogenesis",
+    "abstract": "Infections caused by multi-drug resistance Acinetobacter baumannii are increasing worldwide. Discovery of the vaccine against this bacterium as a cost-effective and preventive strategy seems necessary. This study has introduced 11 new putative vaccine candidates against A. baumannii using the reverse vaccinology method. We considered 33 genomes of A. baumannii strains and selected the outer membrane and secreted proteins as putative vaccine candidates using Vaxign web tool. Finally, 11 proteins were confirmed as promising vaccine candidates. These targets belonged to proteins involved in cell division (NlpD), fimbria or pili assembly (FimA, PapC, and PapC associated with usher system), iron acquisition (FhuA, BfnH, FatA-like protein, and IutA), DcaP-like protein and two novel hypothetical proteins (HP-1 and HP-2). The analysis of linear and conformational B-cell epitopes showed that the outer membrane proteins including DcaP-like protein and HP-2 had high conserved surface-exposed epitopes that they can consider as excellent putative vaccine targets in the upcoming immunological assays."
+  },
+  {
+    "pmid": "37211625",
+    "doi": "10.1080/1040841X.2023.2215303",
+    "year": "2024",
+    "first_author": "Lau YT et al.",
+    "authors": [
+      "Lau YT",
+      "Tan HS"
+    ],
+    "title": "Acinetobacter baumannii subunit vaccines: recent progress and challenges.",
+    "journal": "Critical reviews in microbiology",
+    "abstract": "Acinetobacter baumannii is a Gram-negative, opportunistic pathogen that causes nosocomial infection with a high mortality rate in immunocompromised individuals. With the frequent emergence of multidrug-resistant A. baumannii strains that have rapidly gained resistance to most antibiotics, an extensive search for an effective A. baumannii vaccine is ongoing. Over the decade, many subunit vaccine candidates were identified using reverse vaccinology and in vivo animal studies for validation. Nineteen subunit vaccine candidates with a wide range of efficacy, from 14% to 100% preclinical survival rates, were included in this review. This article provides an updated review of several outer membrane proteins (Omp) that emerged as vaccine candidates with great potential, including OmpA, Omp34, Omp22 and BamA, based on their high conservancy, antigenicity, and immune protection against A. baumannii infection. However, there is still no licenced A. baumannii vaccine currently due to several practical issues that have yet to be resolved, such as inconsistencies between validation studies, antigen variability and insolubility. Moving forward, much investigation and innovation are still required to tackle these challenges for the regulatory approval of an A. baumannii subunit vaccine, including standardisation of immunisation study parameters, improving antigen solubility and the incorporation of nucleic acid vaccine technology."
+  },
+  {
+    "pmid": "40063635",
+    "doi": "10.1371/journal.pone.0319191",
+    "year": "2025",
+    "first_author": "Beig M et al.",
+    "authors": [
+      "Beig M",
+      "Sholeh M",
+      "Moradkasani S",
+      "Shahbazi B",
+      "Badmasti F"
+    ],
+    "title": "Development of a multi-epitope vaccine against Acinetobacter baumannii: A comprehensive approach to combating antimicrobial resistance.",
+    "journal": "PloS one",
+    "abstract": "BACKGROUND: The World Health Organization has categorized Acinetobacter baumannii (A. baumannii) as a critical priority pathogen due to its high antibiotic resistance. This resistance complicates treatment and underscores the urgent need for new antibiotics and strategies. This study developed a multi-epitope vaccine (MEV) to address this significant public health threat. METHODS: This study employed a computational approach to design MEV targeting A. baumannii strain VB7036. Surface-exposed proteins were identified using PSORTb and TMHMM, followed by antigenicity and allergenicity predictions using VaxiJen and AlgPred. Linear B-cell epitopes and MHC-II binding sites were predicted using BepiPred and TepiTool, while physicochemical properties were analyzed with ExPASy ProtParam and Protein-Sol. The MEV construct was validated through molecular docking with TLR2 and TLR4 using HDOCK, revealing strong binding interactions. Molecular dynamic simulations confirmed the stability of the vaccine-receptor complexes, while PCA analysis indicated minimal conformational transitions. Immune simulations were conducted using C-ImmSim online software. RESULTS: This study identified eight OMPs from A. baumannii strain VB7036 as potential immunogenic targets. MEV was designed using five critical B-cell epitopes from four proteins based on their antigenicity, non-allergenicity, and physicochemical properties. This MEV demonstrated strong binding to TLR2 and TLR4, indicating effective immune activation. Molecular dynamics simulations confirmed the structural stability of the MEV-TLR complexes. In silico immune simulations revealed that the MEV induced robust humoral and cell-mediated immune responses, including increased antibody production, T-cell activation, and cytokine release, suggesting the MEV's potential as an effective vaccine candidate for A. baumannii. CONCLUSION: This study developed an optimized MEV and identified novel drug targets against A. baumannii, providing broad protection against multidrug-resistant A. baumannii strains. MEV demonstrated significant potential due to its favorable physicochemical properties, as confirmed by molecular docking and dynamic simulations. However, more in vitro and in vivo studies are required to verify the drug's effectiveness."
+  },
+  {
+    "pmid": "39789105",
+    "doi": "10.1038/s41598-024-84823-0",
+    "year": "2025",
+    "first_author": "Ma S et al.",
+    "authors": [
+      "Ma S",
+      "Zhu F",
+      "Zhang P",
+      "Xu Y",
+      "Zhou Z",
+      "Yang H",
+      "Tan C",
+      "Chen J",
+      "Pan P"
+    ],
+    "title": "Development of a novel multi-epitope subunit mRNA vaccine candidate to combat Acinetobacter baumannii.",
+    "journal": "Scientific reports",
+    "abstract": "Acinetobacter baumannii, an opportunistic bacterium prevalent in various environment, is a significant cause of nosocomial infections in ICUs. As the causative agent of pneumonia, septicemia, and meningitis, A. baumannii typically exhibits multidrug resistance and is associated with poor prognosis, thus led to a challenge for researchers in developing new treatment and prevention methods. This study involved the development of a novel multi-epitope mRNA vaccine for A. baumannii and validation of in silico approaches was conducted. We screened 11 immunodominant epitopes for cytotoxic T cells, 5 for helper T cells, and 10 for Linear B-cell based on promising candidate proteins omp33-36, ompA and ompW, the selection of these three proteins is based on reverse vaccinology screening and previous work by other researchers. All predicted epitopes demonstrated strong antigenicity, immunogenicity without posing any potential harm to humans. Additionally, high conservancy is required to cover different strains. All epitopes, as well as adjuvants, were constructed into a final vaccine, which was further assessed by calculating its physicochemical properties. Next, we docked the vaccine protein with immune receptors and analyzed the complexes with dynamic simulations to evaluate its affinity to receptors. At last, the constructed sequence is translated to an mRNA sequence. The results indicated the constructed vaccine is capability of eliciting robust humoral and cellular immune responses, making it a promising candidate for protection against the targeted pathogen."
+  },
+  {
+    "pmid": "37017535",
+    "doi": "10.1128/iai.00023-23",
+    "year": "2023",
+    "first_author": "Solanki V et al.",
+    "authors": [
+      "Solanki V",
+      "Tiwari M",
+      "Tiwari V"
+    ],
+    "title": "Investigation of Peptidoglycan-Associated Lipoprotein of Acinetobacter baumannii and Its Interaction with Fibronectin To Find Its Therapeutic Potential.",
+    "journal": "Infection and immunity",
+    "abstract": "Acinetobacter baumannii causes hospital-acquired infections and is responsible for high mortality and morbidity. The interaction of this bacterium with the host is critical in bacterial pathogenesis and infection. Here, we report the interaction of peptidoglycan-associated lipoprotein (PAL) of A. baumannii with host fibronectin (FN) to find its therapeutic potential. The proteome of A. baumannii was explored in the host-pathogen interaction database to filter out the PAL of the bacterial outer membrane that interacts with the host's FN protein. This interaction was confirmed experimentally using purified recombinant PAL and pure FN protein. To investigate the pleiotropic role of PAL protein, different biochemical assays using wild-type PAL and PAL mutants were performed. The result showed that PAL mediates bacterial pathogenesis, adherence, and invasion in host pulmonary epithelial cells and has a role in the biofilm formation, bacterial motility, and membrane integrity of bacteria. All of the results suggest that PAL's interaction with FN plays a vital role in host-cell interaction. In addition, the PAL protein also interacts with Toll-like receptor 2 and MARCO receptor, which suggests the role of PAL protein in innate immune responses. We have also investigated the therapeutic potential of this protein for vaccine and therapeutic design. Using reverse vaccinology, PAL's potential epitopes were filtered out that exhibit binding potential with host major histocompatibility complex class I (MHC-I), MHC-II, and B cells, suggesting that PAL protein is a potential vaccine target. The immune simulation showed that PAL protein could elevate innate and adaptive immune response with the generation of memory cells and would have subsequent potential to eliminate bacterial infection. Therefore, the present study highlights the interaction ability of a novel host-pathogen interacting partner (PAL-FN) and uncovers its therapeutic potential to combat infection caused by A. baumannii."
+  },
+  {
+    "pmid": "42798310",
+    "doi": "10.3389/fcimb.2026.1922186",
+    "year": "2026",
+    "first_author": "Li S et al.",
+    "authors": [
+      "Li S",
+      "Ju X",
+      "Zhu X",
+      "Fei F",
+      "Jin X",
+      "Du X",
+      "Shi Y"
+    ],
+    "title": "Data-driven Atlas of Acinetobacter baumannii vaccine research: a multi-database bibliometric and visualization analysis.",
+    "journal": "Frontiers in cellular and infection microbiology",
+    "abstract": "INTRODUCTION: Acinetobacter baumannii is a major multidrug-resistant pathogen for which effective preventive strategies are urgently needed. This study aimed to characterize the global research landscape, knowledge structure, and emerging trends in Acinetobacter baumannii vaccine research. METHODS: Publications from 2011 to 2025 were retrieved from the Web of Science Core Collection and Scopus. After integration, deduplication, and independent screening, 243 publications were included. Bibliometric and visualization analyses were performed using bibliometrix, CiteSpace, and VOSviewer. RESULTS: Research output showed an overall nonlinear increase, with an annual growth rate of 18.68%. Iran, China, and the United States were the leading contributors, whereas international collaboration accounted for 19.75% of publications. Keyword analysis identified seven major thematic clusters centered on outer membrane vesicles, bacterial antigens, antimicrobial resistance, computational approaches, and immunization strategies. Temporal analyses showed increasing attention to bioinformatics, reverse vaccinology, peptide/epitope-based design, and virulence-associated targets. Citation analysis further highlighted OMV/OMC-based vaccination and several defined antigens as important components of the field's intellectual foundation. DISCUSSION: Overall, Acinetobacter baumannii vaccine research has progressively diversified toward increasingly defined, multicomponent, and computationally guided strategies. However, antigenic heterogeneity, limited cross-strain validation, and variability in preclinical evaluation remain major translational challenges. Future efforts should emphasize conserved antigen prioritization, standardized validation, and broader international collaboration to advance promising candidates toward clinical application."
+  },
+  {
+    "pmid": "39772848",
+    "doi": "10.1128/iai.00348-24",
+    "year": "2025",
+    "first_author": "Pereira IL et al.",
+    "authors": [
+      "Pereira IL",
+      "Hartwig DD"
+    ],
+    "title": "Unveiling the role of adhesin proteins in controlling Acinetobacter baumannii infections: a systematic review.",
+    "journal": "Infection and immunity",
+    "abstract": "Combating multidrug-resistant Acinetobacter baumannii is considered a priority by the World Health Organization. Virulence mechanisms, such as biofilm formation, multidrug resistance, and high adherence to both biotic and abiotic surfaces, underscore the urgency of exploring approaches to control this pathogen. The search for new antibiotic compounds and alternative strategies like immunotherapies and vaccination offers potential solutions to address this pressing health concern. In this context, adhesins play a crucial role in the pathogenicity and virulence of A. baumannii, making them potential targets for therapeutic interventions. To address this, we conducted a systematic review of A. baumannii adhesin research from the last decade (2013-2023). We reviewed 24 papers: 6 utilizing reverse vaccinology bioinformatic tools to predict adhesin targets for vaccine construction, 17 employing DNA recombinant techniques for in vivo active and passive immunization or in vitro antibody-mediated therapy assays, and 1 paper exploring the impact of pyrogallol therapy on A. baumannii virulence mechanisms. Our review identified over 20 potential targets with significant findings. We screened and summarized these targets to aid in further exploration of therapies and prevention."
+  },
+  {
+    "pmid": "34873398",
+    "doi": "10.1007/s10989-021-10316-7",
+    "year": "2022",
+    "first_author": "Khalid K et al.",
+    "authors": [
+      "Khalid K",
+      "Irum S",
+      "Ullah SR",
+      "Andleeb S"
+    ],
+    "title": "In-Silico Vaccine Design Based on a Novel Vaccine Candidate Against Infections Caused by Acinetobacter baumannii.",
+    "journal": "International journal of peptide research and therapeutics",
+    "abstract": "UNLABELLED: Acinetobacter baumannii is notorious for causing serious infections of the skin, lungs, soft tissues, bloodstream, and urinary tract. Despite the overwhelming information available so far, there has still been no approved vaccine in the market to prevent these infections. Therefore, this study focuses on developing a rational vaccine design using the technique of epitope mapping to curb the infections caused by A. baumannii. An outer membrane protein with immunogenic potential as well as all the properties of a good vaccine candidate was selected and used to calculate epitopes for selection on the basis of a low percentile rank, high binding scores, good immunological properties, and non-allergenicity. Thus, a 240 amino-acid vaccine sequence was obtained by manually joining all the epitopes in sequence-wise manner with the appropriate linkers, namely AAY, GPGPG, and EAAAK. Additionally, a 50S ribosomal protein L7/L12, agonist to the human innate immune receptors was attached to the N-terminus to increase the overall immune response towards the vaccine. As a result, enhanced overall protein stability, expression, immunostimulatory capabilities, and solubility of the designed construct were observed. Molecular dynamic simulations revealed the compactness and stability of the polypeptide construct. Moreover, molecular docking exhibited strong binding of the designed vaccine with TLR-4 and TLR-9. In-silico immune simulations indicated an immense increment in T-cell and B-cell populations. Bioinformatic tools also significantly assisted with optimizing codons which allowed for successful cloning of constructs into desired host vectors. Using in-silico tools to design a vaccine against A. baumannii demonstrated that this construct could pave the way for successfully combating infections caused by multidrug-resistant bacteria. SUPPLEMENTARY INFORMATION: The online version contains supplementary material available at 10.1007/s10989-021-10316-7."
+  },
+  {
+    "pmid": "31281799",
+    "doi": "10.3389/fcimb.2019.00203",
+    "year": "2019",
+    "first_author": "Mujawar S et al.",
+    "authors": [
+      "Mujawar S",
+      "Mishra R",
+      "Pawar S",
+      "Gatherer D",
+      "Lahiri C"
+    ],
+    "title": "Delineating the Plausible Molecular Vaccine Candidates and Drug Targets of Multidrug-Resistant Acinetobacter baumannii.",
+    "journal": "Frontiers in cellular and infection microbiology",
+    "abstract": "Nosocomial infections have become alarming with the increase of multidrug-resistant bacterial strains of Acinetobacter baumannii. Being the causative agent in ~80% of the cases, these pathogenic gram-negative species could be deadly for hospitalized patients, especially in intensive care units utilizing ventilators, urinary catheters, and nasogastric tubes. Primarily infecting an immuno-compromised system, they are resistant to most antibiotics and are the root cause of various types of opportunistic infections including but not limited to septicemia, endocarditis, meningitis, pneumonia, skin, and wound sepsis and even urinary tract infections. Conventional experimental methods including typing, computational methods encompassing comparative genomics, and combined methods of reverse vaccinology and proteomics had been proposed to differentiate and develop vaccines and/or drugs for several outbreak strains. However, identifying proteins suitable enough to be posed as drug targets and/or molecular vaccines against the multidrug-resistant pathogenic bacterial strains has probably remained an open issue to address. In these cases of novel protein identification, the targets either are uncharacterized or have been unable to confer the most coveted protection either in the form of molecular vaccine candidates or as drug targets. Here, we report a strategic approach with the 3,766 proteins from the whole genome of A. baumannii ATCC19606 (AB) to rationally identify plausible candidates and propose them as future molecular vaccine candidates and/or drug targets. Essentially, we started with mapping the vaccine candidates (VaC) and virulence factors (ViF) of A. baumannii strain AYE onto strain ATCC19606 to identify them in the latter. We move on to build small networks of VaC and ViF to conceptualize their position in the network space of the whole genomic protein interactome (GPIN) and rationalize their candidature for drugs and/or molecular vaccines. To this end, we propose new sets of known proteins unearthed from interactome built using key factors, KeF, potent enough to compete with VaC and ViF. Our method is the first of its kind to propose, albeit theoretically, a rational approach to identify crucial proteins and pose them for candidates of vaccines and/or drugs effective enough to combat the deadly pathogenic threats of A. baumannii."
+  },
+  {
+    "pmid": "37980458",
+    "doi": "10.1186/s12865-023-00585-w",
+    "year": "2023",
+    "first_author": "Tabibpour NS et al.",
+    "authors": [
+      "Tabibpour NS",
+      "Doosti A",
+      "Sharifzadeh A"
+    ],
+    "title": "Putative novel outer membrane antigens multi-epitope DNA vaccine candidates identified by Immunoinformatic approaches to control Acinetobacter baumannii.",
+    "journal": "BMC immunology",
+    "abstract": "Multi-epitope polypeptide vaccines, a fusion protein, often have a string-of-beads system composed of various specific peptide epitopes, potential adjuvants, and linkers. When choosing the sequence of various segments and linkers, many alternatives are available. These variables can influence the vaccine's effectiveness through their effects on physicochemical properties and polypeptide tertiary structure.The most conserved antigens were discovered using BLASTn. To forecast the proteins' subcellular distribution, PSORTb 3.0.2 was used. Vaxign was used for the preliminary screening and antigenicity assessment. Protein solubility was also predicted using the ccSOL omics. Using PRED-TMBB, it was anticipated that the protein would localize across membranes. The IEDB and BepiPred-2.0 databases were used to predict the immunogenicity of B cell epitopes. A multi-epitope construct was developed and analyzed to evaluate. Twenty epitopes from A. baumannii's outer membrane protein (omp) were included in the vaccination. TLR4 agonist explosibility was investigated. The physicochemical characteristics, secondary and tertiary structures, and B-cell epitopes of vaccine constructs were assessed. Additionally, docking and MD experiments were used to examine the relationship between TLR4 and its agonist.Thirteen antigens were discovered, and eight of the 13 chosen proteins were predicted to be surface proteins. The 34 kDa outer membrane protein, Omp38, Omp W, CarO, putative porin, OmpA, were chosen as having the right antigenicity (≥0.5). FhuE and CdiA were eliminated from further study because of their low antigenicity. The vaccine design was developed by combining the most effective 10 B-cell and 10 MHC-I/MHCII combined coverage epitopes. The molecular formula of the vaccine was determined to be C1718H2615N507O630S17. The vaccine form has a molecular weight of 40,996.70 Da and 47 negatively charged residues (Asp + Glu), whereas 28 positively charged residues (Arg + Lys). The estimated half-life was 7.2 hours (mammalian reticulocytes, in vitro), > 20 hours (yeast, in vivo) and > 10 hours (Escherichia coli, in vivo) for the vaccine. The multi-epitope vaccine insertion is carried via the expression vector pcDNA3.1 (+).The multi-epitope vaccine may stimulate humoral and cellular immune responses, according to our findings, and it may be a candidate for an A. baumannii vaccine."
+  },
+  {
+    "pmid": "25751377",
+    "doi": "10.1080/21645515.2015.1010910",
+    "year": "2015",
+    "first_author": "Chiang MH et al.",
+    "authors": [
+      "Chiang MH",
+      "Sung WC",
+      "Lien SP",
+      "Chen YZ",
+      "Lo AF",
+      "Huang JH",
+      "Kuo SC",
+      "Chong P"
+    ],
+    "title": "Identification of novel vaccine candidates against Acinetobacter baumannii using reverse vaccinology.",
+    "journal": "Human vaccines & immunotherapeutics",
+    "abstract": "Acinetobacter baumannii (Ab) is a global emerging bacterium causing nosocomial infections such as pneumonia, meningitis, bacteremia and soft tissue infections especially in intensive care units. Since Ab is resistant to almost all conventional antibiotics, it is now one of the 6 top-priorities of the dangerous microorganisms listed by the Infectious Disease Society of America. The development of vaccine is one of the most promising and cost-effective strategies to prevent infections. In this study, we identified potential protective vaccine candidates using reverse vaccinology. We have analyzed 14 on-line available Ab genome sequences and found 2752 homologous core genes. Using information obtained from immuno-proteomic experiments, published proteomic information and the bioinformatics PSORTb v3.0 software to predict the location of extracellular and/or outer membrane proteins, 77 genes were identified and selected for further studies. After excluding those antigens have been used as vaccine candidates reported by the in silico search-engines of PubMed and Google Scholar, 13 proteins could potentially be vaccine candidates. We have selected and cloned the genes of 3 antigens that were further expressed and purified. These antigens were found to be highly immunogenic and conferred partial protection (60%) in a pneumonia animal model. The strategy described in the present study incorporates the advantages of reverse vaccinology, bioinformatics and immuno-proteomic platform technologies and is easy to perform to identify novel immunogens for multi-component vaccines development."
+  },
+  {
+    "pmid": "36060914",
+    "doi": "10.5812/ijpr-126559",
+    "year": "2022",
+    "first_author": "Fereshteh S et al.",
+    "authors": [
+      "Fereshteh S",
+      "Noori Goodarzi N",
+      "Sepehr A",
+      "Shafiei M",
+      "Ajdary S",
+      "Badmasti F"
+    ],
+    "title": "In Silico Analyses of Extracellular Proteins of Acinetobacter baumannii as Immunogenic Candidates.",
+    "journal": "Iranian journal of pharmaceutical research : IJPR",
+    "abstract": "BACKGROUND: Acinetobacter baumannii is an important nosocomial pathogen causing high morbidity and mortality in immunocompromised patients with prolonged hospitalization. Multidrug-resistant A. baumannii infections are on the rise worldwide. Therefore, the discovery of an effective vaccine against this bacterium seems necessary as a cost-effective and preventive strategy. METHODS: In this present study, 35 genomes of A. baumannii strains were considered, and the extracellular proteins were selected, maximally having one transmembrane helix with high adhesion probability and no similarity to host proteins, as immunogenic candidates using the web tool Vaxign. Subsequently, the role of these selected proteins in bacterial pathogenesis was investigated using VICMpred. Then, the major histocompatibility complex class II, linear B-cell epitopes, and conservation of epitopes were identified using the Immune Epitope Database, BepiPred, and Epitope Conservancy Analysis, respectively. Finally, the B-cell discontinuous epitopes of each protein were predicted using ElliPro and plotted on the three-dimensional structure (3D) of the proteins. The role of the unknown proteins was predicted using the STRING database. RESULTS: In this study, eight acceptable immunogenic candidates, including FilF, FimA, putative acid phosphatase, putative exported protein, subtilisin-like serine protease, and three uncharacterized proteins, were identified in A. baumannii. CONCLUSIONS: The results of the STRING database showed that these three uncharacterized proteins play a role in nutrition (heme utilization), peptide bond cleavage (serine peptidases), and cellular processes (MlaD protein). Extracellular proteins might play a catalyst role in the outer membrane protein-based vaccine of A. baumannii. Furthermore, this study proposed a list of potent immunogenic candidates of extracellular proteins."
+  },
+  {
+    "pmid": "34793968",
+    "doi": "10.1016/j.meegid.2021.105138",
+    "year": "2021",
+    "first_author": "Beiranvand S et al.",
+    "authors": [
+      "Beiranvand S",
+      "Doosti A",
+      "Mirzaei SA"
+    ],
+    "title": "Putative novel B-cell vaccine candidates identified by reverse vaccinology and genomics approaches to control Acinetobacter baumannii serotypes.",
+    "journal": "Infection, genetics and evolution : journal of molecular epidemiology and evolutionary genetics in infectious diseases",
+    "abstract": "In the last decade, Multi-drug resistance (MDR)-associated infections of Acinetobacter baumannii have grown worldwide. A cost-effective preventative strategy against this bacterium is vaccination. This study has presented five novel vaccine candidates against A. baumannii produced using the reverse vaccinology method. BLASTn was done to identify the most conserved antigens. PSORTb 3.0.2 was run to predict the subcellular localization of the proteins. The initial screening and antigenicity evaluation were performed using Vaxign. The ccSOL omics was also employed to predict protein solubility. The cross-membrane localization of the protein was predicted using PRED-TMBB. B cell epitope prediction was made for immunogenicity using the IEDB and BepiPred-2.0 database. Eventually, BLASTp was done to verify the extent of similarity to the human proteome to exclude the possibility of autoimmunity. Proteins failing to comply with the set parameters were filtered at each step. In silico, potential vaccines against 21 A. baumannii strains were identified using reverse vaccinology and subtractive genomic techniques. Based on the above criteria, out of the initial 15 A. baumannii proteins selected for screening, nine exposed/secreted/membrane proteins, i.e., Pfsr, LptE, OmpH, CarO, CsuB, CdiB, MlaA, FhuE, and were the most promising candidates. Their solubility and antigenicity were also examined and found to be more than 0.45 and 0.6, respectively. Based on the results, LptE was selected with the highest average antigenic score of 1.043 as the best protein, followed by FimF and Pfsr with scores of 1.022 and 1.014, respectively. In the end, five proteins were verified as promising candidates. Overall, the targets identified herein may be utilized in future strategies to control A. baumannii worldwide."
+  },
+  {
+    "pmid": "27634541",
+    "doi": "10.1186/s12864-016-2951-4",
+    "year": "2016",
+    "first_author": "Hassan A et al.",
+    "authors": [
+      "Hassan A",
+      "Naz A",
+      "Obaid A",
+      "Paracha RZ",
+      "Naz K",
+      "Awan FM",
+      "Muhmmad SA",
+      "Janjua HA",
+      "Ahmad J",
+      "Ali A"
+    ],
+    "title": "Pangenome and immuno-proteomics analysis of Acinetobacter baumannii strains revealed the core peptide vaccine targets.",
+    "journal": "BMC genomics",
+    "abstract": "BACKGROUND: Acinetobacter baumannii has emerged as a significant nosocomial pathogen during the last few years, exhibiting resistance to almost all major classes of antibiotics. Alternative treatment options such as vaccines tend to be most promising and cost effective approaches against this resistant pathogen. In the current study, we have explored the pan-genome of A. baumannii followed by immune-proteomics and reverse vaccinology approaches to identify potential core vaccine targets. RESULTS: The pan-genome of all available A. baumannii strains (30 complete genomes) is estimated to contain 7,606 gene families and the core genome consists of 2,445 gene families (~32 % of the pan-genome). Phylogenetic tree, comparative genomic and proteomic analysis revealed both intra- and inter genomic similarities and evolutionary relationships. Among the conserved core genome, thirteen proteins, including P pilus assembly protein, pili assembly chaperone, AdeK, PonA, OmpA, general secretion pathway protein D, FhuE receptor, Type VI secretion system OmpA/MotB, TonB dependent siderophore receptor, general secretion pathway protein D, outer membrane protein, peptidoglycan associated lipoprotein and peptidyl-prolyl cis-trans isomerase are identified as highly antigenic. Epitope mapping of the target proteins revealed the presence of antigenic surface exposed 9-mer T-cell epitopes. Protein-protein interaction and functional annotation have shown their involvement in significant biological and molecular processes. The pipeline is validated by predicting already known immunogenic targets against Gram negative pathogen Helicobacter pylori as a positive control. CONCLUSION: The study, based upon combinatorial approach of pan-genomics, core genomics, proteomics and reverse vaccinology led us to find out potential vaccine candidates against A. baumannii. The comprehensive analysis of all the completely sequenced genomes revealed thirteen putative antigens which could elicit substantial immune response. The integration of computational vaccinology strategies would facilitate in tackling the rapid dissemination of resistant A.baumannii strains. The scarcity of effective antibiotics and the global expansion of sequencing data making this approach desirable in the development of effective vaccines against A. baumannii and other bacterial pathogens."
+  },
+  {
+    "pmid": "41611748",
+    "doi": "10.1038/s41598-025-32476-y",
+    "year": "2026",
+    "first_author": "Rahbar MR et al.",
+    "authors": [
+      "Rahbar MR",
+      "Moslemi R",
+      "Dorosti H",
+      "Zarei M",
+      "Morowvat MH"
+    ],
+    "title": "Harnessing epitope reciprocity and multimeric epitope density for a novel multiepitope vaccine design against Acinetobacter baumannii.",
+    "journal": "Scientific reports",
+    "abstract": "Acinetobacter baumannii, a notorious nosocomial pathogen, presents a global health challenge due to its high antibiotic resistance and ability to cause various infections. Vaccine development against this pathogen is a pressing need, yet traditional methods have encountered limitations due to the immunogenic complexity and potential autoimmune risks associated with key antigenic components. In this study, we leveraged the reverse vaccinology approach, integrating epitope mapping, immunoinformatics, and structural modeling to design a novel multiepitope vaccine. Our methodology emphasizes the concept of epitope reciprocity, wherein B-cell and T-cell epitopes are co-localized to promote cross-epitope interactions, enhancing immunogenicity and immune response synergy. Additionally, utilizing a trimeric construct, we achieved a threefold increase in epitope density, further amplifying the immune activation potential. Key antigenic proteins implicated in the pathogenicity of A. baumannii were screened, excluding components like OmpA, which is known to induce autoimmune responses. After rigorous silico analyses, including structural validation and molecular docking, the final construct demonstrated promising interaction with Toll-like receptor 1 (TLR-1), suggesting efficient immune recognition. This multiepitope design, grounded in the principles of epitope reciprocity and enhanced by multimeric epitope density, offers a promising platform for developing a safe and effective vaccine against A. baumannii. Further experimental validation is warranted to assess its in vivo efficacy and safety."
+  },
+  {
+    "pmid": "35670904",
+    "doi": "10.1007/s12010-022-03995-5",
+    "year": "2022",
+    "first_author": "Piri-Gharaghie T et al.",
+    "authors": [
+      "Piri-Gharaghie T",
+      "Doosti A",
+      "Mirzaei SA"
+    ],
+    "title": "Identification of Antigenic Properties of Acinetobacter baumannii Proteins as Novel Putative Vaccine Candidates Using Reverse Vaccinology Approach.",
+    "journal": "Applied biochemistry and biotechnology",
+    "abstract": "Multidrug-resistant Acinetobacter baumannii (A. baumannii) infections are becoming more prevalent all over the world. As a cost-effective and preventative method, vaccination seems to be required against this bacterium. In the present study, subtractive proteomics along with reverse vaccinology approaches was used to predict suitable therapeutics against A. baumannii. Using the Vaxign online tool, we studied over 35 genomes of A. baumannii strains and chose outer membrane and secreted proteins of A. baumannii 1656-2 as possible vaccine candidates. Then, investigations were performed on the immunogenicity, antigenic characteristics, physicochemical properties, B-cell and MHC class I, and MHC class II molecules epitope densities of proteins. After optimizing the codon of the proteins, the pcDNA3.1( +) expression construct was designed and the immunogenicity, allergenicity, and physicochemical properties of the vaccine construct were predicted. Hcp and OmpC proteins were predicted as extracellular and outer membrane proteins, respectively. These proteins interact with 10 other proteins to form a network of protein interactions with virulence properties. Immunoassays of Hcp and OmpC proteins showed antigenicity of 0.88 and 0.79, respectively. These proteins have 5 structural cell epitope points and 5 linear B epitope points. They are also able to bind to different HLA alleles of MCH class I/class II as selected immunogenic proteins and designed non-allergenic structures with solubility of 0.650 and immunogenicity score of 0.91. The results of this \"in silico\" study indicate high specificity and the development of a significant humoral and cellular immune response. It can be concluded that the Hcp and OmpC dual vaccine construct is one of the promising candidates against A. baumannii. The findings of this \"in silico\" study show excellent specificity and the emergence of a substantial humoral and cellular immune response. This is a computer-based study that needs to be tested in vitro and in vivo to corroborate the conclusions of the vaccine design procedures."
+  },
+  {
+    "pmid": "41932930",
+    "doi": "10.1038/s41598-025-30795-8",
+    "year": "2026",
+    "first_author": "Khadka S et al.",
+    "authors": [
+      "Khadka S",
+      "Khan MA",
+      "Iqbal S",
+      "Ullah A",
+      "Ahmad A",
+      "Khan NZ",
+      "Khattak A"
+    ],
+    "title": "In silico design of a multiepitope vaccine against antibiotic drug-resistant Acinetobacter baumannii.",
+    "journal": "Scientific reports",
+    "abstract": "Acinetobacter baumannii, a member of the ESKAPE pathogens, causes approximately 722,000 infections annually and is notorious for rapidly developing resistance to multiple antibiotics, resulting in poor clinical outcomes. Due to the rapid emergence of drug-resistant strains and limited effective treatments, the World Health Organization has listed A. baumannii as a top-priority pathogen for vaccine development, highlighting the urgent need for novel therapeutic strategies. In this study, we employed an in silico approach to design a multiepitope vaccine (MEV) targeting multidrug-resistant strains by analyzing RNA-seq data from meropenem-resistant isolates. The vaccine non-toxicity, probably antigenic, and non-allergenic nature was predicated via ToxinPred, VaxiJen v2.0, and AllerTOP v2.0 tools. CTL and HTL epitope prediction was carried out using NetMHCpan and NetMHCIIpan respectively. PEP-FOLD3.5 server predicted T-cell epitopes 3D structure. Molecular docking of the modeled epitopes into the MHC binding grooves was performed using the HADDOCK 2.4 web server for strong binding interactions. MD simulations were carried out using GROMACS version 2021.4 for the MEV stability and PCA was performed to identify dominant conformational states during the simulation. C-ImmSim server was used for the simulation of immune response. RNA-seq analysis from meropenem resistant A. baumannii strains, we identified 1,240 significantly upregulated genes linked to resistance mechanisms. From 156 non-homologous proteins, 12 highly conserved, non-allergenic antigenic proteins were selected to predict 12 CTL and 7 HTL epitopes with strong HLA-binding affinity and immunogenic potential. Molecular docking and dynamics simulations confirmed stable epitope-MHC interactions and structural stability of the 335-amino-acid MEV construct, while immune simulations indicated robust activation of innate and adaptive responses. This in silico study lays a promising foundation for vaccine development against A. baumannii and provides a critical step toward future in vitro and in vivo validation."
+  },
+  {
+    "pmid": "40726064",
+    "doi": "10.1002/eji.70019",
+    "year": "2025",
+    "first_author": "Zhu C et al.",
+    "authors": [
+      "Zhu C",
+      "Liang S",
+      "Yang N",
+      "Li S",
+      "Xue J",
+      "Zhou R",
+      "Hong X",
+      "Chen S",
+      "Gao N",
+      "Du Q",
+      "Huang J",
+      "Feng G",
+      "Du X"
+    ],
+    "title": "Immunogenicity-Guided Design of an Acinetobacter baumanii Vaccine.",
+    "journal": "European journal of immunology",
+    "abstract": "The development of vaccines represents a promising and safe strategy to combat multidrug-resistant (MDR) Acinetobacter baumannii (A. baumannii) infections. In this study, we designed and evaluated a dendritic cell (DC)-targeting multiepitope peptide-based biomimetic nanovaccine for its immunogenicity and protective efficacy in a murine model. Bioinformatics tools were employed to predict and screen B- and T-cell epitopes derived from the OmpW protein of A. baumannii, followed by immunological validation. The dominant epitopes were sequentially linked using 6-aminocaproic acid to synthesize a multiepitope peptide, rOmpW. Subsequently, rOmpW was encapsulated within polylactic-co-glycolic acid (PLGA) nanoparticles coated with neutrophil membranes (NM), and the surface was functionalized with a DC-targeting peptide (DCpep) to construct the biomimetic nanovaccine, DCpep-NM-PLGA-rOmpW. This biomimetic nanovaccine elicited robust Th1 and Th17 cellular immune responses, as well as humoral immunity, and demonstrated significant protective efficacy in a murine model of acute lethal pneumonia caused by A. baumannii. These findings underscore the translational potential of this biomimetic nanovaccine as a prophylactic strategy against A. baumannii infections."
+  },
+  {
+    "pmid": "42414399",
+    "doi": "10.1038/s41598-026-59935-4",
+    "year": "2026",
+    "first_author": "Mohammad SF et al.",
+    "authors": [
+      "Mohammad SF",
+      "Ali F",
+      "Shynara M"
+    ],
+    "title": "Pangenome-guided immunoinformatics design and in silico characterization of a multi-epitope vaccine candidate against Acinetobacter baumannii with nanoparticle assembly potential.",
+    "journal": "Scientific reports",
+    "abstract": "Acinetobacter baumannii is a critical multidrug-resistant pathogen causing severe healthcare infections with high mortality, yet no licensed vaccine exists. This study aims to identify universally conserved surface antigens through pangenome analysis, predict immunogenic epitopes using integrated machine learning, and computationally design and in silico characterize a self-assembling nanoparticle vaccine with dual adjuvants. A computational framework integrating pangenome analysis of 712 complete genomes, epitope prediction, and structural vaccinology was employed to design a multi-epitope nanoparticle vaccine candidate for experimental evaluation. Pangenome analysis identified 3894 core genes with 42 outer membrane proteins, prioritizing OmpA, BamA, and OmpW as antigen targets. Protein language models predicted conformational B-cell epitopes, while NetMHCpan-4.2 predicted T-cell epitopes across 125 HLA alleles. The final construct (AB-VAX-01, 289 amino acids) incorporates 15 epitopes fused with dual adjuvants (RS09 TLR4 and cGAMP STING agonists) and a foldon domain for nanoparticle assembly. Microsecond molecular dynamics simulations with replicates demonstrated stability with TLR4 and STING. Conservation analysis across all 712 genomes showed 96.2-100% epitope identity. Immune simulations predicted Th1-biased responses with 94.2% global population coverage. In silico cloning confirmed favorable codon adaptation parameters. This in silico characterized vaccine construct represents a promising candidate requiring experimental validation against A. baumannii infections."
+  },
+  {
+    "pmid": "24116234",
+    "doi": "10.1371/journal.pone.0077631",
+    "year": "2013",
+    "first_author": "Moriel DG et al.",
+    "authors": [
+      "Moriel DG",
+      "Beatson SA",
+      "Wurpel DJ",
+      "Lipman J",
+      "Nimmo GR",
+      "Paterson DL",
+      "Schembri MA"
+    ],
+    "title": "Identification of novel vaccine candidates against multidrug-resistant Acinetobacter baumannii.",
+    "journal": "PloS one",
+    "abstract": "Acinetobacter baumannii is an emerging opportunistic bacterium associated with nosocomial infections in intensive care units. The alarming increase in infections caused by A. baumannii is strongly associated with enhanced resistance to antibiotics, in particular carbapenems. This, together with the lack of a licensed vaccine, has translated into significant economic, logistic and health impacts to health care facilities. In this study, we combined reverse vaccinology and proteomics to identify surface-exposed and secreted antigens from A. baumannii. Using in silico prediction tools and comparative genome analysis in combination with in vitro proteomic approaches, we identified 42 antigens that could be used as potential vaccine targets. Considering the paucity of effective antibiotics available to treat multidrug-resistant A. baumannii infections, these vaccine targets may serve as a framework for the development of a broadly protective multi-component vaccine, an outcome that would have a major impact on the burden of A. baumannii infections in intensive care units across the globe."
+  },
+  {
+    "pmid": "42327734",
+    "doi": "10.3389/fimmu.2026.1835523",
+    "year": "2026",
+    "first_author": "Benyamini P",
+    "authors": [
+      "Benyamini P"
+    ],
+    "title": "High resolution immunoinformatic profiling of Zonula occludens toxin reveals a conserved multiepitope vaccine candidate in Acinetobacter baumannii.",
+    "journal": "Frontiers in immunology",
+    "abstract": "Acinetobacter baumannii is a multidrug-resistant (MDR) nosocomial pathogen associated with exceptionally high mortality, underscoring the urgent need for immune-based strategies that operate independently of antibiotic susceptibility. The Zonula occludens toxin (Zot), a barrier-disrupting virulence factor embedded within mobile genetic elements, has recently been proposed as a conserved component of clinically relevant A. baumannii lineages, however, its immunological architecture remains poorly defined. Here, we applied an integrated immunoinformatic and evolutionary framework to evaluate Zot as a target for adaptive immune recognition and immunotherapeutic intervention. Comparative analysis of 62 full-length Zot homologs revealed structured sequence diversity superimposed on near-complete alignment continuity, consistent with structural constraint maintaining protein integrity. Structural modeling demonstrated that deep sequence divergence between historical and contemporary isolates does not disrupt the overall Zot fold, indicating conservation of antigenic architecture. High-resolution epitope mapping identified multiple potential B-cell-accessible regions and dense clusters of conserved MHC Class I and Class II binding motifs, particularly within a compact C-terminal domain exhibiting strong sequence and structural constraint. Notably, predicted T-cell epitopes remained resilient across divergent strains, consistent with conserved MHC anchor residue architecture. Together, these findings suggest that Zot may represent a structurally constrained immunological target with features consistent with both humoral and cell-mediated immune engagement across genetically diverse A. baumannii backgrounds. This immune-centric characterization provides a mechanistic foundation for immunotherapeutic targeting of Zot and supports its prioritization for further experimental evaluation in vaccine development pipelines targeting MDR A. baumannii."
+  },
+  {
+    "pmid": "29899345",
+    "doi": "10.1038/s41598-018-26689-7",
+    "year": "2018",
+    "first_author": "Solanki V et al.",
+    "authors": [
+      "Solanki V",
+      "Tiwari V"
+    ],
+    "title": "Subtractive proteomics to identify novel drug targets and reverse vaccinology for the development of chimeric vaccine against Acinetobacter baumannii.",
+    "journal": "Scientific reports",
+    "abstract": "The emergence of drug-resistant Acinetobacter baumannii is the global health problem associated with high mortality and morbidity. Therefore it is high time to find a suitable therapeutics for this pathogen. In the present study, subtractive proteomics along with reverse vaccinology approaches were used to predict suitable therapeutics against A. baumannii. Using subtractive proteomics, we have identified promiscuous antigenic membrane proteins that contain the virulence factors, resistance factors and essentiality factor for this pathogenic bacteria. Selected promiscuous targeted membrane proteins were used for the design of chimeric-subunit vaccine with the help of reverse vaccinology. Available best tools and servers were used for the identification of MHC class I, II and B cell epitopes. All selected epitopes were further shortlisted computationally to know their immunogenicity, antigenicity, allergenicity, conservancy and toxicity potentials. Immunogenic predicted promiscuous peptides used for the development of chimeric subunit vaccine with immune-modulating adjuvants, linkers, and PADRE (Pan HLA-DR epitopes) amino acid sequence. Designed vaccine construct V4 also interact with the MHC, and TLR4/MD2 complex as confirm by docking and molecular dynamics simulation studies. Therefore designed vaccine construct V4 can be developed to control the host-pathogen interaction or infection caused by A. baumannii."
+  },
+  {
+    "pmid": "30797936",
+    "doi": "10.1016/j.ejps.2019.02.023",
+    "year": "2019",
+    "first_author": "Ahmad S et al.",
+    "authors": [
+      "Ahmad S",
+      "Ranaghan KE",
+      "Azam SS"
+    ],
+    "title": "Combating tigecycline resistant Acinetobacter baumannii: A leap forward towards multi-epitope based vaccine discovery.",
+    "journal": "European journal of pharmaceutical sciences : official journal of the European Federation for Pharmaceutical Sciences",
+    "abstract": "Global emergence of Tigecycline resistant Acinetobacter baumannii (TRAB) is on the horizon and poses a very serious threat to human health. There is a pressing demand for suitable therapeutics against this pathogen, particularly a vaccine to protect against TRAB infections. We present a comprehensive investigation of the complete proteome of a TRAB AB031 strain to predict promiscuous antigenic, non-allergenic, virulent B-cell derived T-cell epitopes and formulate a multi-epitope vaccine against the pathogen. We identified epitopes from three proteins: outer membrane protein assembly factor (BamA), fimbrial biogenesis outer membrane usher protein (FimD) and type IV secretion protein (Rhs) that are appropriate for vaccine design. These proteins constitute the core proteome of the pathogen, are essential, localized at the pathogen surface, non-homologous to humans, mice and to the beneficial probiotic bacteria that reside the human gut. Moreover, these proteins are ideal candidates for experimental investigation as they have favorable physicochemical properties and have strong cellular interacting networks. The predicted epitopes: FPLNDKPGD (BamA), FVHAEEAAA (FimD) and YVVAGTAAA (Rhs) have exo-membrane topology for efficient recognition of the host immune system and high affinity for the most prevalent allele in human populations, the DRB*0101. These epitopes were linked and attached to an adjuvant to enhance its antigenicity. The multi-epitope vaccine-construct was docked with the TLR4 receptor to assess its affinity for the protein and thus its presentation to the host immune system. Docking results were validated through molecular dynamics simulations and binding free energies were calculated using the molecular mechanics/generalized Born (MM-GBSA) method. In conclusion, we expect the designed chimeric vaccine is highly likely to be effective against infections caused by TRAB."
+  },
+  {
+    "pmid": "29753164",
+    "doi": "10.1016/j.jmgm.2018.04.020",
+    "year": "2018",
+    "first_author": "Ahmad S et al.",
+    "authors": [
+      "Ahmad S",
+      "Azam SS"
+    ],
+    "title": "A novel approach of virulome based reverse vaccinology for exploring and validating peptide-based vaccine candidates against the most troublesome nosocomial pathogen: Acinetobacter baumannii.",
+    "journal": "Journal of molecular graphics & modelling",
+    "abstract": "Acinetobacter baumannii is one of the major cause of nosocomial infections around the globe. The emergence of hyper-virulent strains of the pathogen greatly narrows down therapeutic options for patients infected with this red alert superbug. Development of a peptide-based vaccine can offers an alternative, attractive, and cost-effective remedy for multidrug-resistant A. baumannii associated complications. Herein, we introduced a novel virulome based Reverse Vaccinology for screening peptide based vaccine candidates against A. baumannii and its validation using a negative control. The pipeline screened \"FYLNDQPVS\" of polysaccharide export outer membrane protein (EpsA) and \"LQNNTRRMK\" of chaperone-usher pathway protein B (CsuB) as broad-spectrum peptides for induction of targeted immune responses. The 9-mer epitope of both proteins was rendered virulent, antigenic, non-allergen, and highly conserved among thirty-four completely annotated strains. Interactome examination unravels peptides protein direct and indirect interactions with biological significant pathways, essential for A. baumannii pathogenesis and survival. Protein-peptide docking aids in addition by unveiling deep binding of the epitopes in the active site of the most prevalent binding allele in the human population-the DRB1*0101. Both the proteins till to date are not characterized for immunoprotective efficacy and desirable to be deciphered experimentally. The designed series of in silico filters rejected few recently reported peptide and non-peptide vaccine targets and has delivered outcomes, which we believe will enrich the existing knowledge of vaccinology against this life-threatening human pathogen."
+  },
+  {
+    "pmid": "33707942",
+    "doi": "10.2147/IJN.S296527",
+    "year": "2021",
+    "first_author": "Du X et al.",
+    "authors": [
+      "Du X",
+      "Xue J",
+      "Jiang M",
+      "Lin S",
+      "Huang Y",
+      "Deng K",
+      "Shu L",
+      "Xu H",
+      "Li Z",
+      "Yao J",
+      "Chen S",
+      "Shen Z",
+      "Feng G"
+    ],
+    "title": "A Multiepitope Peptide, rOmp22, Encapsulated in Chitosan-PLGA Nanoparticles as a Candidate Vaccine Against Acinetobacter baumannii Infection.",
+    "journal": "International journal of nanomedicine",
+    "abstract": "BACKGROUND: The development of vaccines is a promising and cost-effective strategy to prevent emerging multidrug-resistant (MDR) Acinetobacter baumannii (A. baumannii) infections. The purpose of this study was to prepare a multiepitope peptide nanovaccine and evaluate its immunogenicity and protective effect in BALB/c mice. METHODS: The B-cell and T-cell epitopes of Omp22 from A. baumannii were predicted using bioinformatics methods and identified by immunological experiments. The optimal epitopes were conjugated in series by 6-aminocaproic acid and chemically synthesized multiepitope polypeptide rOmp22. Then, rOmp22 was encapsulated by chitosan (CS) and poly (lactic-co-glycolic) acid (PLGA) to prepare CS-PLGA-rOmp22 nanoparticles (NPs). The immunogenicity and immunoprotective efficacy of the vaccine were evaluated in BALB/c mice. RESULTS: CS-PLGA-rOmp22 NPs were small (mean size of 272.83 nm) with apparently spherical structures, positively charged (4.39 mV) and nontoxic to A549 cells. A high encapsulation efficiency (54.94%) and a continuous slow release pattern were achieved. Compared with nonencapsulated rOmp22, CS-PLGA-rOmp22 immunized BALB/c mice induced higher levels of rOmp22-specific IgG in serum and IFN-γ in splenocyte supernatant. Additionally, lung injury and bacterial burdens in the lung and blood were suppressed, and potent protection (57.14%-83.3%) against acute lethal intratracheal A. baumannii challenge was observed in BALB/c mice vaccinated with CS-PLGA-rOmp22. CONCLUSION: CS-PLGA-rOmp22 NPs elicited specific IgG antibodies, Th1 cellular immunity and protection against acute lethal intratracheal A. baumannii challenge. Our results indicate that this nanovaccine is a desirable candidate for preventing A. baumannii infection."
+  },
+  {
+    "pmid": "26904021",
+    "doi": "10.3389/fmicb.2016.00158",
+    "year": "2016",
+    "first_author": "Singh R et al.",
+    "authors": [
+      "Singh R",
+      "Garg N",
+      "Shukla G",
+      "Capalash N",
+      "Sharma P"
+    ],
+    "title": "Immunoprotective Efficacy of Acinetobacter baumannii Outer Membrane Protein, FilF, Predicted In silico as a Potential Vaccine Candidate.",
+    "journal": "Frontiers in microbiology",
+    "abstract": "Acinetobacter baumannii is emerging as a serious nosocomial pathogen with multidrug resistance that has made it difficult to cure and development of efficacious treatment against this pathogen is direly needed. This has led to investigate vaccine approach to prevent and treat A. baumannii infections. In this work, an outer membrane putative pilus assembly protein, FilF, was predicted as vaccine candidate by in silico analysis of A. baumannii proteome and was found to be conserved among the A. baumannii strains. It was cloned and expressed in E. coli BL21(DE3) and purified by Ni-NTA chromatography. Immunization with FilF generated high antibody titer (>64,000) and provided 50% protection against a standardized lethal dose (10(8) CFU) of A. baumannii in murine pneumonia model. FilF immunization reduced the bacterial load in lungs by 2 and 4 log cycles, 12 and 24 h post infection as compared to adjuvant control; reduced the levels of pro-inflammatory cytokines TNF-α, IL-6, IL-33, IFN-γ, and IL-1β significantly and histology of lung tissue supported the data by showing considerably reduced damage and infiltration of neutrophils in lungs. These results demonstrate the in vivo validation of immunoprotective efficacy of a protein predicted as a vaccine candidate by in silico proteomic analysis and open the possibilities for exploration of a large array of uncharacterized proteins."
+  },
+  {
+    "pmid": "26614015",
+    "doi": "10.1016/j.ijmm.2015.10.005",
+    "year": "2016",
+    "first_author": "Garg N et al.",
+    "authors": [
+      "Garg N",
+      "Singh R",
+      "Shukla G",
+      "Capalash N",
+      "Sharma P"
+    ],
+    "title": "Immunoprotective potential of in silico predicted Acinetobacter baumannii outer membrane nuclease, NucAb.",
+    "journal": "International journal of medical microbiology : IJMM",
+    "abstract": "Acinetobacter baumannii is an emerging multi-drug resistant pathogen causing significant mortality in hospitalized ICU patients which demands developing new methods for prevention and treatment. A. baumannii 19606 proteome was analysed in silico through the online tool Vaxign for finding potential vaccine candidates. The selected nuclease (NucAb) was predicted to possess all the attributes of a promising vaccine candidate like outer membrane localization, high adhesin probability (0.53), one transmembrane helix only, non-homology to human proteins and presence of B-cell and T-cell epitopes binding with high affinity (percentile rank≤1) to HLA alleles prevalent at high frequency in North Indian populations. nucAb gene was highly prevalent (100%) among the clinical isolates (40/40) and conserved (>98%) among NCBI sequenced Acinetobacter strains. It was cloned in pET28a, purified and its immunoprotective potential was validated in murine pneumonia model. Immunization of BALB/c mice with recombinant NucAb (25μg) elicited high antibody titre (1-5×10(5)) which reduced bacterial load by 5 log cycles in lungs of mice challenged with optimized lethal dose (10(8)CFU). Lung histopathology revealed marked suppression of inflammation. Pro-inflammatory cytokines (TNF-α and IL-6) levels were reduced significantly and anti-inflammatory (IL-10) cytokine increased in lungs and serum leading to decreased severity and slow progression of disease. Though active immunization showed low survival rate (20%), passive immunization improved the survival (40%). This is the first study reporting an outer membrane nuclease as a vaccine candidate in Gram negative bacterium, A. baumannii through reverse vaccinology approach."
+  },
+  {
+    "pmid": "32421073",
+    "doi": "10.1007/s10989-020-10056-0",
+    "year": "2020",
+    "first_author": "Rasooli I et al.",
+    "authors": [
+      "Rasooli I",
+      "Abdolhamidi R",
+      "Jahangiri A",
+      "Darvish Alipour Astaneh S"
+    ],
+    "title": "Outer Membrane Protein, Oma87 Prevents Acinetobacter baumannii Infection.",
+    "journal": "International journal of peptide research and therapeutics",
+    "abstract": "Acinetobacter baumannii is one of the most problematic pathogens in clinical settings. Emerging of its antibiotic-resistant strains persuade researchers to find alternative treatment options such as immunization against the notorious nosocomial pathogen. Oma87 has been introduced as an immunogenic outer membrane protein via reverse vaccinology. However, protectivity of A. baumannii Oma87 is not well known. The current research undertakes a study on the immunogenicity of recombinant Oma87 in a murine model. Some physico-chemical properties were assessed via in silico analyses. The corresponding gene was amplified and cloned into pET28a plasmid. The recombinant protein was purified and then was administered to immunize mice. Sera obtained from the immunized mice were assessed with respect to the triggered antibodies. Challenges were performed on actively or passively immunized mice. In silico analyses revealed that this protein is the same as BamA. A high titer of specific antibody was raised against rOma87 even after the first injection. The specific antibody recognized the whole cell of A. baumannii. Both active and passive immunizations confer 100 and 50% protection, respectively against ~ 2 × lethal dose (LD) of A. baumannii in the murine sepsis model. Although none of mice received ~ 5 × LD of A. baumannii survived in passive immunization, 25% of mice challenged with ~ 7 × LD of the bacteria survived and the dead mice exhibited a delayed death. Based on these results, Oma87 is the same as BamA which could be considered as a promising vaccine candidate against A. baumannii in the sepsis model."
+  },
+  {
+    "pmid": "42822178",
+    "doi": "10.1016/j.vaccine.2026.129205",
+    "year": "2026",
+    "first_author": "Banisaeed SR et al.",
+    "authors": [
+      "Banisaeed SR",
+      "Rasooli I",
+      "Ghazanfari T",
+      "Ajdary S",
+      "Nikbin VS"
+    ],
+    "title": "An integrated immunoinformatics and experimental pipeline identifies an LCL-scaffolded OmpA loop 3 construct as a protective vaccine candidate against Acinetobacter baumannii.",
+    "journal": "Vaccine",
+    "abstract": "Acinetobacter baumannii has emerged as a critical nosocomial pathogen due to its extensive antimicrobial resistance and limited treatment options, highlighting the urgent need for effective vaccines. In this study, we developed and evaluated a rationally engineered epitope-based vaccine targeting extracellular loop 3 of outer membrane protein A (OmpA). Using an integrated immunoinformatics and experimental pipeline, the selected OmpA loop was grafted onto a loopless C-lobe (LCL) scaffold derived from transferrin-binding protein B to preserve native-like conformation and enhance epitope presentation. Four hybrid constructs were designed and comprehensively evaluated through computational analyses, including antigenicity prediction, structural modeling, molecular dynamics simulation, Toll-like receptor docking, and MHC-II binding assessment. Among them, OmpAL3-P2 exhibited the most favorable structural stability, surface accessibility, and epitope preservation profile. Experimental validation demonstrated successful recombinant expression and purification of the selected construct. Immunization of C57BL/6 mice with OmpAL3 induced strong antigen-specific humoral and cellular immune responses characterized by elevated IgG, predominant IgG2c production, enhanced splenocyte proliferation, and increased IFN-γ secretion, indicating a Th1-skewed response. In murine sepsis challenge models, OmpAL3 conferred significant protection, reduced bacterial burdens in major organs, and preserved tissue integrity. Passive immunization experiments further confirmed the protective contribution of vaccine-induced antibodies. Collectively, these findings demonstrate that LCL-scaffolded OmpA loop 3 is a promising subunit vaccine candidate against multidrug-resistant A. baumannii and supports the utility of scaffold-based structural vaccinology for rational vaccine development."
+  },
+  {
+    "pmid": "42963026",
+    "doi": "10.1016/j.ijbiomac.2026.155110",
+    "year": "2026",
+    "first_author": "Raoufi Z et al.",
+    "authors": [
+      "Raoufi Z",
+      "Abdollahi S",
+      "Chamchangi MA"
+    ],
+    "title": "A TonB-dependent cobalamin receptor as a vaccine target against Acinetobacter baumannii: Structural prediction and murine protection studies.",
+    "journal": "International journal of biological macromolecules",
+    "abstract": "Acinetobacter baumannii has become a leading cause of severe hospital-acquired infections, underscoring the urgency of deciphering its pathogenic mechanisms and developing effective vaccines. So, in this study, the immunostructure of a putative TonB-dependent vitamin B12 receptor was predicted and evaluated, and its vaccine potential was examined by in vivo analysis. Structural prediction of the putative B12 receptor confirmed a 22-stranded beta-barrel core enclosing an immunologically shielded internal plug domain. To design multi-epitope chimeric and cocktail vaccines, three highly conserved, surface-exposed extracellular loops (L3, L7, and L8) were selected, and subsequently, the survival rate of active and passively immunized mice that were intranasally challenged with lethal doses of A. baumannii was evaluated. Active and passive immunizations with the whole B12 protein, its loops, chimeric construct, and Cocktail induced high antigen-specific IgG titers, conferring 60%-100% survival against lethal challenges. Immunized cohorts showed reduced pro-inflammatory cytokines (TNF-α, IFN-γ, and IL-6) and enhanced bacterial clearance, robustly halting systemic dissemination. Conversely, the internal plug domain showed no protective efficacy. These findings demonstrate that the extracellular loops of the putative vitamin B12 receptor are primary immunoprotective determinants, establishing the chimeric construct and Cocktail formulations as highly promising candidates to combat A. baumannii infections."
+  }
+]

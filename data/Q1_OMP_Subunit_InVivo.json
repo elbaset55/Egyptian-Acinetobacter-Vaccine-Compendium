@@ -1,0 +1,838 @@
+[
+  {
+    "pmid": "38679227",
+    "doi": "10.1016/j.micinf.2024.105347",
+    "year": "2024",
+    "first_author": "Pereira IL et al.",
+    "authors": [
+      "Pereira IL",
+      "Cardoso TL",
+      "Wozeak DR",
+      "Caballero PS",
+      "Buchhorn de Freitas S",
+      "Pinto Seixas Neto AC",
+      "da Silva Pinto L",
+      "Hartwig DD"
+    ],
+    "title": "Antibodies anti-rFilF protein has anti-biofilm activity against carbapenem-resistant Acinetobacter baumannii.",
+    "journal": "Microbes and infection",
+    "abstract": "Acinetobacter baumannii is an opportunistic bacterium that causes infection in several sites. Carbapenem-resistant A. baumannii strains (CRAb) lead the World Health Organization's list of 12 pathogens considered a priority for developing new antimicrobials. The pathogenicity of A. baumannii is related to the different virulence factors employed in the colonization of biotic and abiotic surfaces, biofilm formation and multidrug resistance. We analyze the outer membrane protein FilF from A. baumannii in silico and produce it in recombinant form (rFilF). rFilF protein was successfully expressed in Escherichia coli BL21 Star in an insoluble form. Immunization with rFilF induced significant anti-rFilF IgG antibody production in mice, detected by indirect enzyme-linked immunosorbent assay, since the first evaluation until 49th. On the last experimentation day, the predominant immunoglobulin found was IgG1 followed by IgG2a, IgG2b, IgM, IgG3, and IgA. We observe that interleukins 4 and 10 show significant production after the 28th day of experimentation in mice immunized with rFilF. Anti-rFilF pAbs were able to inhibit biofilm formation in nine CRAb strains evaluated, and in the standard strain ATCC® 19606. These results demonstrate the anti-biofilm activity of anti-rFilF antibodies, promising in the development of a non-antibiotic approach based on the control of CRAb strains."
+  },
+  {
+    "pmid": "37454632",
+    "doi": "10.1016/j.intimp.2023.110650",
+    "year": "2023",
+    "first_author": "Mansouri M et al.",
+    "authors": [
+      "Mansouri M",
+      "Sadeghpoor M",
+      "Abdollahi M",
+      "Vafaei AJ",
+      "Jalali Nadoushan M",
+      "Rasooli I"
+    ],
+    "title": "Synergistic immunoprotection by Oma87 and Bap against Acinetobacter baumannii sepsis model.",
+    "journal": "International immunopharmacology",
+    "abstract": "Acinetobacter baumannii is the leading cause of nosocomial infection. A surface protein commonly known as biofilm associate protein (Bap) has been identified in a bloodstream isolate of A. baumannii. Bap of A. baumannii is involved in intercellular adhesion within the mature biofilm. Outer membrane protein Acinetobacter 87 kDa (Oma87) or β-barrel assembly machinery A (BamA) has been introduced as an immunogenic outer membrane protein via in silico reverse vaccinology. Current research examines the synergistic effect of immunization of mice with both recombinant proteins viz., Oma87 and Bap. Antibodies were raised to the proteins. The mice were challenged with A. baumannii ATCC 19606 and the bacterial burden was enumerated in the mice's livers, spleens, and lungs followed by histological examination. IgG levels significantly increased, and a significant (p < 0.0001) difference was observed between bacterial burdens in the internal organs of the actively and passively immunized groups. Female BALB/c mice weighing 20-25 g, were divided into 4 groups of 14 mice each viz., control, Oma87, Bap, Oma87-Bap groups. The proteins were individually immunogenic, but the combination of both proteins had a synergistic protection property. This is further supported by the histological examination. Based on the results, the combination of Oma87 and Bap may be considered a promising vaccine candidate against A. baumannii ."
+  },
+  {
+    "pmid": "37611777",
+    "doi": "10.1016/j.micpath.2023.106317",
+    "year": "2023",
+    "first_author": "Abdollahi S et al.",
+    "authors": [
+      "Abdollahi S",
+      "Raoufi Z"
+    ],
+    "title": "A novel vaccine candidate against A. baumannii based on a new OmpW family protein (OmpW2); structural characterization, antigenicity and epitope investigation, and in-vivo analysis.",
+    "journal": "Microbial pathogenesis",
+    "abstract": "A. baumannii is an MDR pathogen whose SARS-CoV-2 has recently increased its mortality rate in hospitalized patients. So, the virulence factors investigation and design of a vaccine against this bacterium seem to be critical. In this regard, the OmpW2 protein was structurally characterized by this study, and its B-T cell epitopes were mapped by bioinformatic tools. In-vivo analyses were employed to verify the immunogenicity of this protein and its selected epitopes. The results indicated that OmpW2 is a conserved virulent antigen, not toxic for the host, and not similar to the human or mouse proteome. A putative interaction between OmpW2 and a Fe-S-cluster redox enzyme was detected. Based on the results, OmpW2 belongs to the OmpW superfamily and eight beta sheets have been predicted in its tight beta-barrel structure. Several exposed epitopes were detected in the OmpW2 sequence and structure, and a sub-unit potential vaccine was generated based on the epitopes. The ELISA results indicated that after the second booster vaccination of BALB/c mice with the whole OmpW2 protein or its sub-unit fragment, the IgG titer significantly raised (p < 0.05). The mortality rate and the bacterial burden in the lung, liver, kidney, and spleen in both passive and active immunized mice were significantly decreased (p ≤ 0.001). In-vivo experiments confirmed that the OmpW2 whole protein and its sub-unit fragment induce the host immune system and can be applied to design a commercial vaccine or diagnostic kit."
+  },
+  {
+    "pmid": "27133268",
+    "doi": "10.1016/j.micpath.2016.04.019",
+    "year": "2016",
+    "first_author": "Zhang X et al.",
+    "authors": [
+      "Zhang X",
+      "Yang T",
+      "Cao J",
+      "Sun J",
+      "Dai W",
+      "Zhang L"
+    ],
+    "title": "Mucosal immunization with purified OmpA elicited protective immunity against infections caused by multidrug-resistant Acinetobacter baumannii.",
+    "journal": "Microbial pathogenesis",
+    "abstract": "Multidrug-resistant Acinetobacter baumannii (A. baumannii) is a rapidly emerging pathogen causing infections with high mortality rates due to inadequate medical treatment. New ways to prevent and treat such infections are of a critical medical need. In this study, intranasal vaccination with A. baumannii outer membrane protein A (OmpA) induced both systemic and mucosal antibodies. After challenge intraperitoneally by clinical strains of multidrug-resistant A. baumannii, mice immunized with OmpA had a significantly higher survival rate than control mice. The OmpA protein level tested positive by western blot in clinical strains of A. baumannii. Furthermore, characterization of human sera for anti-OmpA immunoglobulin G (IgG) antibody levels demonstrated that OmpA protein was immunogenic in healthy individuals and patients with A. baumannii invasive infections. In conclusion, to the best of our knowledge, this is the first study protective efficacy of mucosal immunization with OmpA as a protein antigen against multidrug-resistant A. Baumannii."
+  },
+  {
+    "pmid": "33582283",
+    "doi": "10.1016/j.micinf.2021.104801",
+    "year": "2021",
+    "first_author": "Vieira de Araujo AE et al.",
+    "authors": [
+      "Vieira de Araujo AE",
+      "Conde LV",
+      "da Silva Junior HC",
+      "de Almeida Machado L",
+      "Lara FA",
+      "Chapeaurouge A",
+      "Pauer H",
+      "Pires Hardoim CC",
+      "Martha Antunes LC",
+      "D'Alincourt Carvalho-Assef AP",
+      "Moreno Senna JP"
+    ],
+    "title": "Cross-reactivity and immunotherapeutic potential of BamA recombinant protein from Acinetobacter baumannii.",
+    "journal": "Microbes and infection",
+    "abstract": "Acinetobacter baumannii is an important nosocomial pathogen. BamA is a protein that belongs to a complex responsible for organizing the proteins on the bacterial outer membrane. In this work, we aimed to evaluate murine immune responses to BamA recombinant protein (rAbBamA) from A. baumannii in an animal model of infection, and to assess cross-reactivity of this target for the development of anti-A. baumannii vaccines or diagnostics. Immunization of mice with rAbBamA elicited high antibody titers and antibody recognition of native A. baumannii BamA. Immunofluorescence also detected binding to the bacterial surface. After challenge, immunized mice demonstrated a 40% survival increase and better bacterial clearance in kidneys. Immunoblot of anti-rAbBamA against other medically relevant bacteria showed binding to proteins of approximately 35 kDa in Klebsiella pneumoniae and Escherichia coli lysates, primarily identified as OmpA and OmpC, respectively. Altogether, our data show that anti-rAbBamA antibodies provide a protective response against A. baumannii infection in mice. However, the response elicited by immunization with rAbBamA is not completely specific to A. baumannii. Although a broad-spectrum vaccine that protects against various pathogens is an appealing strategy, antibody reactivity against the human microbiota is undesired. In fact, immunization with rAbBamA produced noticeable effects on the gut microbiota. However, the changes elicited were small and non-specific, given that no significant changes in the abundance of Proteobacteria were observed. Overall, rAbBamA is a promising target, but specificity must be considered in the development of immunological tools against A. baumannii."
+  },
+  {
+    "pmid": "36356792",
+    "doi": "10.1016/j.micpath.2022.105874",
+    "year": "2022",
+    "first_author": "Tamehri M et al.",
+    "authors": [
+      "Tamehri M",
+      "Rasooli I",
+      "Pishgahi M",
+      "Jahangiri A",
+      "Ramezanalizadeh F",
+      "Banisaeed Langroodi SR"
+    ],
+    "title": "Combination of BauA and OmpA elicit immunoprotection against Acinetobacter baumannii in a murine sepsis model.",
+    "journal": "Microbial pathogenesis",
+    "abstract": "AIMS: Acinetobacter baumannii causes severe nosocomial infections and is a difficult-to-treat pathogen due to the development of multidrug-resistant (MDR) strains. Vaccines and antibody therapy represent alternative promising strategies for the control of infections caused by A. baumannii or its MDR strains. OmpA and BauA have been assigned as protective antigens. However, the efficacy of the combination of these antigens is yet to be investigated. In this study, we targeted two critical antigens of A. baumannii (BauA and OmpA) to enhance immunoprotecting against A. baumannii. METHODS AND RESULTS: The recombinant BauA and OmpA were expressed and purified. The purified proteins were administered to BALB/c mice alone and in combination. Immune sera were assessed against BauA, OmpA and two constructs harboring immunogenic loops of these antigen. The mice were then challenged with a clinical isolate of A. baumannii. Indirect ELISA confirmed significant antibody rise to the antigens. The immunogenic loops were detected in the hybrid construct. The specific sera detected OmpA, BauA and constructs harboring immunogenic loops of these antigen with different affinities. A significant decrease in the bacterial loads was noted in the spleen, liver, and lungs of the immunized mice groups. However, the group received combination of BauA and OmpA showed lower bacterial burden in the spleen and liver. CONCLUSIONS: Combination of BauA and OmpA enhances immunoprotection against A. baumannii infections."
+  },
+  {
+    "pmid": "31342294",
+    "doi": "10.1007/s11033-019-04994-2",
+    "year": "2019",
+    "first_author": "Lei L et al.",
+    "authors": [
+      "Lei L",
+      "Yang F",
+      "Zou J",
+      "Jing H",
+      "Zhang J",
+      "Xu W",
+      "Zou Q",
+      "Zhang J",
+      "Wang X"
+    ],
+    "title": "DNA vaccine encoding OmpA and Pal from Acinetobacter baumannii efficiently protects mice against pulmonary infection.",
+    "journal": "Molecular biology reports",
+    "abstract": "Acinetobacter baumannii (A. baumannii) is an opportunistic pathogen that causes serious infections in the lungs, blood, and brain in critically ill hospital patients, resulting in considerable mortality rates every year. Due to the rapid appearance of multi-drug resistance or even pan-drug resistance isolates, it is becoming more and more difficult to cure A. baumannii infection by traditional antibiotic treatment, alternative strategies are urgently required to combat A. baumannii infection. In this study, we developed a DNA vaccine encoding two antigens from A. baumannii, OmpA and Pal, and the immunogenicity and protective efficacy was further evaluated. The results showed that the DNA vaccine exhibited significant immune protective efficacy against acute A. baumannii infection in a mouse pneumonia model, and cross protective efficacy was observed when immunized mice were challenged with clinical strains of A. baumannii. DNA vaccine immunization induced high level of humoral response and a mixed Th1/Th2/Th17 cellular response, which protect against lethal bacterial challenges by decreased bacterial loads and pathology in the lungs, and reduced level of inflammatory cytokines expression and inflammatory cell infiltration in BALF. These results demonstrated that it is possible to prevent A. baumannii infection by DNA vaccine and both OmpA and Pal could be serve as promising candidate antigens."
+  },
+  {
+    "pmid": "28190743",
+    "doi": "10.1016/j.vaccine.2017.01.060",
+    "year": "2017",
+    "first_author": "Yang FL et al.",
+    "authors": [
+      "Yang FL",
+      "Lou TC",
+      "Kuo SC",
+      "Wu WL",
+      "Chern J",
+      "Lee YT",
+      "Chen ST",
+      "Zou W",
+      "Lin NT",
+      "Wu SH"
+    ],
+    "title": "A medically relevant capsular polysaccharide in Acinetobacter baumannii is a potential vaccine candidate.",
+    "journal": "Vaccine",
+    "abstract": "Concerns of Acinetobacter baumannii infection have increased due to the emergence of multi-drug resistance. In the present study, we determined the capsular polysaccharide (CPS) structure of A. baumannii SK44, a clinical isolate from Taiwan, to consist of pentasaccharide repeats. We found that CPS-induced antibody provided 55% protection against challenge in an animal model. The CPS-specific antibody reacted with the surface components of about 62% clinical isolates (342/554 strains) from cross-sectional and longitudinal studies by dot-immunoassay. Pulsed-field gel electrophoresis of positive strains showed the antibody covered different clonalites of A. baumannii clinical isolates. Meanwhile, using the CPS antibody as a probe, we found a number of outer membrane proteins bound to the antibody, including OmpA/motB, TonB-dependent receptor, and Omp38, indicating their association with CPS. These results might lead to the use of the capsular polysaccharide as a vaccine to prevent A. baumannii infection."
+  },
+  {
+    "pmid": "40616976",
+    "doi": "10.1016/j.jmgm.2025.109120",
+    "year": "2025",
+    "first_author": "González-Cruz M et al.",
+    "authors": [
+      "González-Cruz M",
+      "Reyes-Gastellou A",
+      "Castelán-Vega JA",
+      "Monterrubio-López GP",
+      "Jiménez-Alberto A",
+      "Aparicio-Ozores G",
+      "Ribas-Aparicio RM"
+    ],
+    "title": "In silico development of a broad-spectrum vaccine against ESKAPE pathogens.",
+    "journal": "Journal of molecular graphics & modelling",
+    "abstract": "Antimicrobial-resistant ESKAPE pathogens (Enterococcus faecium, Staphylococcus aureus, Klebsiella pneumoniae, Acinetobacter baumannii, Pseudomonas aeruginosa, and Enterobacter cloacae) have significantly restricted therapeutic alternatives for critical infections, consequently contributing to increase the severity and mortality of infectious illnesses that represent a significant global health challenge. Vaccination as a preventive measure can be crucial in substantially reducing bacterial infections and is potentially effective against antibiotic-resistant bacteria. This study shows the design of an epitope-based vaccine capable of neutralizing shared antigenic determinants present among the ESKAPE pathogens. The pangenome of the ESKAPE pathogens was analyzed to extract the core proteome. This approach facilitated reverse vaccinology analysis to identify antigenic proteins within this bacterial group. The study revealed similar structures in porins OmpA, OprD, and TolC, as well as the collagen-binding adhesins Acm and Cna. These proteins were then utilized to predict T-cell and B-cell epitopes, selecting those with their best physicochemical properties, antigenicity, non-allergenicity, and lack of toxicity. Additionally, epitopes located on the surface of the antigens and capable of coupling with HLA molecules were prioritized. In this computational approach, we engineered a construct incorporating the adjuvant RS09, a TLR4 agonist, and immunogenic epitopes connected by linkers. We assessed the stability of their interaction with pattern recognition receptors of the immune system through molecular docking and molecular dynamics simulations. The in silico immune simulation demonstrated that the vaccine could trigger humoral and cell-mediated immune responses. The resulting construct potentially represents an effective and safe vaccine candidate to prevent infections caused by the ESKAPE group."
+  },
+  {
+    "pmid": "41678533",
+    "doi": "10.1371/journal.ppat.1013958",
+    "year": "2026",
+    "first_author": "Palethorpe S et al.",
+    "authors": [
+      "Palethorpe S",
+      "Ercoli G",
+      "Ramos-Sevillano E",
+      "Kamuyu G",
+      "Campo J",
+      "Willcocks S",
+      "Nakajima R",
+      "Felgner P",
+      "Wren B",
+      "Lertmemongkolchai G",
+      "Stabler R",
+      "Brown J"
+    ],
+    "title": "Identification of multiple Acinetobacter baumannii protein antigens as targets for potential immunotherapies using a novel protein microarray screening approach.",
+    "journal": "PLoS pathogens",
+    "abstract": "The World Health Organisation has identified Acinetobacter baumannii as a critical priority antimicrobial resistant (AMR) pathogen for which new therapeutics are needed. Despite this, currently there are no antibody or vaccine candidates in advanced clinical development for A. baumannii. To help address this, we designed a protein microarray approach to identify multiple A. baumannii protein antigens for further investigation as potential targets for vaccination or an antibody therapy. An 868-protein microarray was constructed containing mainly highly conserved A. baumannii proteins, and was enriched for those predicted to be surface localised and for which the corresponding gene is highly expressed during culture in ex vivo human serum. Probing the protein microarray with sera obtained from mice after non-lethal infection with multiple different A. baumannii strains identified IgG responses to 66 proteins. Four proteins (three previously poorly described outer membrane proteins and BamA, a known protective vaccine antigen selected as a positive control) were selected for further investigation. Polyclonal rabbit IgG to all four protein antigens recognised multiple clinical AMR A. baumannii strains, and for selected strains promoted opsonisation with IgG and complement, improved neutrophil phagocytosis, and increased membrane attack complex formation. Passive immunisation with polyclonal IgG to each antigen partially protected mice against A. baumannii sepsis, and a combination of polyclonal to two antigens completely protected against A. baumannii murine sepsis. Repeating passive immunisation experiments in mice depleted of complement, neutrophils or tissue macrophages demonstrated protection against systemic infection was dependent on complement and neutrophils but not macrophages. Overall, the data demonstrate that our protein microarray is a novel approach that can rapidly identify multiple new protein antigens as potential antibody targets for preventing or treating AMR bacterial infections."
+  },
+  {
+    "pmid": "28963492",
+    "doi": "10.1038/s41598-017-12789-3",
+    "year": "2017",
+    "first_author": "Singh R et al.",
+    "authors": [
+      "Singh R",
+      "Capalash N",
+      "Sharma P"
+    ],
+    "title": "Immunoprotective potential of BamA, the outer membrane protein assembly factor, against MDR Acinetobacter baumannii.",
+    "journal": "Scientific reports",
+    "abstract": "Acinetobacter baumannii infections are responsible for major health problems in immunocompromised patients particularly in intensive care units. Due to rapid acquisition of and also inherent drug resistance, a vaccine is an effective treatment option against this pathogen. BamA, an outer membrane β-barrel assembly protein, was identified in A. baumannii as potential vaccine candidate by in silico analysis. The immunoprotective efficacy of this highly conserved protein was investigated against a virulent multidrug resistant clinical isolate using murine pneumonia model. Recombinant BamA elicited a high IgG antibody titer (160000) in mice. Opsonophagocytic killing assay showed non-neutrilizing, opsonizing antibodies with combinatorial bactericidal activity of antibodies and complement components. Active and passive immunization protected 80 and 60% mice respectively against intranasal challenge with lethal dose (109 CFU) of virulent A. baumannii along with efficient clearance of bacteria in mice lungs and reduction in levels of pro-inflammatory cytokines viz. TNF-α, IL-6 and IL-1β in sera and lung tissue homogenate. Increase in levels of IL-10, an anti-inflammatory cytokine and reduction of neutrophils in lungs facilitated the control of infection. This study demonstrates the potential of BamA as effective vaccine candidate and a promising target for antibody-based therapy to protect against MDR A. baumannii infections."
+  },
+  {
+    "pmid": "37211625",
+    "doi": "10.1080/1040841X.2023.2215303",
+    "year": "2024",
+    "first_author": "Lau YT et al.",
+    "authors": [
+      "Lau YT",
+      "Tan HS"
+    ],
+    "title": "Acinetobacter baumannii subunit vaccines: recent progress and challenges.",
+    "journal": "Critical reviews in microbiology",
+    "abstract": "Acinetobacter baumannii is a Gram-negative, opportunistic pathogen that causes nosocomial infection with a high mortality rate in immunocompromised individuals. With the frequent emergence of multidrug-resistant A. baumannii strains that have rapidly gained resistance to most antibiotics, an extensive search for an effective A. baumannii vaccine is ongoing. Over the decade, many subunit vaccine candidates were identified using reverse vaccinology and in vivo animal studies for validation. Nineteen subunit vaccine candidates with a wide range of efficacy, from 14% to 100% preclinical survival rates, were included in this review. This article provides an updated review of several outer membrane proteins (Omp) that emerged as vaccine candidates with great potential, including OmpA, Omp34, Omp22 and BamA, based on their high conservancy, antigenicity, and immune protection against A. baumannii infection. However, there is still no licenced A. baumannii vaccine currently due to several practical issues that have yet to be resolved, such as inconsistencies between validation studies, antigen variability and insolubility. Moving forward, much investigation and innovation are still required to tackle these challenges for the regulatory approval of an A. baumannii subunit vaccine, including standardisation of immunisation study parameters, improving antigen solubility and the incorporation of nucleic acid vaccine technology."
+  },
+  {
+    "pmid": "26853590",
+    "doi": "10.1038/srep20724",
+    "year": "2016",
+    "first_author": "Huang W et al.",
+    "authors": [
+      "Huang W",
+      "Yao Y",
+      "Wang S",
+      "Xia Y",
+      "Yang X",
+      "Long Q",
+      "Sun W",
+      "Liu C",
+      "Li Y",
+      "Chu X",
+      "Bai H",
+      "Yao Y",
+      "Ma Y"
+    ],
+    "title": "Immunization with a 22-kDa outer membrane protein elicits protective immunity to multidrug-resistant Acinetobacter baumannii.",
+    "journal": "Scientific reports",
+    "abstract": "A. baumannii infections are becoming more and more serious health issues with rapid emerging of multidrug and extremely drug resistant strains, and therefore, there is an urgent need for the development of nonantibiotic-based intervention strategies. This study aimed at identifying whether an outer membrane protein with molecular weight of about 22 kDa (Omp22) holds the potentials to be an efficient vaccine candidate and combat A. baumannii infection. Omp22 which has a molecule length of 217 amino acids kept more than 95% conservation in totally 851 reported A. baumannii strains. Recombinant Omp22 efficiently elicited high titers of specific IgG in mice. Both active and passive immunizations of Omp22 increased the survival rates of mice, suppressed the bacterial burdens in the organs and peripheral blood, and reduced the levels of serum inflammatory cytokines and chemokines. Opsonophagocytosis assays showed in vitro that Omp22 antiserum had highly efficient bactericidal activities on clonally distinct clinical A. baumannii isolates, which were partly complements-dependent and opsonophagocytic killing effects. Additionally, administration with as high as 500 μg of Omp22 didn't cause obvious pathological changes in mice. In conclusion, Omp22 is a novel conserved and probably safe antigen for developing effective vaccines or antisera to control A. baumannii infections."
+  },
+  {
+    "pmid": "39789105",
+    "doi": "10.1038/s41598-024-84823-0",
+    "year": "2025",
+    "first_author": "Ma S et al.",
+    "authors": [
+      "Ma S",
+      "Zhu F",
+      "Zhang P",
+      "Xu Y",
+      "Zhou Z",
+      "Yang H",
+      "Tan C",
+      "Chen J",
+      "Pan P"
+    ],
+    "title": "Development of a novel multi-epitope subunit mRNA vaccine candidate to combat Acinetobacter baumannii.",
+    "journal": "Scientific reports",
+    "abstract": "Acinetobacter baumannii, an opportunistic bacterium prevalent in various environment, is a significant cause of nosocomial infections in ICUs. As the causative agent of pneumonia, septicemia, and meningitis, A. baumannii typically exhibits multidrug resistance and is associated with poor prognosis, thus led to a challenge for researchers in developing new treatment and prevention methods. This study involved the development of a novel multi-epitope mRNA vaccine for A. baumannii and validation of in silico approaches was conducted. We screened 11 immunodominant epitopes for cytotoxic T cells, 5 for helper T cells, and 10 for Linear B-cell based on promising candidate proteins omp33-36, ompA and ompW, the selection of these three proteins is based on reverse vaccinology screening and previous work by other researchers. All predicted epitopes demonstrated strong antigenicity, immunogenicity without posing any potential harm to humans. Additionally, high conservancy is required to cover different strains. All epitopes, as well as adjuvants, were constructed into a final vaccine, which was further assessed by calculating its physicochemical properties. Next, we docked the vaccine protein with immune receptors and analyzed the complexes with dynamic simulations to evaluate its affinity to receptors. At last, the constructed sequence is translated to an mRNA sequence. The results indicated the constructed vaccine is capability of eliciting robust humoral and cellular immune responses, making it a promising candidate for protection against the targeted pathogen."
+  },
+  {
+    "pmid": "26904021",
+    "doi": "10.3389/fmicb.2016.00158",
+    "year": "2016",
+    "first_author": "Singh R et al.",
+    "authors": [
+      "Singh R",
+      "Garg N",
+      "Shukla G",
+      "Capalash N",
+      "Sharma P"
+    ],
+    "title": "Immunoprotective Efficacy of Acinetobacter baumannii Outer Membrane Protein, FilF, Predicted In silico as a Potential Vaccine Candidate.",
+    "journal": "Frontiers in microbiology",
+    "abstract": "Acinetobacter baumannii is emerging as a serious nosocomial pathogen with multidrug resistance that has made it difficult to cure and development of efficacious treatment against this pathogen is direly needed. This has led to investigate vaccine approach to prevent and treat A. baumannii infections. In this work, an outer membrane putative pilus assembly protein, FilF, was predicted as vaccine candidate by in silico analysis of A. baumannii proteome and was found to be conserved among the A. baumannii strains. It was cloned and expressed in E. coli BL21(DE3) and purified by Ni-NTA chromatography. Immunization with FilF generated high antibody titer (>64,000) and provided 50% protection against a standardized lethal dose (10(8) CFU) of A. baumannii in murine pneumonia model. FilF immunization reduced the bacterial load in lungs by 2 and 4 log cycles, 12 and 24 h post infection as compared to adjuvant control; reduced the levels of pro-inflammatory cytokines TNF-α, IL-6, IL-33, IFN-γ, and IL-1β significantly and histology of lung tissue supported the data by showing considerably reduced damage and infiltration of neutrophils in lungs. These results demonstrate the in vivo validation of immunoprotective efficacy of a protein predicted as a vaccine candidate by in silico proteomic analysis and open the possibilities for exploration of a large array of uncharacterized proteins."
+  },
+  {
+    "pmid": "35367743",
+    "doi": "10.1016/j.intimp.2022.108731",
+    "year": "2022",
+    "first_author": "Akbari Z et al.",
+    "authors": [
+      "Akbari Z",
+      "Rasooli I",
+      "Ghaini MH",
+      "Chaudhuri S",
+      "Farshchi Andisi V",
+      "Jahangiri A",
+      "Ramezanalizadeh F",
+      "Schryvers AB"
+    ],
+    "title": "BauA and Omp34 surface loops trigger protective antibodies against Acinetobacter baumannii in a murine sepsis model.",
+    "journal": "International immunopharmacology",
+    "abstract": "The complexity of treating Acinetobacter baumannii infections with the newly developed resistant strains has led researchers to confront this pathogen by developing vaccines. In this study, we used two important virulence factors of A. baumannii to elicit immunity against the A. baumannii. The immunogenic loops were from Baumannii acinetobactin utilization A (BauA) and 34kD outer membrane protein (Omp34). C-lobe derivative of the TbpB surface lipoprotein was used to display the superficial epitopes of the TbpA receptor protein of Neisseria meningitidis. The resulting loopless C-lobe (LCL) with implanted nucleotide sequences of the immunogenic loops from BauA and Omp34 was used as a hybrid antigen. The hybrid antigens were expressed in the E. coli and were used to immunize mice. The mice were challenged with a clinical isolate of A. baumannii (ABI022). Immunization with the hybrid antigens of the BauA loop 7 (BauAL7P3), Omp34 loop 3 Omp34L3P1, and the combination of both loops (BauAL7P3Omp34L3P1) brought about 42.86%, 42.86%, and 71.43% protection against A. baumannii infection. Histopathological findings in the immunized mice showed bronchioles clear from inflammatory cells and normal texture of the spleen and liver. The findings support the use of a multivalent vaccine to induce broadly reactive antibody responses against heterologous A. baumannii strains."
+  },
+  {
+    "pmid": "39533090",
+    "doi": "10.1038/s41598-024-79013-x",
+    "year": "2024",
+    "first_author": "Behrouz B et al.",
+    "authors": [
+      "Behrouz B",
+      "Rasooli I",
+      "Badmasti F"
+    ],
+    "title": "Inserting Omp22 into the flagellin protein, replacing its hypervariable region, results in stronger protection against lethal Acinetobacter baumannii infection.",
+    "journal": "Scientific reports",
+    "abstract": "Acinetobacter baumannii, a common nosocomial pathogen, is known for its rapid acquisition of antimicrobial resistance, underscoring the urgent need to develop an effective vaccine against this pathogen. Outer membrane protein 22 (Omp22) regulates the biogenesis of outer membrane vesicles to transport virulence-promoting factors into the host cells and facilitates the progression of A. baumannii infection. In this study, we used a mouse model to assess a vaccine's immunogenicity and protective efficacy using recombinant Omp22 protein within the hypervariable region of flagellin (FliC-Omp22). FliC-Omp22 demonstrated superior protection following challenge with a lethal dose of multidrug-resistant (MDR) A. baumannii strain 58ST compared to Omp22 alone. In addition, it elicited increased IgG1/IgG2a and IL-4/IFN-γ ratios, indicating a predominant Th2 immune response. Furthermore, the FliC-Omp22 vaccination elicited strong specific antibodies that inhibited the adhesion and invasion of A. baumannii 58ST and enhanced the opsonic killing activity against the pathogen. FliC-Omp22 immunization significantly reduced bacterial loads in infected mice's spleen, lungs, and liver, thereby improving their survival against the lethal infection caused by MDR A. baumannii 58ST. This study suggests that integrating Omp22 into the hypervariable domain of flagellin holds promise for developing an effective vaccine against A. baumannii infections."
+  },
+  {
+    "pmid": "40726064",
+    "doi": "10.1002/eji.70019",
+    "year": "2025",
+    "first_author": "Zhu C et al.",
+    "authors": [
+      "Zhu C",
+      "Liang S",
+      "Yang N",
+      "Li S",
+      "Xue J",
+      "Zhou R",
+      "Hong X",
+      "Chen S",
+      "Gao N",
+      "Du Q",
+      "Huang J",
+      "Feng G",
+      "Du X"
+    ],
+    "title": "Immunogenicity-Guided Design of an Acinetobacter baumanii Vaccine.",
+    "journal": "European journal of immunology",
+    "abstract": "The development of vaccines represents a promising and safe strategy to combat multidrug-resistant (MDR) Acinetobacter baumannii (A. baumannii) infections. In this study, we designed and evaluated a dendritic cell (DC)-targeting multiepitope peptide-based biomimetic nanovaccine for its immunogenicity and protective efficacy in a murine model. Bioinformatics tools were employed to predict and screen B- and T-cell epitopes derived from the OmpW protein of A. baumannii, followed by immunological validation. The dominant epitopes were sequentially linked using 6-aminocaproic acid to synthesize a multiepitope peptide, rOmpW. Subsequently, rOmpW was encapsulated within polylactic-co-glycolic acid (PLGA) nanoparticles coated with neutrophil membranes (NM), and the surface was functionalized with a DC-targeting peptide (DCpep) to construct the biomimetic nanovaccine, DCpep-NM-PLGA-rOmpW. This biomimetic nanovaccine elicited robust Th1 and Th17 cellular immune responses, as well as humoral immunity, and demonstrated significant protective efficacy in a murine model of acute lethal pneumonia caused by A. baumannii. These findings underscore the translational potential of this biomimetic nanovaccine as a prophylactic strategy against A. baumannii infections."
+  },
+  {
+    "pmid": "34664813",
+    "doi": "10.18502/ijaai.v20i5.7404",
+    "year": "2021",
+    "first_author": "Mehdinejadiani K et al.",
+    "authors": [
+      "Mehdinejadiani K",
+      "Hashemi A",
+      "Bandehpour M",
+      "Rahmani H",
+      "Ranjbar MM",
+      "Yardel V",
+      "Jalali SA",
+      "Mosaffa N"
+    ],
+    "title": "Evaluationof the New Outer Membrane Protein A Epitope-based Vaccines for Mice Model of Acinetobacter baumannii Associated Pneumonia and Sepsis Infection.",
+    "journal": "Iranian journal of allergy, asthma, and immunology",
+    "abstract": "Nosocomial infections caused by Acinetobacter baumannii (A. baumannii) nosocomial infections caused by Acinetobacter baumannii (A. baumannii) are considered as a global serious problem in hospitalized patients because of emerging antibiotic resistance. Immunotherapy approaches are promising to prevent such infections. In our previous study, five antigenic epitopes of outer membrane protein A (OmpA), as the most dangerous virulence molecule in A. baumanii, were predicted in silico. In this study, the investigators evaluated some immunological aspects of the peptides. Five peptides were separately injected into C5BL/6 mice; then the cytokine production (interleukin-4 and interferon-gamma) of splenocytes and opsonophagocytic activity of immunized serum were assessed. To identify the protective function of the peptides, animal models of sepsis and pneumonia infections were actively and passively immunized with selected peptides and pooled sera of immunized mice, respectively. Then, survival rates of them were compared with the non-infected controls. Based on the results, activated spleen cells in P127 peptide-immunized mice exhibited an increase level of IFN-γ compared with the other experimental groups, but not about the IL-4 concentration. The results of opsonophagocytic assay revealed an appropriate killing activity of produced antibodies against A. baumannii in a dose-dependent manner. Further, the survival rates of the mice under passive immunization with the immunized sera or active immunization with P127 peptide were significantly more than those in the control group. Moreover, the survival rate of the P127 peptide immunized group was considerably higher than that among the other peptide-immunized group. In conclusion, findings indicated that peptides derived from outer membrane protein-A can be used as a promising tool for designing the epitope-based vaccines against infections caused by A. baumannii."
+  },
+  {
+    "pmid": "22253723",
+    "doi": "10.1371/journal.pone.0029446",
+    "year": "2012",
+    "first_author": "Luo G et al.",
+    "authors": [
+      "Luo G",
+      "Lin L",
+      "Ibrahim AS",
+      "Baquir B",
+      "Pantapalangkoor P",
+      "Bonomo RA",
+      "Doi Y",
+      "Adams MD",
+      "Russo TA",
+      "Spellberg B"
+    ],
+    "title": "Active and passive immunization protects against lethal, extreme drug resistant-Acinetobacter baumannii infection.",
+    "journal": "PloS one",
+    "abstract": "Extreme-drug-resistant (XDR) Acinetobacter baumannii is a rapidly emerging pathogen causing infections with unacceptably high mortality rates due to inadequate available treatment. New methods to prevent and treat such infections are a critical unmet medical need. To conduct a rational vaccine discovery program, OmpA was identified as the primary target of humoral immune response after intravenous infection by A. baumannii in mice. OmpA was >99% conserved at the amino acid level across clinical isolates harvested between 1951 and 2009 from cerebrospinal fluid, blood, lung, and wound infections, including carbapenem-resistant isolates, and was ≥89% conserved among other sequenced strains, but had minimal homology to the human proteome. Vaccination of diabetic mice with recombinant OmpA (rOmpA) with aluminum hydroxide adjuvant markedly improved survival and reduced tissue bacterial burden in mice infected intravenously. Vaccination induced high titers of anti-OmpA antibodies, the levels of which correlated with survival in mice. Passive transfer with immune sera recapitulated protection. Immune sera did not enhance complement-mediated killing but did enhance opsonophagocytic killing of A. baumannii. These results define active and passive immunization strategies to prevent and treat highly lethal, XDR A. baumannii infections."
+  },
+  {
+    "pmid": "30797936",
+    "doi": "10.1016/j.ejps.2019.02.023",
+    "year": "2019",
+    "first_author": "Ahmad S et al.",
+    "authors": [
+      "Ahmad S",
+      "Ranaghan KE",
+      "Azam SS"
+    ],
+    "title": "Combating tigecycline resistant Acinetobacter baumannii: A leap forward towards multi-epitope based vaccine discovery.",
+    "journal": "European journal of pharmaceutical sciences : official journal of the European Federation for Pharmaceutical Sciences",
+    "abstract": "Global emergence of Tigecycline resistant Acinetobacter baumannii (TRAB) is on the horizon and poses a very serious threat to human health. There is a pressing demand for suitable therapeutics against this pathogen, particularly a vaccine to protect against TRAB infections. We present a comprehensive investigation of the complete proteome of a TRAB AB031 strain to predict promiscuous antigenic, non-allergenic, virulent B-cell derived T-cell epitopes and formulate a multi-epitope vaccine against the pathogen. We identified epitopes from three proteins: outer membrane protein assembly factor (BamA), fimbrial biogenesis outer membrane usher protein (FimD) and type IV secretion protein (Rhs) that are appropriate for vaccine design. These proteins constitute the core proteome of the pathogen, are essential, localized at the pathogen surface, non-homologous to humans, mice and to the beneficial probiotic bacteria that reside the human gut. Moreover, these proteins are ideal candidates for experimental investigation as they have favorable physicochemical properties and have strong cellular interacting networks. The predicted epitopes: FPLNDKPGD (BamA), FVHAEEAAA (FimD) and YVVAGTAAA (Rhs) have exo-membrane topology for efficient recognition of the host immune system and high affinity for the most prevalent allele in human populations, the DRB*0101. These epitopes were linked and attached to an adjuvant to enhance its antigenicity. The multi-epitope vaccine-construct was docked with the TLR4 receptor to assess its affinity for the protein and thus its presentation to the host immune system. Docking results were validated through molecular dynamics simulations and binding free energies were calculated using the molecular mechanics/generalized Born (MM-GBSA) method. In conclusion, we expect the designed chimeric vaccine is highly likely to be effective against infections caused by TRAB."
+  },
+  {
+    "pmid": "38432452",
+    "doi": "10.1016/j.ijpharm.2024.123961",
+    "year": "2024",
+    "first_author": "Sabzi S et al.",
+    "authors": [
+      "Sabzi S",
+      "Habibi M",
+      "Badmasti F",
+      "Shahbazi S",
+      "Asadi Karam MR",
+      "Farokhi M"
+    ],
+    "title": "Polydopamine-based nano adjuvant as a promising vaccine carrier induces significant immune responses against Acinetobacter baumannii-associated pneumonia.",
+    "journal": "International journal of pharmaceutics",
+    "abstract": "The objective of this study was to assess the effectiveness of polydopamine nanoparticles (PDANPs) as a delivery system for intranasal antigen administration to prevent Acinetobacter baumannii (A. baumannii)-associated pneumonia. In the in vitro phase, the conserved outer membrane protein 22 (Omp22)-encoding gene of A. baumannii was cloned, expressed, and purified, resulting in the production of recombinant Omp22 (rOmp22), which was verified using western blot. PDANPs were synthesized using dopamine monomers and loaded with rOmp22 through physical adsorption. The rOmp22-loaded PDANPs were characterized in terms of size, size distribution, zeta potential, field emission scanning electron microscopy (FESEM), loading capacity, Fourier transform infrared spectroscopy (FTIR), release profile, and cytotoxicity. In the in vivo phase, the adjuvant effect of rOmp22-loaded PDANPs was evaluated in terms of eliciting immune responses, including humoral and cytokine levels (IL-4, IL-17, and IFN-γ), as well as protection challenge. The rOmp22-loaded PDANPs were spherical with a size of 205 nm, a zeta potential of -14 mV, and a loading capacity of approximately 35.7 %. The released rOmp22 from nontoxic rOmp22-loaded PDANPs over 20 days was approximately 41.5 %, with preserved rOmp22 integrity. The IgG2a/IgG1 ratio and IFN-γ levels were significantly higher in immunized mice with rOmp22-loaded-PDANPs than in rOmp22-alum, naive Omp22, and control groups. Furthermore, rOmp22-loaded PDANPs induced effective protection against infection in the experimental challenge and showed more normal structures in the lung histopathology assay. The results of this study suggest the potential of PDANPs as a nano-adjuvant for inducing strong immune responses to combat A. baumannii."
+  },
+  {
+    "pmid": "28947651",
+    "doi": "10.1128/IAI.00591-17",
+    "year": "2017",
+    "first_author": "Wang-Lin SX et al.",
+    "authors": [
+      "Wang-Lin SX",
+      "Olson R",
+      "Beanan JM",
+      "MacDonald U",
+      "Balthasar JP",
+      "Russo TA"
+    ],
+    "title": "The Capsular Polysaccharide of Acinetobacter baumannii Is an Obstacle for Therapeutic Passive Immunization Strategies.",
+    "journal": "Infection and immunity",
+    "abstract": "Acinetobacter baumannii has become an important concern for human health due to rapid development and wide spread of antimicrobial-resistant strains and high mortality associated with the infection. Passive immunizations with antisera targeting outer membrane proteins (OMPs) have shown encouraging results in protecting mice from A. baumannii infection, but monoclonal anti-OMP antibodies have not been developed, and their potential therapeutic properties have not been explored. The goal of this report is to evaluate the antibacterial activity of monoclonal antibodies (MAbs) targeting outer membrane protein A (OmpA) of A. baumannii Five anti-OmpA MAbs were developed using hybridoma technology and showed strong binding to strain ATCC 19606. However, low antibody binding was observed when they were tested against six clinical isolates, which included extensively drug-resistant strains. In contrast, high binding to an isogenic K1 capsule-negative mutant (AB307.30) was shown, suggesting that capsular polysaccharide mediated the inhibition of MAb binding to OmpA. Anti-OmpA MAbs increased the macrophage-mediated bactericidal activity of AB307.30 but failed to increase phagocytic killing of capsule-positive strains. Capsular polysaccharide was also protective against complement-mediated bactericidal activity in human ascites in the presence and absence of opsonization. Lastly, passive immunization with anti-OmpA MAbs did not confer protection against challenge with AB307-0294, the encapsulated parent strain of AB307.30, in a mouse sepsis infection model. These results reveal the important role of capsule polysaccharide in shielding OmpA and thereby inhibiting anti-OmpA MAb binding to clinical isolates. This property of capsule hindered the therapeutic utility of anti-OmpA MAbs, and it may apply to other conserved epitopes in A. baumannii."
+  },
+  {
+    "pmid": "35785727",
+    "doi": "10.1016/j.intimp.2022.109013",
+    "year": "2022",
+    "first_author": "Golestani F et al.",
+    "authors": [
+      "Golestani F",
+      "Malekan M",
+      "Rasooli I",
+      "Jahangiri A",
+      "Ramezanalizadeh F",
+      "Chaudhuri S",
+      "Farshchi Andisi V",
+      "Schryvers AB"
+    ],
+    "title": "Immunogenicity of loop 3 of Omp34 from A. Baumannii in loopless C-lobe of TbpB of N. meningitidis.",
+    "journal": "International immunopharmacology",
+    "abstract": "Acinetobacter baumannii is a common causative agent of nosocomial infections, with a mortality rate of 43% in infected patients. Due to the emergence of multidrug-resistant (MDR) strains, vaccine development has become necessary. Since the 34 kDa outer membrane protein Omp34 has been identified as a potential vaccine target, we implemented a hybrid antigen approach to target its extracellular loops. Using bioinformatic and structural analyses, we selected Loop 3 from Omp34 and displayed it on the loopless C-lobe (LCL) of TbpB of Neisseria meningitidis. The hybrid antigen and the LCL were produced and used to immunize mice for passive and active immunization and challenge experiments in which the reactivity of the sera was assessed by ELISAs, the bacterial load in the tissues measured and the survival of immunized mice compared. LCL was ineffective in immunization against A. baumannii thus the resulting immunity was due to the presence of Omp34 loop 3. It resulted in increased survival and a reduced bacterial load in the tissues compared to the control groups. The findings indicate that the immunogenicity of Omp34 loops can induce protection against A. baumannii infection, and it could probably be used as a vaccine candidate to control the pathogenesis of A. baumannii."
+  },
+  {
+    "pmid": "32421073",
+    "doi": "10.1007/s10989-020-10056-0",
+    "year": "2020",
+    "first_author": "Rasooli I et al.",
+    "authors": [
+      "Rasooli I",
+      "Abdolhamidi R",
+      "Jahangiri A",
+      "Darvish Alipour Astaneh S"
+    ],
+    "title": "Outer Membrane Protein, Oma87 Prevents Acinetobacter baumannii Infection.",
+    "journal": "International journal of peptide research and therapeutics",
+    "abstract": "Acinetobacter baumannii is one of the most problematic pathogens in clinical settings. Emerging of its antibiotic-resistant strains persuade researchers to find alternative treatment options such as immunization against the notorious nosocomial pathogen. Oma87 has been introduced as an immunogenic outer membrane protein via reverse vaccinology. However, protectivity of A. baumannii Oma87 is not well known. The current research undertakes a study on the immunogenicity of recombinant Oma87 in a murine model. Some physico-chemical properties were assessed via in silico analyses. The corresponding gene was amplified and cloned into pET28a plasmid. The recombinant protein was purified and then was administered to immunize mice. Sera obtained from the immunized mice were assessed with respect to the triggered antibodies. Challenges were performed on actively or passively immunized mice. In silico analyses revealed that this protein is the same as BamA. A high titer of specific antibody was raised against rOma87 even after the first injection. The specific antibody recognized the whole cell of A. baumannii. Both active and passive immunizations confer 100 and 50% protection, respectively against ~ 2 × lethal dose (LD) of A. baumannii in the murine sepsis model. Although none of mice received ~ 5 × LD of A. baumannii survived in passive immunization, 25% of mice challenged with ~ 7 × LD of the bacteria survived and the dead mice exhibited a delayed death. Based on these results, Oma87 is the same as BamA which could be considered as a promising vaccine candidate against A. baumannii in the sepsis model."
+  },
+  {
+    "pmid": "35773688",
+    "doi": "10.1186/s12941-022-00523-5",
+    "year": "2022",
+    "first_author": "Yeganeh O et al.",
+    "authors": [
+      "Yeganeh O",
+      "Shabani M",
+      "Pakzad P",
+      "Mosaffa N",
+      "Hashemi A"
+    ],
+    "title": "Evaluation the reactivity of a peptide-based monoclonal antibody derived from OmpA with drug resistant pulsotypes of Acinetobacter baumannii as a potential therapeutic approach.",
+    "journal": "Annals of clinical microbiology and antimicrobials",
+    "abstract": "BACKGROUND: Acinetobacter baumannii is an opportunistic and antibiotic-resistant pathogen that predominantly causes nosocomial infections. There is urgent need for development nonantibiotic-based treatment strategies. We developed a novel monoclonal antibody (mAb) against a peptide of conserved outer membrane protein A (OmpA) and evaluated its reactivity with different pulsotypes of A. baumannii. METHODS: Peptide derived from A. baumannii OmpA was conjugated to keyhole limpet hemocyanin and injected into BALB/c mice. Splenocytes of immunized mice were fused with SP2/0 myeloma cells followed by selection of antibody-producing hybridoma cells. After screening of different hybridoma colonies by ELISA, one monoclone was selected as 3F10-C9 and the antibody was tested for reaction with five different Acinetobacter pulsotypes that were resistant to carbapenem antibiotics. The affinity constant was measured by ELISA. The ELISA, western blotting, indirect immunofluorescence (IFA), and in vitro opsonophagocytosis assays were used to evaluate the reactivity of generated mAb. RESULTS: The anti-OmpA antibody reacted with the immunizing peptide and had a high affinity (1.94 × 10-9 M) for its antigen in the ELISA. Specific binding of mAb to OmpA was confirmed in Western blot. IFA assays revealed that mAb recognized specific OmpA on the pulsotypes. Opsonophagocytosis assays showed that the mAb increased the bactericidal activity of macrophage cells. The antibody function was higher in the presence of serum complement. CONCLUSIONS: The peptide-based mAb demonstrated optimal performance in laboratory experiments which may be appropriate in investigation on OmpA in Acinetobacter pathogenesis and development of passive immunization as a novel therapeutic approach."
+  },
+  {
+    "pmid": "31231495",
+    "doi": "10.22038/ijbms.2019.30799.7427",
+    "year": "2019",
+    "first_author": "Ansari H et al.",
+    "authors": [
+      "Ansari H",
+      "Tahmasebi-Birgani M",
+      "Bijanzadeh M",
+      "Doosti A",
+      "Kargar M"
+    ],
+    "title": "Study of the immunogenicity of outer membrane protein A (ompA) gene from Acinetobacter baumannii as DNA vaccine candidate in vivo.",
+    "journal": "Iranian journal of basic medical sciences",
+    "abstract": "OBJECTIVES: Acinetobacter baumannii is one the most dangerous opportunistic pathogens in hospitalized infections. This bacterium is resistant to 90% of commercial antibiotics. Therefore, developing new strategies to cure A. baumannii-infections is urgent. The DNA vaccines new approach in which the immunogen can be directly expressed inside the target cells through cloning of immunogen into an expression vector. The outer membrane protein A(OmpA) is one the critical factors in pathogenicity of A. baumannii which has been repeatedly described as a powerful immunogen to trigger the immune responses. As the pure form of the OmpA is insoluble, vaccine delivery is very hard. MATERIALS AND METHODS: We previously cloned the ompA gene from A. baumannii into the eukaryotic expression vector pBudCE4.1 and observed that the OmpA protein has been considerably expressed in eukaryotic cell model. In current study, the immunogenic potential of pBudCE4.1-ompA has been evaluated in mice model of experimental. The serum levels of IgM, IgG, IL-2, IL-4, IL-12 and INF-γ were measured by enzyme-linked immunosorbent assay (ELISA) after immunization with ompA-vaccine. The protective efficiency of the designed-DNA vaccine was evaluated following intranasal administration of mice with toxic dose of A. baumannii. RESULTS: Obtained data showed the elevated levels of IgM, IgG, IL-2, IL-4, IL-12 and INF-γ in serum following the vaccine administration and mice who immunized with recombinant vector were survived more than control group. CONCLUSION: These findings indicate ompA-DNA vaccine is potent to trigger humoral and cellular immunity responses although further experiments are needed."
+  },
+  {
+    "pmid": "32156509",
+    "doi": "10.1016/j.ijmm.2020.151415",
+    "year": "2020",
+    "first_author": "Bahey-El-Din M et al.",
+    "authors": [
+      "Bahey-El-Din M",
+      "Mohamed SA",
+      "Sheweita SA",
+      "Haroun M",
+      "Zaghloul TI"
+    ],
+    "title": "Recombinant N-terminal outer membrane porin (OprF) of Pseudomonas aeruginosa is a promising vaccine candidate against both P. aeruginosa and some strains of Acinetobacter baumannii.",
+    "journal": "International journal of medical microbiology : IJMM",
+    "abstract": "Pseudomonas aeruginosa is an evolving pathogen which can cause serious infections especially to immunocompromised patients. Its high resistance profile to antibiotics results in difficulty, and sometimes impossibility, in treating afflicted patients. Developing an effective vaccine against P. aeruginosa is an important approach to tackle this problem. A similar problematic situation exists for Acinetobacter baumannii. Several vaccine candidates have been investigated up till now but still there is no approved vaccine in the market. One important antigen of P. aeruginosa is the outer membrane protein F (OprF) which functions as a porin with relevant important roles in virulence. Previous studies focused mainly on the C-terminal peptidoglycan binding domain of OprF as a vaccine candidate. In the current study, we have investigated the N-terminal porin domain of OprF as a potential vaccine candidate against P. aeruginosa. Histidine-tagged recombinant N-terminal OprF (amino acid range 25-200; OprF25-200) was overexpressed in Escherichia coli and purified using metal affinity chromatography. Swiss albino mice were immunized with OprF25-200 adjuvanted with Bacillus Calmette-Guérin (BCG) and alum and the immune response was evaluated. Immunized mice developed antigen-specific IgG1 and IgG2a and were protected against challenge by both P. aeruginosa and a clinical isolate of A. baumannii expressing OprF. Serum from OprF25-200-immunized mice showed cross-reactivity with both pathogens using western blotting and whole cell enzyme-linked immunosorbent assay (ELISA). To our knowledge, this is the first report to demonstrate that the N-terminal domain of OprF is sufficiently immunogenic to protect against the two pathogens."
+  },
+  {
+    "pmid": "32245309",
+    "doi": "10.18502/ijaai.v18i6.2178",
+    "year": "2019",
+    "first_author": "Mehdinejadiani K et al.",
+    "authors": [
+      "Mehdinejadiani K",
+      "Bandehpour M",
+      "Hashemi A",
+      "Ranjbar MM",
+      "Taheri S",
+      "Jalali SA",
+      "Mosaffa N"
+    ],
+    "title": "In Silico Design and Evaluation of Acinetobacter baumannii Outer Membrane Protein a Antigenic Peptides As Vaccine Candidate in Immunized Mice.",
+    "journal": "Iranian journal of allergy, asthma, and immunology",
+    "abstract": "Acinetobacter baumannii is a Gram-negative bacterium that has recently been identified as a leading nosocomial pathogen. Infections by this pathogen result in significant mortality due to antibiotic resistance. An effective vaccine would help alleviate the burden of disease incurred by this pathogen; however, there are currently no licensed vaccines offering protection against Acinetobacter baumannii infection. In this study, considering the fact that outer membrane protein A is one of the most promising vaccine candidates, we predicted T cell and B cell epitopes on this protein using sequence-based epitope prediction tools and determined whether or not mice immunized with these peptides induce an immune response. We selected consensus epitopes including five peptides in different tools with the highest score. 48 female C5BL/6 SPF injected subcutaneously with the peptides (peptide1 to peptide 5 separately) in 100 μL of the solution and sham groups received adjuvant and PBS alone on the same schedule: on day 0 (primary dose) and two booster doses were administered on days 14 and 28. At the end of time, animals euthanized by Isoflurane, and collected sera for assessment of specific antibodies against each peptide by ELISA (Enzyme-linked immunosorbent assay). Immunization of mice showed one of the novel synthetic peptides (peptide 1 (24-50 amino acids)) elicited immune responses. We conclude to combine theoretical methods of epitope prediction and evaluating the potential of immunogenicity for developing vaccines is important."
+  },
+  {
+    "pmid": "40830931",
+    "doi": "10.1186/s12866-025-04283-y",
+    "year": "2025",
+    "first_author": "Zhang Y et al.",
+    "authors": [
+      "Zhang Y",
+      "Yu W",
+      "Yu P",
+      "Wang S",
+      "Dong H",
+      "Qi Y",
+      "Chen X",
+      "Zhang L",
+      "Liu Y",
+      "Mou X",
+      "Zhao T",
+      "Zhang J",
+      "Chen X",
+      "Li H",
+      "Zhou S",
+      "Wu Y",
+      "Tian Y"
+    ],
+    "title": "High-throughput single-cell analysis reveals fully human Omp38-specific monoclonal antibodies against Acinetobacter baumannii.",
+    "journal": "BMC microbiology",
+    "abstract": "BACKGROUND: Acinetobacter baumannii (A. baumannii) is a significant global health threat, particularly in hospital environments, where it is often linked to severe infections. As the need for innovative therapeutic approaches grows, fully human monoclonal antibodies (mAbs) have gained attention because of their high specificity, reduced immunogenicity, and enhanced affinity for target antigens, which may improve clinical efficacy. METHODS: Using the Beacon platform, we isolated single B cells from immunized humanized genomic orthologs for antibody development (HUGO-Ab) mice to develop outer membrane protein (OMP)-specific mAbs. The variable regions of the selected mAbs were cloned into mammalian expression vectors containing constant human IgG1 regions to generate fully human mAbs. After identifying mAbs binding to Omp38 via ELISA, their binding ability to LAC-4 and the clinical isolates was further evaluated. Subsequently, the effects of these mAbs on A. baumannii adhesion and biofilm formation were tested, and their protective efficacy was assessed using a lethal infection model. Finally, bioinformatics methods were used to predict the binding conformation of mAb F2 to Omp38. RESULTS: Omp38-specific fully human mAb F2 potently and broadly bound to A. baumannii strains and inhibited bacterial adherence and biofilm formation. Binding modeling and conformational analysis revealed that F2 targets the extracellular region of Omp38 and forms stable hydrogen bonds with different strains, suggesting its potential for broad-spectrum binding to diverse A. baumannii strains. CONCLUSIONS: This study demonstrates the utility of high-throughput single-cell analysis and antibody engineering in developing fully human mAbs against A. baumannii, highlighting the potential of these novel fully human mAbs to advance therapeutic strategies and improve clinical outcomes for A. baumannii infections."
+  },
+  {
+    "pmid": "22132887",
+    "doi": "10.1111/j.1365-2249.2011.04489.x",
+    "year": "2012",
+    "first_author": "Kim BR et al.",
+    "authors": [
+      "Kim BR",
+      "Yang EK",
+      "Kim DY",
+      "Kim SH",
+      "Moon DC",
+      "Lee JH",
+      "Kim HJ",
+      "Lee JC"
+    ],
+    "title": "Generation of anti-tumour immune response using dendritic cells pulsed with carbonic anhydrase IX-Acinetobacter baumannii outer membrane protein A fusion proteins against renal cell carcinoma.",
+    "journal": "Clinical and experimental immunology",
+    "abstract": "Carbonic anhydrase IX (CA9), a specific molecular marker for renal cell carcinoma (RCC), serves as a potential target for RCC-specific immunotherapy using dendritic cells (DCs). However, pulsing of DCs with CA9 alone is not sufficient for generation of a therapeutic anti-tumour immune response against RCC. In this study, in order to generate a potent anti-tumour immune response against RCC, we produced recombinant CA9-Acinetobacter baumannii outer membrane protein A (AbOmpA) fusion proteins, designated CA9-AbOmpA, and investigated the ability of DCs pulsed with CA9-AbOmpA fusion proteins in a murine renal cell carcinoma (RENCA) model. A recombinant CA9-AbOmpA fusion protein was composed of a unique proteoglycan-related region of CA9 (1-120 amino acids) fused at the C-terminus with transmembrane domain of AbOmpA (1-200 amino acids). This fusion protein was capable of inducing DC maturation and interleukin (IL)-12 production in DCs. Interaction of DCs pulsed with CA9-AbOmpA fusion proteins with naive T cells stimulated secretion of IL-2, interferon (IFN)-γ and tumour necrosis factor (TNF)-α in T cells. Lymphocytes harvested from mice immunized with DCs pulsed with CA9-AbOmpA fusion proteins secreted IFN-γ and showed a specific cytotoxic activity against CA9-expressing RENCA (RENCA-CA9) cells. Administration of CA9-AbOmpA-pulsed DC vaccine suppressed growth of RENCA-CA9 cells in mice with an established tumour burden. These results suggest that DCs pulsed with CA9-AbOmpA fusion proteins generate a specific anti-tumour immune response against RCC, which can be utilized in immunotherapy of RCC."
+  },
+  {
+    "pmid": "39674425",
+    "doi": "10.1016/j.micpath.2024.107226",
+    "year": "2025",
+    "first_author": "Zhu Z et al.",
+    "authors": [
+      "Zhu Z",
+      "Zhou Z",
+      "Zhu T",
+      "Kong G",
+      "Yin Y",
+      "Li G",
+      "Jiao H"
+    ],
+    "title": "K. pneumoniae ghosts serve as a novel vaccine formulation to enhance immune responses of A. baumannii subunit vaccine in mice.",
+    "journal": "Microbial pathogenesis",
+    "abstract": "Acinetobacter baumannii (A. baumannii) is a prominent nosocomial pathogen, posing a significant threat to public health. Urgent efforts are required to develop a safe and effective vaccine. Bacterial ghosts (BGs), comprising empty bacterial cell envelopes, offer a promising platform for vaccine adjuvant development. In the present study, Klebsiella pneumoniae (K. pneumoniae, KP) ghosts were generated via PhiX-174 lysis gene E-mediated inactivation. The present study results demonstrated that KP ghosts greatly promoted maturation and activation of BMDCs by upregulating the expression of surface molecules (CD40, CD80, CD86 and MHCII) and improving the secretion of cytokines (IL-1β, TNF-α and IL-12p70). In addition, to assess the immunogenicity and protective efficacy of the vaccine candidate, C57BL/6 mice were immunized with either A. baumannii OmpA or A. baumannii OmpA plus KP ghosts. The results showed that OmpA plus KP ghosts elicited higher levels of specific IgG antibody responses compared to OmpA alone. Furthermore, OmpA plus KP ghosts also increased lymphocyte proliferation and expression of the early activation marker CD69 on T cells, augmented frequency of central memory T cells (TCM) and IFN-γ+CD4+ T cells with production of increased IFN-γ in response to OmpA stimulation, as compared to OmpA alone. Furthermore, post-challenge with A. baumannii, mice immunized with OmpA plus KP ghosts exhibit a higher survival rate and lower bacterial loads in the spleen and lungs compared to those immunized with OmpA alone. In conclusion, these findings underscore the potential of KP ghosts as a candidate vaccine formulation or immunomodulators for designing a novel vaccine against A. baumannii infection."
+  },
+  {
+    "pmid": "26277277",
+    "doi": "10.1016/j.molimm.2015.07.031",
+    "year": "2015",
+    "first_author": "Badmasti F et al.",
+    "authors": [
+      "Badmasti F",
+      "Ajdary S",
+      "Bouzari S",
+      "Fooladi AA",
+      "Shahcheraghi F",
+      "Siadat SD"
+    ],
+    "title": "Immunological evaluation of OMV(PagL)+Bap(1-487aa) and AbOmpA(8-346aa)+Bap(1-487aa) as vaccine candidates against Acinetobacter baumannii sepsis infection.",
+    "journal": "Molecular immunology",
+    "abstract": "Acinetobacter baumannii is an important nosocomial pathogen that causes a high morbidity and mortality rate in infected patients with sepsis form. The surface exposed virulence proteins and serum resistance factors helping to dissemination of this bacterium to bloodstream are the most promising vaccine candidates against this microorganism. In this project we immunologically evaluated OMV(PagL)+Bap(1-487aa) and AbOmpA (8-346aa)+Bap(1-487aa) as combination forms as well as Bap(1-487aa), AbOmpA(8-346aa) and OMV(PagL) singly, with addition of alum adjuvant as vaccine candidates. The titers of total IgG, IgG1 and IgG2c as well as concentration of IL-4 and IFN-γ and survival rates were measured in a C57BL/6 murine model with disseminated sepsis. The ratio of IgG1/IgG2c and profile of IL-4/IFN-γ in OMV (PagL)+Bap (1-487aa) formulation shows the humoral and cellular immune responses have been induced robustly and have created a full protection against A. baumannii ATCC 19606 and MDR AB-44 strains. We found that the two combination vaccine candidates were protective and induced both Th1 and Th2 responses."
+  },
+  {
+    "pmid": "32637498",
+    "doi": "10.1016/j.dib.2020.105892",
+    "year": "2020",
+    "first_author": "Mobarak Qamsari M et al.",
+    "authors": [
+      "Mobarak Qamsari M",
+      "Rasooli I",
+      "Darvish Alipour Astaneh S"
+    ],
+    "title": "Data retrieved from in silico evaluation of vaccine potential of ZnuD protein in Acinetobacter baumannii.",
+    "journal": "Data in brief",
+    "abstract": "The nosocomial Acinetobacter baumannii is one of the most opportunistic pathogens that resists almost a broad range of antibiotics. Some bacterial metal acquisition systems are introduced as potential virulence factors in pathogen-host interaction.  Bacterial zinc uptake (Znu) systems are critical transporters that play a major role in the survival of the pathogen and the establishment of infections.  In silico characterization of ZnuD shows that it is an outer membrane protein with high conservancy rates in most Acinetobacter baumannii strains. The in silico derived physicochemical properties, structural and conserved immunoinformatic prediction data among Acinetobacter baumannii strains confirm that ZnuD belongs to Ton B dependent siderophore receptor families and is considered as a potential vaccine candidate. A more detailed interpretation of the data presented in this article is provided in \"Identification and immunogenic properties of recombinant ZnuD protein loops of Acinetobacter baumannii\" [1]."
+  },
+  {
+    "pmid": "26207591",
+    "doi": "10.1016/j.vaccine.2015.07.031",
+    "year": "2015",
+    "first_author": "Huang W et al.",
+    "authors": [
+      "Huang W",
+      "Wang S",
+      "Yao Y",
+      "Xia Y",
+      "Yang X",
+      "Long Q",
+      "Sun W",
+      "Liu C",
+      "Li Y",
+      "Ma Y"
+    ],
+    "title": "OmpW is a potential target for eliciting protective immunity against Acinetobacter baumannii infections.",
+    "journal": "Vaccine",
+    "abstract": "Acinetobacter baumannii (A. baumannii) is an important conditioned pathogen that causes nosocomial and community-associated infections. In this study, we sought to investigate whether outer membrane protein W (OmpW) is a potential target for eliciting protective immunity against A. baumannii infections. Mice immunized with the fusion protein thioredoxin-OmpW generated strong OmpW-specific IgG responses. In a sepsis model, both active and passive immunizations against OmpW effectively protected mice from A. baumannii infections. This protection was demonstrated by a significantly improved survival rate, reduced bacterial burdens within organs, and the suppressed accumulation of inflammatory cytokines and chemokines in sera. Opsonophagocytic assays with murine macrophage RAW264.7 cells indicated that the bactericidal effects of the antisera derived from the immunized mice are mediated synergistically by specific antibodies and complement components. The antisera presented significant opsonophagocytic activities against homologous strains and clonally distinct clinical isolates in vitro. Protein data analysis showed that the sequence of OmpW, which has a molecule length of 183 amino acids, is more than 91% conserved in reported A. baumannii strains. In conclusion, we identified OmpW as a highly immunogenic and conserved protein as a valuable antigen candidate for the development of an effective vaccine or the preparation of antisera to control A. baumannii infections."
+  },
+  {
+    "pmid": "30353977",
+    "doi": "10.1111/jam.14135",
+    "year": "2019",
+    "first_author": "Jahangiri A et al.",
+    "authors": [
+      "Jahangiri A",
+      "Owlia P",
+      "Rasooli I",
+      "Salimian J",
+      "Derakhshanifar E",
+      "Naghipour Erami A",
+      "Darzi Eslam E",
+      "Darvish Alipour Astaneh S"
+    ],
+    "title": "Specific egg yolk antibodies (IgY) confer protection against Acinetobacter baumannii in a murine pneumonia model.",
+    "journal": "Journal of applied microbiology",
+    "abstract": "AIM: Acinetobacter baumannii, an increasingly serious health threat, is considered as one of the six most dangerous microbes of high mortality rate. However, treatment of its infections is difficult because of the lack of efficient antibiotic or commercial vaccines. Passive immunization through administration of specific antibodies such as IgY, could be an attractive practical solution. METHODS AND RESULTS: In the current study, antigenicity of two recombinant outer membrane proteins (OmpA and Omp34) as well as inactivated whole cell of A. baumannii was assessed by ELISA. Moreover, prophylactic effects of specific IgY antibodies (avian antibody) raised against these antigens were evaluated in a murine pneumonia model. The specific IgY antibodies had various prophylactic effects in the pneumonia model. OmpA was the most potent antigen in terms of triggering antibody and conferring protection. While a synergic effect was observed in ELISA for antibodies raised against a combination of OmpA and Omp34 (which are known as Omp33-36 and Omp34 kDa), an antagonistic effect was unexpectedly seen in challenges. The reason for this phenomenon remains to be precisely addressed. CONCLUSION: All the specific IgY antibodies could protect mice against pneumonia caused by A. baumannii. SIGNIFICANCE AND IMPACT OF THE STUDY: The specific IgY antibodies could be employed as a pharmaceutical against pneumonia caused by A. baumannii."
+  },
+  {
+    "pmid": "42822178",
+    "doi": "10.1016/j.vaccine.2026.129205",
+    "year": "2026",
+    "first_author": "Banisaeed SR et al.",
+    "authors": [
+      "Banisaeed SR",
+      "Rasooli I",
+      "Ghazanfari T",
+      "Ajdary S",
+      "Nikbin VS"
+    ],
+    "title": "An integrated immunoinformatics and experimental pipeline identifies an LCL-scaffolded OmpA loop 3 construct as a protective vaccine candidate against Acinetobacter baumannii.",
+    "journal": "Vaccine",
+    "abstract": "Acinetobacter baumannii has emerged as a critical nosocomial pathogen due to its extensive antimicrobial resistance and limited treatment options, highlighting the urgent need for effective vaccines. In this study, we developed and evaluated a rationally engineered epitope-based vaccine targeting extracellular loop 3 of outer membrane protein A (OmpA). Using an integrated immunoinformatics and experimental pipeline, the selected OmpA loop was grafted onto a loopless C-lobe (LCL) scaffold derived from transferrin-binding protein B to preserve native-like conformation and enhance epitope presentation. Four hybrid constructs were designed and comprehensively evaluated through computational analyses, including antigenicity prediction, structural modeling, molecular dynamics simulation, Toll-like receptor docking, and MHC-II binding assessment. Among them, OmpAL3-P2 exhibited the most favorable structural stability, surface accessibility, and epitope preservation profile. Experimental validation demonstrated successful recombinant expression and purification of the selected construct. Immunization of C57BL/6 mice with OmpAL3 induced strong antigen-specific humoral and cellular immune responses characterized by elevated IgG, predominant IgG2c production, enhanced splenocyte proliferation, and increased IFN-γ secretion, indicating a Th1-skewed response. In murine sepsis challenge models, OmpAL3 conferred significant protection, reduced bacterial burdens in major organs, and preserved tissue integrity. Passive immunization experiments further confirmed the protective contribution of vaccine-induced antibodies. Collectively, these findings demonstrate that LCL-scaffolded OmpA loop 3 is a promising subunit vaccine candidate against multidrug-resistant A. baumannii and supports the utility of scaffold-based structural vaccinology for rational vaccine development."
+  },
+  {
+    "pmid": "41649287",
+    "doi": "10.1128/msphere.00779-25",
+    "year": "2026",
+    "first_author": "Thaiprayoon A et al.",
+    "authors": [
+      "Thaiprayoon A",
+      "Oonanant W",
+      "Boonsilp S",
+      "Submunkongtawee N",
+      "Longsompurana P",
+      "Moonmangmee D",
+      "Riangrungroj P",
+      "Leelawattanachai J",
+      "Tabtimmai L",
+      "Kruse AC",
+      "DeLisa MP",
+      "Havanapan P-o",
+      "Waraho-Zhmayev D"
+    ],
+    "title": "Development of nanobody-conjugated LL37 for synergistic therapy against MDR Acinetobacter baumannii.",
+    "journal": "mSphere",
+    "abstract": "Multidrug resistance (MDR) of the pathogen Acinetobacter baumannii is a major challenge to global healthcare due to the limited treatment options. The emergence of MDR bacteria necessitates innovative therapeutic approaches, especially given the associated economic burden and the rapid spread of infections. Conventional treatments such as antibiotics and vaccines face significant obstacles. Antimicrobial peptides (AMPs) such as LL37 have potential as an alternative treatment due to their broad-spectrum activity and ability to target specific bacterial structures such as the outer membrane protein A (OmpA). The efficacy of AMPs can be enhanced by using nanobodies (Nbs) that bind to bacterial OmpA, guiding LL37 precisely to its target. In this study, A. baumannii OmpA (AbOmpA)-specific Nbs (NbO7 and NbO13) were efficiently isolated through magnetic-activated cell sorting-based screening of a yeast surface display library, eliminating the need for specialized equipment. Nbs exhibited specific, dose-dependent binding to the target. Conjugation of Nbs with LL37 effectively inhibited the growth of MDR A. baumannii. This approach leverages the natural antimicrobial properties of AMPs and enhances their specificity and effectiveness by targeting bacterial cell surface proteins. LL37-conjugated AbOmpA-Nbs present a promising therapeutic strategy against MDR A. baumannii and other resistant pathogens.IMPORTANCEMultidrug-resistant (MDR) Acinetobacter baumannii poses a major global health threat due to its resistance to nearly all available antibiotics and its persistence in hospital settings. This challenge underscores the urgent need for new therapeutic approaches beyond conventional drugs. In this study, we developed an innovative strategy that combines the human antimicrobial peptide LL37 with nanobodies (Nbs) targeting the outer membrane protein A (OmpA), a key virulence and survival factor of A. baumannii. OmpA-specific Nbs were efficiently isolated from a fully synthetic library using a simple, low-cost selection approach without animal immunization. When conjugated with LL37, these Nbs bound specifically to OmpA and strongly inhibited MDR A. baumannii growth in vitro. Our findings introduce a simple yet powerful platform for generating targeted Nb-peptide conjugates, offering strong potential for adaptation against other antibiotic-resistant pathogens and contributing to the development of next-generation biologics to overcome antibiotic limitations."
+  },
+  {
+    "pmid": "27849050",
+    "doi": "10.1038/srep37242",
+    "year": "2016",
+    "first_author": "Huang W et al.",
+    "authors": [
+      "Huang W",
+      "Wang S",
+      "Yao Y",
+      "Xia Y",
+      "Yang X",
+      "Li K",
+      "Sun P",
+      "Liu C",
+      "Sun W",
+      "Bai H",
+      "Chu X",
+      "Li Y",
+      "Ma Y"
+    ],
+    "title": "Employing Escherichia coli-derived outer membrane vesicles as an antigen delivery platform elicits protective immunity against Acinetobacter baumannii infection.",
+    "journal": "Scientific reports",
+    "abstract": "Outer membrane vesicles (OMVs) have proven to be highly immunogenic and induced an immune response against bacterial infection in human clinics and animal models. We sought to investigate whether engineered OMVs can be a feasible antigen-delivery platform for efficiently inducing specific antibody responses. In this study, Omp22 (an outer membrane protein of A. baumannii) was displayed on E. coli DH5α-derived OMVs (Omp22-OMVs) using recombinant gene technology. The morphological features of Omp22-OMVs were similar to those of wild-type OMVs (wtOMVs). Immunization with Omp22-OMVs induced high titers of Omp22-specific antibodies. In a murine sepsis model, Omp22-OMV immunization significantly protected mice from lethal challenge with a clinically isolated A. baumannii strain, which was evidenced by the increased survival rate of the mice, the reduced bacterial burdens in the lung, spleen, liver, kidney, and blood, and the suppressed serum levels of inflammatory cytokines. In vitro opsonophagocytosis assays showed that antiserum collected from Omp22-OMV-immunized mice had bactericidal activity against clinical isolates, which was partly specific antibody-dependent. These results strongly indicated that engineered OMVs could display a whole heterologous protein (~22 kDa) on the surface and effectively induce specific antibody responses, and thus OMVs have the potential to be a feasible vaccine platform."
+  },
+  {
+    "pmid": "29753164",
+    "doi": "10.1016/j.jmgm.2018.04.020",
+    "year": "2018",
+    "first_author": "Ahmad S et al.",
+    "authors": [
+      "Ahmad S",
+      "Azam SS"
+    ],
+    "title": "A novel approach of virulome based reverse vaccinology for exploring and validating peptide-based vaccine candidates against the most troublesome nosocomial pathogen: Acinetobacter baumannii.",
+    "journal": "Journal of molecular graphics & modelling",
+    "abstract": "Acinetobacter baumannii is one of the major cause of nosocomial infections around the globe. The emergence of hyper-virulent strains of the pathogen greatly narrows down therapeutic options for patients infected with this red alert superbug. Development of a peptide-based vaccine can offers an alternative, attractive, and cost-effective remedy for multidrug-resistant A. baumannii associated complications. Herein, we introduced a novel virulome based Reverse Vaccinology for screening peptide based vaccine candidates against A. baumannii and its validation using a negative control. The pipeline screened \"FYLNDQPVS\" of polysaccharide export outer membrane protein (EpsA) and \"LQNNTRRMK\" of chaperone-usher pathway protein B (CsuB) as broad-spectrum peptides for induction of targeted immune responses. The 9-mer epitope of both proteins was rendered virulent, antigenic, non-allergen, and highly conserved among thirty-four completely annotated strains. Interactome examination unravels peptides protein direct and indirect interactions with biological significant pathways, essential for A. baumannii pathogenesis and survival. Protein-peptide docking aids in addition by unveiling deep binding of the epitopes in the active site of the most prevalent binding allele in the human population-the DRB1*0101. Both the proteins till to date are not characterized for immunoprotective efficacy and desirable to be deciphered experimentally. The designed series of in silico filters rejected few recently reported peptide and non-peptide vaccine targets and has delivered outcomes, which we believe will enrich the existing knowledge of vaccinology against this life-threatening human pathogen."
+  },
+  {
+    "pmid": "32117294",
+    "doi": "10.3389/fimmu.2020.00158",
+    "year": "2020",
+    "first_author": "Qamsari MM et al.",
+    "authors": [
+      "Qamsari MM",
+      "Rasooli I",
+      "Chaudhuri S",
+      "Astaneh SDA",
+      "Schryvers AB"
+    ],
+    "title": "Hybrid Antigens Expressing Surface Loops of ZnuD From Acinetobacter baumannii Is Capable of Inducing Protection Against Infection.",
+    "journal": "Frontiers in immunology",
+    "abstract": "Acinetobacter baumannii is an important human pathogen causing substantial mortality in hospitalized patients for which treatment with antibiotics has become problematic due to growing antibiotic resistance. In an attempt to develop alternative strategies for dealing with these serious infections surface antigens are being considered as targets for vaccines or immunotherapy. The surface receptor proteins required for zinc acquisition in Gram-negative bacterial pathogens have been proposed as vaccine targets due to their crucial role for growth in the human host. In this study we selected the putative ZnuD outer membrane receptor from A. baumannii as a target for vaccine development. Due to challenges in production of an integral outer membrane protein for vaccine production, we adopted a recently described hybrid antigen approach in which surface epitopes from the Neisseria meningitidis TbpA receptor protein were displayed on a derivative of the C-lobe of the surface lipoprotein TbpB, named the loopless C-lobe (LCL). A structural model for ZnuD was generated and four surface loops were selected for hybrid antigen production by computational approaches. Hybrid antigens were designed displaying the four selected loops (2, 5, 7, and 11) individually or together in a single hybrid antigen. The hybrid antigens along with ZnuD and the LCL scaffold were produced in the E. coli cytoplasm either as soluble antigens or as inclusion bodies, that were used to generate soluble antigens upon refolding. Mice were immunized with the hybrid antigens, ZnuD or LCL and then used in an A. baumannii sepsis model to evaluate their ability to protect against infection. As expected, the LCL scaffold did not induce a protective immune response, enabling us to attribute observed protection to the displayed loops. Immunization with the refolded ZnuD protein protected 63% of the mice while immunization with hybrid antigens displaying individual loops achieved between 25 and 50% protection. Notably, the mice immunized with the hybrid antigen displaying the four loops were completely protected from infection."
+  },
+  {
+    "pmid": "41611748",
+    "doi": "10.1038/s41598-025-32476-y",
+    "year": "2026",
+    "first_author": "Rahbar MR et al.",
+    "authors": [
+      "Rahbar MR",
+      "Moslemi R",
+      "Dorosti H",
+      "Zarei M",
+      "Morowvat MH"
+    ],
+    "title": "Harnessing epitope reciprocity and multimeric epitope density for a novel multiepitope vaccine design against Acinetobacter baumannii.",
+    "journal": "Scientific reports",
+    "abstract": "Acinetobacter baumannii, a notorious nosocomial pathogen, presents a global health challenge due to its high antibiotic resistance and ability to cause various infections. Vaccine development against this pathogen is a pressing need, yet traditional methods have encountered limitations due to the immunogenic complexity and potential autoimmune risks associated with key antigenic components. In this study, we leveraged the reverse vaccinology approach, integrating epitope mapping, immunoinformatics, and structural modeling to design a novel multiepitope vaccine. Our methodology emphasizes the concept of epitope reciprocity, wherein B-cell and T-cell epitopes are co-localized to promote cross-epitope interactions, enhancing immunogenicity and immune response synergy. Additionally, utilizing a trimeric construct, we achieved a threefold increase in epitope density, further amplifying the immune activation potential. Key antigenic proteins implicated in the pathogenicity of A. baumannii were screened, excluding components like OmpA, which is known to induce autoimmune responses. After rigorous silico analyses, including structural validation and molecular docking, the final construct demonstrated promising interaction with Toll-like receptor 1 (TLR-1), suggesting efficient immune recognition. This multiepitope design, grounded in the principles of epitope reciprocity and enhanced by multimeric epitope density, offers a promising platform for developing a safe and effective vaccine against A. baumannii. Further experimental validation is warranted to assess its in vivo efficacy and safety."
+  },
+  {
+    "pmid": "28242426",
+    "doi": "10.1016/j.micpath.2017.02.028",
+    "year": "2017",
+    "first_author": "Jahangiri A et al.",
+    "authors": [
+      "Jahangiri A",
+      "Rasooli I",
+      "Owlia P",
+      "Fooladi AA",
+      "Salimian J"
+    ],
+    "title": "In silico design of an immunogen against Acinetobacter baumannii based on a novel model for native structure of Outer membrane protein A.",
+    "journal": "Microbial pathogenesis",
+    "abstract": "Outer membrane protein A (OmpA) is the most promising vaccine candidate against one of the most successful nosocomial pathogens, A. baumannii. Despite advantages of the antigen, its cytotoxicity could be considered as a challenge in clinical trials. In order to improve this effective immunogen, rational vaccine design strategies such as structure-based vaccinology should be assessed. However, native structure of OmpA remains controversial. The present study is conducted to address the native structure of OmpA; then, a novel immunogen with lower toxicity and higher antigenicity was designed based on structural vaccinology. Various bioinformatic and immunoinformatic tools were harnessed to perform analyses such as topology, secondary structure, and tertiary structure predictions as well as B-cell epitope predictions. A novel 12-stranded model is suggested for OmpA. K320 and K322 were substituted by Alanine, \"NADEEFWN\" sequence was replaced by \"YKYDFDGVNRGTRGTSEEGTL\", Position 1-24 at the N-terminus and the C-terminal sequence \"VVQPGQEAAAPAAAQ\" were removed. The designed construct has more epitope density and antigenic properties with higher immunogenicity while its cytotoxicity is decreased. Moreover, this single cross-protective antigen could trigger antibodies rendering protection against two important nosocomial pathogens i.e. Pseudomonas aeruginosa and A. baumannii."
+  },
+  {
+    "pmid": "27374893",
+    "doi": "10.1016/j.micpath.2016.06.032",
+    "year": "2016",
+    "first_author": "Esmaeilkhani H et al.",
+    "authors": [
+      "Esmaeilkhani H",
+      "Rasooli I",
+      "Nazarian S",
+      "Sefid F"
+    ],
+    "title": "In vivo validation of the immunogenicity of recombinant Baumannii Acinetobactin Utilization A protein (rBauA).",
+    "journal": "Microbial pathogenesis",
+    "abstract": "Acinetobacter baumannii has become a tremendous challenge to modern healthcare as an antimicrobial resistant. Replication and persistence of A. baumannii within eukaryotes is based on iron acquisition functions including siderophore biosynthesis. Iron transport into the cytosol is mediated by specific membrane receptors which recognize the iron-siderophore complexes. Expression of this acinetobactin mediated Iron uptake system is vital for intracellular growth of A. baumannii. Baumannii acinetobactin utilization (BauA), is an outer membrane protein, acting out the siderophore-ferric complex receptor. This study was aimed at analysis of immunogenicity and specificity of BauA. The genomic bauA was amplified via PCR method and after digestion, bauA was ligated into pET28a. The recombinant gene was expressed in Escherichia coli BL21(DE3) and the product was analyzed by SDS-PAGE and purified by Ni-NTA affinity chromatography method. The recombinant BauA (rBauA) was confirmed by western blot analysis using anti-His antibodies and its immunogenicity was assessed by injecting the rBauA to BALB/c mice. Antibodies produced therein could effectively recognize and bind rBauA. The immunized mice challenged with bacterial doses higher than LD50 survived. The antibodies were highly specific to A. baumannii and its clinical isolates. Passive immunization using serum raised against BauA protected mice from infection. BauA can be nominated as an immunogen against A. baumannii."
+  },
+  {
+    "pmid": "29746596",
+    "doi": "10.1371/journal.ppat.1007056",
+    "year": "2018",
+    "first_author": "Uppuluri P et al.",
+    "authors": [
+      "Uppuluri P",
+      "Lin L",
+      "Alqarihi A",
+      "Luo G",
+      "Youssef EG",
+      "Alkhazraji S",
+      "Yount NY",
+      "Ibrahim BA",
+      "Bolaris MA",
+      "Edwards JE",
+      "Swidergall M",
+      "Filler SG",
+      "Yeaman MR",
+      "Ibrahim AS"
+    ],
+    "title": "The Hyr1 protein from the fungus Candida albicans is a cross kingdom immunotherapeutic target for Acinetobacter bacterial infection.",
+    "journal": "PLoS pathogens",
+    "abstract": "Different pathogens share similar medical settings and rely on similar virulence strategies to cause infections. We have previously applied 3-D computational modeling and bioinformatics to discover novel antigens that target more than one human pathogen. Active and passive immunization with the recombinant N-terminus of Candida albicans Hyr1 (rHyr1p-N) protect mice against lethal candidemia. Here we determine that Hyr1p shares homology with cell surface proteins of the multidrug resistant Gram negative bacterium, Acinetobacter baumannii including hemagglutinin (FhaB) and outer membrane protein A (OmpA). The A. baumannii OmpA binds to C. albicans Hyr1p, leading to a mixed species biofilm. Deletion of HYR1, or blocking of Hyr1p using polyclonal antibodies, significantly reduce A. baumannii binding to C. albicans hyphae. Furthermore, active vaccination with rHyr1p-N or passive immunization with polyclonal antibodies raised against specific peptide motifs of rHyr1p-N markedly improve survival of diabetic or neutropenic mice infected with A. baumannii bacteremia or pneumonia. Antibody raised against one particular peptide of the rHyr1p-N sequence (peptide 5) confers majority of the protection through blocking A. baumannii invasion of host cells and inducing death of the bacterium by a putative iron starvation mechanism. Anti-Hyr1 peptide 5 antibodies also mitigate A. baumannii /C. albicans mixed biofilm formation in vitro. Consistent with our bioinformatic analysis and structural modeling of Hyr1p, anti-Hyr1p peptide 5 antibodies bound to A. baumannii FhaB, OmpA, and an outer membrane siderophore binding protein. Our studies highlight the concept of cross-kingdom vaccine protection against high priority human pathogens such as A. baumannii and C. albicans that share similar ecological niches in immunocompromised patients."
+  },
+  {
+    "pmid": "28427887",
+    "doi": "10.1016/j.imlet.2017.04.004",
+    "year": "2017",
+    "first_author": "Tawfik DM et al.",
+    "authors": [
+      "Tawfik DM",
+      "Ahmad TA",
+      "Sheweita SA",
+      "Haroun M",
+      "El-Sayed LH"
+    ],
+    "title": "The detection of antigenic determinants of Acinetobacter baumannii.",
+    "journal": "Immunology letters",
+    "abstract": "BACKGROUND: Acinetobacter baumannii continues to pose a threat to burdened patients in ICUs all around the world. Lately, infection control techniques are not sufficient to curb A. baumannii's progression and chemotherapeutics are losing their potency against it. Thus, immunization became a key player in providing an ideal solution to the dilemma. None of the vaccines under investigation have reached the market and the search for a tailored vaccine remains a challenge. The notion of unravelling the bacterial antigens to design a novel epitope-based vaccine proved its merits. METHODS: In this work, the propitious polysaccharide and protein antigenic determinants of A. baumannii were mapped by mimicking the infection. The immune response was evaluated by western blot, ELISA, and cellular proliferation assay techniques. RESULTS: The screening showed that OMPs induced the most eminent sustained IgG response. In addition, OMP gave the highest cellular proliferation and a fold increase in ELISA that reached up to 10-fold by week 6. Whilst, the LPS gave a rapid IgM response, that reached 5-fold and the response was visible from week 1 in the western blot. The OMPs had a more pronounced effect in eliciting a cellular immune response. CONCLUSION: The results elaborated the valuable role of using pure OMPs and detoxified LPS together; as a major cornerstone in designing an ideal vaccine against A. baumannii."
+  }
+]
