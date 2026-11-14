@@ -11,7 +11,7 @@
 > **"Subunit, Outer Membrane Protein, and Multi-Epitope Vaccines Against Carbapenem-Resistant *Acinetobacter baumannii*: A PRISMA 2020 Systematic Review, Preclinical Meta-Analysis, and Methodological Quality Appraisal"**  
 > **Authors:** Abdelbaset A. Diab & M N Seddek  
 > **Affiliation:** Department of Zoology, Faculty of Science, Benha University, Benha 13518, Egypt  
-> **Permanent Zenodo DOI:** [10.5281/zenodo.24214866](https://doi.org/10.5281/zenodo.24214866) | **Zenodo Record:** [24214867](https://zenodo.org/records/24214867)
+> **Permanent Zenodo DOI:** [10.5281/zenodo.24214866](https://doi.org/10.5281/zenodo.24214866) | **Zenodo Record:** [24218434](https://zenodo.org/records/24218434)
 
 ---
 
