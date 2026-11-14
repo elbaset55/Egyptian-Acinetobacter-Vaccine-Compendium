@@ -9,7 +9,7 @@
 
 > **Official Open-Science Research Compendium** accompanying the systematic review and meta-analysis:  
 > **"Subunit, Outer Membrane Protein, and Multi-Epitope Vaccines Against Carbapenem-Resistant *Acinetobacter baumannii*: A PRISMA 2020 Systematic Review, Preclinical Meta-Analysis, and Methodological Quality Appraisal"**  
-> **Authors:** Abdelbaset A. Diab & Mohamed Nour Seddik  
+> **Authors:** Abdelbaset A. Diab & M N Seddik  
 > **Affiliation:** Department of Zoology, Faculty of Science, Benha University, Benha 13518, Egypt  
 > **Permanent Zenodo DOI:** [10.5281/zenodo.24214866](https://doi.org/10.5281/zenodo.24214866) | **Zenodo Record:** [24214867](https://zenodo.org/records/24214867)
 
@@ -87,7 +87,7 @@ If you use this dataset, code, or evidence synthesis in your research, please ci
 
 ```bibtex
 @article{DiabSeddik2026CRABVaccine,
-  author    = {Abdelbaset A. Diab and Mohamed Nour Seddik},
+  author    = {Abdelbaset A. Diab and M N Seddik},
   title     = {Subunit, Outer Membrane Protein, and Multi-Epitope Vaccines Against Carbapenem-Resistant Acinetobacter baumannii: A PRISMA 2020 Systematic Review, Preclinical Meta-Analysis, and Methodological Quality Appraisal},
   journal   = {Frontiers in Immunology},
   year      = {2026},

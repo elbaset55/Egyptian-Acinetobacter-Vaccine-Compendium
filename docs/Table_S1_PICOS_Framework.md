@@ -1,7 +1,7 @@
 # Supplementary Table S1: Structured PICOS Framework Across the Tri-Track Systematic Review
 
 **Manuscript Title:** Subunit, Outer Membrane Protein, and Multi-Epitope Vaccines Against Carbapenem-Resistant *Acinetobacter baumannii*: A PRISMA 2020 Systematic Review, Preclinical Meta-Analysis, and Methodological Quality Appraisal  
-**Authors:** Abdelbaset A. Diab, Mohamed Nour Seddik  
+**Authors:** Abdelbaset A. Diab, M N Seddik  
 **Target Journal:** *Frontiers in Immunology*  
 
 ---

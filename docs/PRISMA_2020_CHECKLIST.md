@@ -1,7 +1,7 @@
 # PRISMA 2020 Checklist: Subunit, Outer Membrane Protein, and Multi-Epitope Vaccines Against Carbapenem-Resistant *Acinetobacter baumannii*
 
 **Manuscript Title:** Subunit, Outer Membrane Protein, and Multi-Epitope Vaccines Against Carbapenem-Resistant *Acinetobacter baumannii*: A PRISMA 2020 Systematic Review, Preclinical Meta-Analysis, and Methodological Quality Appraisal  
-**Authors:** Abdelbaset A. Diab, Mohamed Nour Seddik  
+**Authors:** Abdelbaset A. Diab, M N Seddik  
 **Affiliation:** Department of Zoology, Faculty of Science, Benha University, Benha 13518, Egypt  
 **Target Journal:** *Frontiers in Immunology* (Systematic Review & Preclinical Meta-Analysis)  
 **Permanent Zenodo DOI:** [10.5281/zenodo.24214866](https://doi.org/10.5281/zenodo.24214866) | **Zenodo Record:** [24214867](https://zenodo.org/records/24214867)  
