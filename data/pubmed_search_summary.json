@@ -13,5 +13,11 @@
     "query": "(\"Acinetobacter baumannii\"[Title/Abstract]) AND (\"Egypt\"[Title/Abstract] OR \"Egyptian\"[Title/Abstract]) AND (\"carbapenem\"[Title/Abstract] OR \"colistin\"[Title/Abstract] OR \"OXA-23\"[Title/Abstract] OR \"NDM\"[Title/Abstract])",
     "total_count": 74,
     "fetched_count": 74
+  },
+  "Q4_Targeted_Antigens_Extra": {
+    "query": "(\"Acinetobacter baumannii\"[Title/Abstract]) AND (\"LptD\"[Title/Abstract] OR \"BamA\"[Title/Abstract] OR \"Oma87\"[Title/Abstract] OR \"OmpW\"[Title/Abstract] OR \"OmpA\"[Title/Abstract] OR \"Omp22\"[Title/Abstract] OR \"Omp34\"[Title/Abstract] OR \"BauA\"[Title/Abstract] OR \"FilF\"[Title/Abstract] OR \"Bap\"[Title/Abstract] OR \"Ata\"[Title/Abstract] OR \"NucAb\"[Title/Abstract] OR \"ZnuD\"[Title/Abstract]) AND (\"vaccine\"[Title/Abstract] OR \"immunization\"[Title/Abstract] OR \"immunoprotective\"[Title/Abstract] OR \"protection\"[Title/Abstract])",
+    "total_count": 97,
+    "fetched_count": 43,
+    "note": "Total initial PubMed hits = 97. Cross-query deduplication identified 54 PMIDs already captured in Q1/Q2; 43 unique PMIDs were retrieved and archived in Q4_Targeted_Antigens_Extra.json."
   }
 }
