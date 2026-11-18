@@ -4,7 +4,7 @@
 **Authors:** Abdelbaset A. Diab, Mohamed Nour Seddek  
 **Affiliation:** Biotechnology Program, Department of Zoology, Faculty of Science, Benha University, Benha 13518, Egypt  
 **PROSPERO Registration:** CRD420261572661  
-**Zenodo Repository:** https://doi.org/10.5281/zenodo.24218732  
+**Zenodo Repository:** https://doi.org/10.5281/zenodo.24332515  
 **GitHub Repository:** https://github.com/elbaset55/Egyptian-Acinetobacter-Vaccine-Compendium  
 
 Section numbers refer to the main manuscript. Items that were not performed are explicitly stated as such.
@@ -17,7 +17,7 @@ Section numbers refer to the main manuscript. Items that were not performed are 
 |  | 4 | Provide an explicit statement of the objective(s) or question(s) the review addresses. | Section 1 (final paragraph); Section 2.3; Table S1 |
 | **METHODS** | 5 | Specify the inclusion and exclusion criteria for the review and how studies were grouped for the syntheses. | Section 2.3; Table S1 |
 |  | 6 | Specify all databases, registers, websites, organisations, reference lists and other sources searched or consulted to identify studies, and the date when each source was last searched. | Section 2.2 (PubMed/MEDLINE and Consensus AI through 31 Oct 2026; Undermind supplementary deep search 17 Nov 2026) |
-|  | 7 | Present the full search strategies for all databases, registers and websites, including any filters and limits used. | Section 2.2; raw JSON search outputs deposited in Zenodo (doi: 10.5281/zenodo.24218732) |
+|  | 7 | Present the full search strategies for all databases, registers and websites, including any filters and limits used. | Section 2.2; raw JSON search outputs deposited in Zenodo (doi: 10.5281/zenodo.24332515) |
 |  | 8 | Specify the methods used to decide whether a record met the inclusion criteria, including how many reviewers screened each record and whether they worked independently. | Sections 2.1, 2.2, and 3.1 (screening by primary investigator, independently cross-checked by senior investigator) |
 |  | 9 | Specify the methods used to collect data from reports, including how many reviewers collected data from each report and whether they worked independently. | Section 2.4 (extraction by primary investigator, independently audited by senior investigator; consensus resolution) |
 |  | 10a | List and define all outcomes for which data were sought. | Sections 2.3 and 2.4 |
@@ -48,8 +48,8 @@ Section numbers refer to the main manuscript. Items that were not performed are 
 |  | 23c | Discuss any limitations of the review processes used. | Section 4.7 |
 |  | 23d | Discuss implications of the results for practice, policy, and future research. | Sections 4.5 and 5 |
 | **OTHER** | 24a | Provide registration information for the review, including register name and registration number. | Section 2.1 (PROSPERO CRD420261572661; registered retrospectively; covers Track 1) |
-|  | 24b | Indicate where the review protocol can be accessed. | PROSPERO record CRD420261572661; Zenodo (doi: 10.5281/zenodo.24218732) |
+|  | 24b | Indicate where the review protocol can be accessed. | PROSPERO record CRD420261572661; Zenodo (doi: 10.5281/zenodo.24332515) |
 |  | 24c | Describe and explain any amendments to information provided at registration or in the protocol. | Section 2.1 (versions 1.0–4.0 amendments and post-registration full-text count audit fully detailed) |
 |  | 25 | Describe sources of financial or non-financial support for the review. | Funding statement |
 |  | 26 | Declare any competing interests of review authors. | Conflict of interest statement |
-|  | 27 | Report which materials are publicly available and where. | Data availability statement; Zenodo (https://doi.org/10.5281/zenodo.24218732); GitHub (https://github.com/elbaset55/Egyptian-Acinetobacter-Vaccine-Compendium) |
+|  | 27 | Report which materials are publicly available and where. | Data availability statement; Zenodo (https://doi.org/10.5281/zenodo.24332515); GitHub (https://github.com/elbaset55/Egyptian-Acinetobacter-Vaccine-Compendium) |

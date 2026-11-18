@@ -2,7 +2,7 @@
 # Reproducible R 4.6.2 Verification Script for Three-Track Systematic Review
 # Title: Subunit and multi-epitope vaccines against carbapenem-resistant
 #        Acinetobacter baumannii: a systematic review and meta-analysis
-# Registration: PROSPERO CRD420261572661 | Zenodo: 10.5281/zenodo.24218732
+# Registration: PROSPERO CRD420261572661 | Zenodo: 10.5281/zenodo.24332515
 # ==============================================================================
 
 args_all <- commandArgs(trailingOnly = FALSE)

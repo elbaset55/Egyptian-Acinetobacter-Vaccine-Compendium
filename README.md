@@ -1,6 +1,6 @@
 # Egyptian *Acinetobacter baumannii* Vaccine & Epidemiology Compendium
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.24218732.svg)](https://doi.org/10.5281/zenodo.24218732)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.24332515.svg)](https://doi.org/10.5281/zenodo.24332515)
 [![PROSPERO](https://img.shields.io/badge/PROSPERO-CRD420261572661-0F766E.svg)](https://www.crd.york.ac.uk/prospero/display_record.php?ID=CRD420261572661)
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 
@@ -8,7 +8,7 @@ Open-science data, PRISMA 2020 / SYRCLE audit matrices, 600-DPI publication figu
 
 > **Diab AA, Seddek MN (2026).** *Subunit and multi-epitope vaccines against carbapenem-resistant Acinetobacter baumannii: a systematic review and meta-analysis.*  
 > **Affiliation:** Biotechnology Program, Department of Zoology, Faculty of Science, Benha University, Benha 13518, Egypt  
-> **PROSPERO Registration:** `CRD420261572661` | **Zenodo Archive:** [https://doi.org/10.5281/zenodo.24218732](https://doi.org/10.5281/zenodo.24218732)
+> **PROSPERO Registration:** `CRD420261572661` | **Zenodo Archive:** [https://doi.org/10.5281/zenodo.24332515](https://doi.org/10.5281/zenodo.24332515)
 
 ---
 

@@ -179,7 +179,7 @@ master_json = {
     "metadata": {
         "title": "Subunit and multi-epitope vaccines against carbapenem-resistant Acinetobacter baumannii: a systematic review and meta-analysis",
         "prospero_id": "CRD420261572661",
-        "zenodo_doi": "10.5281/zenodo.24218732",
+        "zenodo_doi": "10.5281/zenodo.24332515",
         "github_url": "https://github.com/elbaset55/Egyptian-Acinetobacter-Vaccine-Compendium",
         "audit_date": "2026-11-18",
         "unique_included_publications": 55,
