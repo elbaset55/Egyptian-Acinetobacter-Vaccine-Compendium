@@ -1,0 +1,45 @@
+{
+  "title": "Open-Science Data and Reproducible Analytical Compendium: Subunit and Multi-Epitope Vaccines Against Carbapenem-Resistant Acinetobacter baumannii — A PRISMA 2020 Systematic Review and Meta-Analysis",
+  "version": "4.0.0",
+  "upload_type": "dataset",
+  "publication_date": "2026-11-18",
+  "license": "cc-by-4.0",
+  "creators": [
+    {
+      "name": "Diab, Abdelbaset A.",
+      "affiliation": "Biotechnology Program, Department of Zoology, Faculty of Science, Benha University, Benha 13518, Egypt"
+    },
+    {
+      "name": "Seddek, Mohamed Nour",
+      "affiliation": "Department of Zoology, Faculty of Science, Benha University, Benha 13518, Egypt"
+    }
+  ],
+  "keywords": [
+    "Acinetobacter baumannii",
+    "carbapenem-resistant Acinetobacter baumannii",
+    "CRAB",
+    "subunit vaccine",
+    "multi-epitope vaccine",
+    "outer membrane proteins",
+    "PRISMA 2020",
+    "meta-analysis",
+    "SYRCLE",
+    "reverse vaccinology",
+    "Egypt",
+    "MENA",
+    "colistin resistance"
+  ],
+  "related_identifiers": [
+    {
+      "identifier": "https://github.com/elbaset55/Egyptian-Acinetobacter-Vaccine-Compendium",
+      "relation": "isSupplementTo",
+      "scheme": "url"
+    },
+    {
+      "identifier": "https://www.crd.york.ac.uk/prospero/display_record.php?ID=CRD420261572661",
+      "relation": "isReferencedBy",
+      "scheme": "url"
+    }
+  ],
+  "description": "<p>Official open-science data and reproducible Python 3.13 / R 4.6.2 analytical compendium accompanying <strong>Diab AA, Seddek MN (2026): <em>Subunit and multi-epitope vaccines against carbapenem-resistant Acinetobacter baumannii: a systematic review and meta-analysis</em></strong> (PROSPERO Registration: <strong>CRD420261572661</strong>).</p><p><strong>Contents (Version 4.0.0 — Full-Text-Verified Synthesis across n = 55 Unique Peer-Reviewed Publications):</strong></p><ul><li><strong>Track 1 Preclinical Murine Challenge Meta-Analysis (k = 22 independent experiments from 20 publications, 48 active arms, 30 platform units, N = 574 mice):</strong> <code>Track1_22_experiments_verified.csv</code>, <code>Track1_48_arms_verified.csv</code>, <code>Track1_30_platform_units_verified.csv</code>, <code>Track1_20_leave_one_out_verified.csv</code>, <code>Track1_20_SYRCLE_verified.csv</code>, and <code>Table_S2_77_excluded_studies_verified.csv</code> (71.8% [280/390] vaccinated vs. 7.1% [13/184] control survival; DerSimonian–Laird RR = 3.69 [HKSJ 95% CI: 2.56–5.33, p &lt; 0.0001, I² = 0.0%]; additive RD = +62.6 percentage points [HKSJ 95% CI: 53.5–71.8, 95% PI: +29.3 to +96.0, I²_RD = 57.6%]).</li><li><strong>Track 2 Methodological Quality Audit of In Silico MEVC Pipelines (k = 22 studies, 2018–2026):</strong> <code>Track2_22_insilico_rubric_verified.csv</code> (verified mean 4.91 ± 2.00 / 14, median 5.0, range 2–8).</li><li><strong>Track 3 Egyptian &amp; MENA Clinical Molecular Epidemiology (k = 17 cohorts, 1,724 analyzed isolates/episodes):</strong> <code>Track3_17_cohorts_verified.csv</code> (90.7% [500/551] carbapenem resistance across strictly unselected Egyptian cohorts; 1.2%–52.9% reference ISO 20776-1 broth microdilution colistin resistance).</li><li><strong>Reproducible Code, Figures &amp; Checklists:</strong> <code>meta_analysis_results.json</code>, <code>compute_track1_exact.py</code>, <code>generate_figures_in_R.R</code>, <code>consolidate_and_generate_figures.py</code>, 600-DPI publication figures, <code>PRISMA_2020_CHECKLIST.md</code>, <code>Table_S1_PICOS_Framework.md</code>, and <code>Supplementary_Material_Checklist_S1_Tables_S1_S2.pdf</code>.</li></ul>"
+}

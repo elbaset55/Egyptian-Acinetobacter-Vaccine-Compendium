@@ -22,98 +22,105 @@ import matplotlib.patches as mpatches
 from matplotlib.patches import FancyBboxPatch, Polygon
 import numpy as np
 
-ROOT = Path(r"d:\Graduation")
-SR_DIR = ROOT / "systematic_review"
+BASE_DIR = Path(__file__).resolve().parent.parent
+SR_DIR = BASE_DIR
 AUDIT_DIR = SR_DIR / "forensic_audit_workspace"
 DATA_DIR = SR_DIR / "data"
 FIG_DIR = SR_DIR / "figures"
-ARCHIVE_DIR = AUDIT_DIR / "archived_legacy_pre_audit"
 
 DATA_DIR.mkdir(parents=True, exist_ok=True)
 FIG_DIR.mkdir(parents=True, exist_ok=True)
-ARCHIVE_DIR.mkdir(parents=True, exist_ok=True)
 
 # ---------------------------------------------------------------------------
-# 1. CONSOLIDATE VERIFIED DATASETS & ARCHIVE RETIRED 25-TRIAL FILES
+# 1. CONSOLIDATE VERIFIED DATASETS (OR LOAD DIRECTLY IN STANDALONE REPO MODE)
 # ---------------------------------------------------------------------------
-legacy_files = [
-    DATA_DIR / "R_meta_analysis_25_trials.csv",
-    DATA_DIR / "R_leave_one_out_sensitivity.csv",
-    ROOT / "journal_submission" / "review_article" / "trials_25_data.json",
-]
-for lf in legacy_files:
-    if lf.exists():
-        shutil.move(str(lf), str(ARCHIVE_DIR / lf.name))
+if AUDIT_DIR.exists():
+    ARCHIVE_DIR = AUDIT_DIR / "archived_legacy_pre_audit"
+    ARCHIVE_DIR.mkdir(parents=True, exist_ok=True)
+    legacy_files = [
+        DATA_DIR / "R_meta_analysis_25_trials.csv",
+        DATA_DIR / "R_leave_one_out_sensitivity.csv",
+        SR_DIR.parent / "journal_submission" / "review_article" / "trials_25_data.json",
+    ]
+    for lf in legacy_files:
+        if lf.exists():
+            shutil.move(str(lf), str(ARCHIVE_DIR / lf.name))
 
-copy_map = {
-    AUDIT_DIR / "track1" / "track1_experiments_22.csv": DATA_DIR / "Track1_22_experiments_verified.csv",
-    AUDIT_DIR / "track1" / "track1_arms_all.csv": DATA_DIR / "Track1_48_arms_verified.csv",
-    AUDIT_DIR / "track1" / "track1_platform_units_30.csv": DATA_DIR / "Track1_30_platform_units_verified.csv",
-    AUDIT_DIR / "track1" / "track1_leave_one_out_20.csv": DATA_DIR / "Track1_20_leave_one_out_verified.csv",
-    AUDIT_DIR / "track1" / "track1_syrcle_20.csv": DATA_DIR / "Track1_20_SYRCLE_verified.csv",
-    AUDIT_DIR / "track1" / "table_s2_excluded_studies.csv": DATA_DIR / "Table_S2_77_excluded_studies_verified.csv",
-    AUDIT_DIR / "track2" / "track2_22_verified.csv": DATA_DIR / "Track2_22_insilico_rubric_verified.csv",
-    AUDIT_DIR / "track3" / "track3_17_cohorts_verified.csv": DATA_DIR / "Track3_17_cohorts_verified.csv",
-}
-for src, dst in copy_map.items():
-    shutil.copy2(src, dst)
+    copy_map = {
+        AUDIT_DIR / "track1" / "track1_experiments_22.csv": DATA_DIR / "Track1_22_experiments_verified.csv",
+        AUDIT_DIR / "track1" / "track1_arms_all.csv": DATA_DIR / "Track1_48_arms_verified.csv",
+        AUDIT_DIR / "track1" / "track1_platform_units_30.csv": DATA_DIR / "Track1_30_platform_units_verified.csv",
+        AUDIT_DIR / "track1" / "track1_leave_one_out_20.csv": DATA_DIR / "Track1_20_leave_one_out_verified.csv",
+        AUDIT_DIR / "track1" / "track1_syrcle_20.csv": DATA_DIR / "Track1_20_SYRCLE_verified.csv",
+        AUDIT_DIR / "track1" / "table_s2_excluded_studies.csv": DATA_DIR / "Table_S2_77_excluded_studies_verified.csv",
+        AUDIT_DIR / "track2" / "track2_22_verified.csv": DATA_DIR / "Track2_22_insilico_rubric_verified.csv",
+        AUDIT_DIR / "track3" / "track3_17_cohorts_verified.csv": DATA_DIR / "Track3_17_cohorts_verified.csv",
+    }
+    for src, dst in copy_map.items():
+        shutil.copy2(src, dst)
 
-# Sanitize public CSVs & JSON so zero internal pre-audit notes or stale draft columns remain
-_clean_t1_notes = {
-    "Rasooli_2020": "Overall n=8 test and n=6 control stated without explicit per-challenge-dose breakdown (~2xLD primary challenge; ~7xLD also tested with 25% vaccinated survival); 96-h (4-day) follow-up. Evaluated by omission in sensitivity analysis.",
-    "Araujo_Conde_2021": "Insoluble unrefolded rAbBamA inclusion bodies in Alhydrogel; non-zero control survival (3/10 = 30.0% vs 7/10 = 70.0% vaccinated; RR = 2.33, non-significant).",
-    "Akbari_2022": "Also appraised in Track 2 (score 5/14); passive immune-serum survival (66.7% combined, 33.3% single loop) reported separately and excluded from active-immunization synthesis.",
-    "Qamsari_2020": "Loop 11 arm had n=6 instead of n=8 because 2 mice were inadvertently removed prior to challenge (2/6 = 33.3%).",
-    "Ren_2019": "rMEP comprises Ata(420-621) fragment fused to predicted FilF and NucAb epitopes (GGGGSGGGG linker) in Freund's adjuvant. Also appraised in Track 2 (score 2/14); 72 mice procured vs 63 allocated across groups.",
-    "Prather_2026_exp2": "AMEV5 comprises TrxA leader fused to seven peptides (pNlpE, pNucAB, pTonB, pPlc1, pBauA, pBlp2, pOmp38) in AddaS03. Also appraised in Track 2 (score 4/14).",
-    "Jeffreys_2024": "Also appraised in Track 2 (score 5/14; rAMEV2 in AddaS03, 30-day IN Ci79 challenge). Separate IP AB5075 pilot (80% survival, n=10 vaccinated) excluded from quantitative pooling because PBS mock group n was not stated.",
-}
+    # Sanitize public CSVs & JSON so zero internal pre-audit notes or stale draft columns remain
+    _clean_t1_notes = {
+        "Rasooli_2020": "Overall n=8 test and n=6 control stated without explicit per-challenge-dose breakdown (~2xLD primary challenge; ~7xLD also tested with 25% vaccinated survival); 96-h (4-day) follow-up. Evaluated by omission in sensitivity analysis.",
+        "Araujo_Conde_2021": "Insoluble unrefolded rAbBamA inclusion bodies in Alhydrogel; non-zero control survival (3/10 = 30.0% vs 7/10 = 70.0% vaccinated; RR = 2.33, non-significant).",
+        "Akbari_2022": "Also appraised in Track 2 (score 5/14); passive immune-serum survival (66.7% combined, 33.3% single loop) reported separately and excluded from active-immunization synthesis.",
+        "Qamsari_2020": "Loop 11 arm had n=6 instead of n=8 because 2 mice were inadvertently removed prior to challenge (2/6 = 33.3%).",
+        "Ren_2019": "rMEP comprises Ata(420-621) fragment fused to predicted FilF and NucAb epitopes (GGGGSGGGG linker) in Freund's adjuvant. Also appraised in Track 2 (score 2/14); 72 mice procured vs 63 allocated across groups.",
+        "Prather_2026_exp2": "AMEV5 comprises TrxA leader fused to seven peptides (pNlpE, pNucAB, pTonB, pPlc1, pBauA, pBlp2, pOmp38) in AddaS03. Also appraised in Track 2 (score 4/14).",
+        "Jeffreys_2024": "Also appraised in Track 2 (score 5/14; rAMEV2 in AddaS03, 30-day IN Ci79 challenge). Separate IP AB5075 pilot (80% survival, n=10 vaccinated) excluded from quantitative pooling because PBS mock group n was not stated.",
+    }
 
-def _rewrite_clean_csv(path: Path, drop_cols=(), row_mutator=None):
-    with open(path, encoding="utf-8") as _f:
-        _reader = csv.DictReader(_f)
-        _fields = [c for c in (_reader.fieldnames or []) if c not in drop_cols]
-        _rows = []
-        for _r in _reader:
-            for _k in list(_r.keys()):
-                if _r[_k]:
-                    _r[_k] = _r[_k].replace("Araujo/Conde 2021", "Araujo 2021").replace("Araujo/Conde et al., 2021", "Araujo et al., 2021")
-            if row_mutator:
-                row_mutator(_r)
-            _rows.append({k: _r[k] for k in _fields})
-    with open(path, "w", encoding="utf-8", newline="") as _f:
-        _w = csv.DictWriter(_f, fieldnames=_fields)
-        _w.writeheader()
-        _w.writerows(_rows)
+    def _rewrite_clean_csv(path: Path, drop_cols=(), row_mutator=None):
+        with open(path, encoding="utf-8") as _f:
+            _reader = csv.DictReader(_f)
+            _fields = [c for c in (_reader.fieldnames or []) if c not in drop_cols]
+            _rows = []
+            for _r in _reader:
+                for _k in list(_r.keys()):
+                    if _r[_k]:
+                        _r[_k] = _r[_k].replace("Araujo/Conde 2021", "Araujo 2021").replace("Araujo/Conde et al., 2021", "Araujo et al., 2021")
+                if row_mutator:
+                    row_mutator(_r)
+                _rows.append({k: _r[k] for k in _fields})
+        with open(path, "w", encoding="utf-8", newline="") as _f:
+            _w = csv.DictWriter(_f, fieldnames=_fields)
+            _w.writeheader()
+            _w.writerows(_rows)
 
-def _mutate_t1_exp(r):
-    if r["exp_id"] in _clean_t1_notes:
-        r["caveats_notes"] = _clean_t1_notes[r["exp_id"]]
-    for neg_tag in [" (NO OmpA)", " (NO BamA, NO LptD)"]:
-        r["antigens_exact"] = r["antigens_exact"].replace(neg_tag, "")
+    def _mutate_t1_exp(r):
+        if r["exp_id"] in _clean_t1_notes:
+            r["caveats_notes"] = _clean_t1_notes[r["exp_id"]]
+        for neg_tag in [" (NO OmpA)", " (NO BamA, NO LptD)"]:
+            r["antigens_exact"] = r["antigens_exact"].replace(neg_tag, "")
 
-_rewrite_clean_csv(DATA_DIR / "Track1_22_experiments_verified.csv", row_mutator=_mutate_t1_exp)
-for _c_name in ("Track1_48_arms_verified.csv", "Track1_30_platform_units_verified.csv", "Track1_20_leave_one_out_verified.csv", "Track1_20_SYRCLE_verified.csv"):
-    _rewrite_clean_csv(DATA_DIR / _c_name)
-_rewrite_clean_csv(
-    DATA_DIR / "Track2_22_insilico_rubric_verified.csv",
-    drop_cols=("study_draft", "old_D1", "old_D2", "old_D3", "old_D4", "old_D5", "old_D6", "old_D7", "old_total_14", "score_delta", "d7_lenient_or_rule", "total_lenient_14", "key_corrections"),
-    row_mutator=lambda r: r.update({"targets_verified": r["targets_verified"].replace(" (NO OmpA)", "").replace(" (NO BamA, NO LptD)", "").replace(" (NO BauA, NO Omp34)", "")}),
-)
-_rewrite_clean_csv(
-    DATA_DIR / "Track3_17_cohorts_verified.csv",
-    drop_cols=("draft_table4_discrepancies",),
-)
+    _rewrite_clean_csv(DATA_DIR / "Track1_22_experiments_verified.csv", row_mutator=_mutate_t1_exp)
+    for _c_name in ("Track1_48_arms_verified.csv", "Track1_30_platform_units_verified.csv", "Track1_20_leave_one_out_verified.csv", "Track1_20_SYRCLE_verified.csv"):
+        _rewrite_clean_csv(DATA_DIR / _c_name)
+    _rewrite_clean_csv(
+        DATA_DIR / "Track2_22_insilico_rubric_verified.csv",
+        drop_cols=("study_draft", "old_D1", "old_D2", "old_D3", "old_D4", "old_D5", "old_D6", "old_D7", "old_total_14", "score_delta", "d7_lenient_or_rule", "total_lenient_14", "key_corrections"),
+        row_mutator=lambda r: r.update({"targets_verified": r["targets_verified"].replace(" (NO OmpA)", "").replace(" (NO BamA, NO LptD)", "").replace(" (NO BauA, NO Omp34)", "")}),
+    )
+    _rewrite_clean_csv(
+        DATA_DIR / "Track3_17_cohorts_verified.csv",
+        drop_cols=("draft_table4_discrepancies",),
+    )
 
-with open(AUDIT_DIR / "track1" / "track1_stats.json", encoding="utf-8") as f:
-    t1_stats = json.loads(f.read().replace("Araujo/Conde 2021", "Araujo 2021"))
-with open(AUDIT_DIR / "track2" / "track2_stats.json", encoding="utf-8") as f:
-    t2_stats = json.load(f)
-    t2_stats.pop("old_unverified_draft", None)
-with open(AUDIT_DIR / "track3" / "track3_stats.json", encoding="utf-8") as f:
-    t3_stats = json.load(f)
-    if isinstance(t3_stats.get("corpus_totals"), dict):
-        t3_stats["corpus_totals"].pop("N_draft_legacy_sum_eg_isolates_plus_mena_patients", None)
+    with open(AUDIT_DIR / "track1" / "track1_stats.json", encoding="utf-8") as f:
+        t1_stats = json.loads(f.read().replace("Araujo/Conde 2021", "Araujo 2021"))
+    with open(AUDIT_DIR / "track2" / "track2_stats.json", encoding="utf-8") as f:
+        t2_stats = json.load(f)
+        t2_stats.pop("old_unverified_draft", None)
+    with open(AUDIT_DIR / "track3" / "track3_stats.json", encoding="utf-8") as f:
+        t3_stats = json.load(f)
+        if isinstance(t3_stats.get("corpus_totals"), dict):
+            t3_stats["corpus_totals"].pop("N_draft_legacy_sum_eg_isolates_plus_mena_patients", None)
+else:
+    with open(DATA_DIR / "meta_analysis_results.json", encoding="utf-8") as f:
+        _mj = json.load(f)
+    t1_stats = _mj["track1_preclinical_meta_analysis"]
+    t2_stats = _mj["track2_insilico_quality_audit"]
+    t3_stats = _mj["track3_epidemiological_synthesis"]
 
 with open(DATA_DIR / "Track1_22_experiments_verified.csv", encoding="utf-8") as f:
     t1_exps = list(csv.DictReader(f))
@@ -1199,8 +1206,9 @@ if __name__ == "__main__":
     build_fig5_funnel_syrcle()
     build_fig6_route_adjuvant_sensitivity()
     build_fig7_track2_heatmap(include_thesis_benchmark=False, out_name="Fig_SR4_InSilico_Methodological_Audit_Heatmap.png")
-    build_fig7_track2_heatmap(include_thesis_benchmark=True, out_name="Fig_SR4_Thesis_Benchmark_Heatmap.png")
+    if (SR_DIR / "chapters").exists():
+        build_fig7_track2_heatmap(include_thesis_benchmark=True, out_name="Fig_SR4_Thesis_Benchmark_Heatmap.png")
     build_fig_sr8_syrcle_matrix()
     build_fig8_epidemiology()
     build_fig9_antigens_and_colistin()
-    print("ALL 11 VERIFIED & VISUALLY POLISHED 600-DPI FIGURES GENERATED SUCCESSFULLY.")
+    print("ALL VERIFIED & VISUALLY POLISHED 600-DPI FIGURES GENERATED SUCCESSFULLY.")

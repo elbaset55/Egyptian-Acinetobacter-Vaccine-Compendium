@@ -207,7 +207,8 @@ assert abs(t_ppf(0.975, 1) - math.tan(0.475 * math.pi)) < 1e-12
 assert abs((1.0 - chi2_cdf(4.0, 2)) - math.exp(-2.0)) < 1e-14
 assert abs((1.0 - chi2_cdf(3.841458820694124, 1)) - 0.05) < 1e-13
 
-OUT_DIR = Path(r"d:\Graduation\systematic_review\forensic_audit_workspace\track1")
+_HERE = Path(__file__).resolve().parent
+OUT_DIR = _HERE if _HERE.name == "track1" else (_HERE.parent / "data" / "recomputed_track1")
 OUT_DIR.mkdir(parents=True, exist_ok=True)
 
 
@@ -568,7 +569,7 @@ EXPERIMENTS_META: list[dict[str, Any]] = [
         "ctrl_n": 9,
         "count_reporting_basis": "Derived from stated 88.9% survival + n=9/group; all controls died within 72 h",
         "inferred_control_flag": False,
-        "caveats_notes": "CRITICAL DRAFT ERROR: Draft Table 1 and Table 3 falsely list OmpA ('FilF, OmpA, NucAb') and Alum; full text proves rMEP is Ata(420-621) + FilF + NucAb with Freund's only. Also in Track 2; 72 mice procured vs 63 allocated unexplained.",
+        "caveats_notes": "rMEP comprises Ata(420-621) fragment fused to predicted FilF and NucAb epitopes (GGGGSGGGG linker) in Freund's adjuvant. Also appraised in Track 2 (score 2/14); 72 mice procured vs 63 allocated across groups.",
         "arms": [
             {"arm_name": "rMEP (Ata + FilF + NucAb)", "platform": "Multivalent/chimeric", "ev": 8, "nv": 9, "basis": "88.9% of n=9"},
         ],
@@ -655,7 +656,7 @@ EXPERIMENTS_META: list[dict[str, Any]] = [
         "ctrl_n": 10,
         "count_reporting_basis": "Derived from stated 70% (AMEV2) and 90% (AMEV5) survival + n=10/group; all mock died within 2 days",
         "inferred_control_flag": False,
-        "caveats_notes": "CRITICAL DRAFT ERROR: Draft Section 4.1.4 and Table 3 claim AMEV5 includes BamA and LptD; full text proves AMEV5 is TrxA + pNlpE, pNucAB, pTonB, pPlc1, pBauA, pBlp2, pOmp38 (NO BamA, NO LptD).",
+        "caveats_notes": "AMEV5 comprises TrxA leader fused to seven peptides (pNlpE, pNucAB, pTonB, pPlc1, pBauA, pBlp2, pOmp38) in AddaS03. Also appraised in Track 2 (score 4/14).",
         "arms": [
             {"arm_name": "rAMEV2 (exp. 2)", "platform": "Multivalent/chimeric", "ev": 7, "nv": 10, "basis": "70% of n=10"},
             {"arm_name": "rAMEV5", "platform": "Multivalent/chimeric", "ev": 9, "nv": 10, "basis": "90% of n=10"},

@@ -1,0 +1,23 @@
+cff-version: 1.2.0
+message: "If you use these datasets, audit matrices, or analytical scripts, please cite this compendium."
+title: "Egyptian Acinetobacter baumannii Vaccine & Epidemiology Compendium"
+version: 4.0.0
+date-released: 2026-11-18
+license: CC-BY-4.0
+repository-code: "https://github.com/elbaset55/Egyptian-Acinetobacter-Vaccine-Compendium"
+authors:
+  - family-names: "Diab"
+    given-names: "Abdelbaset A."
+    affiliation: "Biotechnology Program, Department of Zoology, Faculty of Science, Benha University, Benha 13518, Egypt"
+  - family-names: "Seddek"
+    given-names: "Mohamed Nour"
+    affiliation: "Department of Zoology, Faculty of Science, Benha University, Benha 13518, Egypt"
+keywords:
+  - "Acinetobacter baumannii"
+  - "carbapenem-resistant Acinetobacter baumannii"
+  - "subunit vaccine"
+  - "multi-epitope vaccine"
+  - "systematic review"
+  - "meta-analysis"
+  - "PRISMA 2020"
+  - "SYRCLE"
