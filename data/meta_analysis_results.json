@@ -23,7 +23,7 @@
       "experiments_with_zero_cell_2x2": 20,
       "experiments_with_zero_control_survivors": 18,
       "experiments_with_surviving_controls": [
-        "Araujo/Conde 2021",
+        "Araujo 2021",
         "Mansouri 2023",
         "Huang 2015",
         "Hagag 2022"
@@ -2209,7 +2209,7 @@
             "I2_RD_raw_pct": 65.6804443875018
           },
           {
-            "omitted_publication": "Araujo/Conde 2021",
+            "omitted_publication": "Araujo 2021",
             "doi": "10.1016/j.micinf.2021.104801",
             "experiments_omitted": 1,
             "k_remaining": 21,
@@ -3689,7 +3689,7 @@
         }
       },
       "non_zero_controls_only_k4": {
-        "label": "Experiments with >=1 surviving control (ec > 0: Araujo/Conde 2021, Mansouri 2023, Huang 2015, Hagag 2022)",
+        "label": "Experiments with >=1 surviving control (ec > 0: Araujo 2021, Mansouri 2023, Huang 2015, Hagag 2022)",
         "k": 4,
         "publications_count": 4,
         "total_mice": 128,
@@ -4707,111 +4707,6 @@
           "score_0_pct": 22.7,
           "score_1_n": 13,
           "score_1_pct": 59.1,
-          "score_2_n": 4,
-          "score_2_pct": 18.2,
-          "score_le1_n": 18,
-          "score_le1_pct": 81.8
-        }
-      }
-    },
-    "old_unverified_draft": {
-      "k": 22,
-      "sum_points": 151,
-      "mean": 6.8636,
-      "mean_2dp": "6.86",
-      "sd_sample_ddof1": 1.4895,
-      "sd_sample_2dp": "1.49",
-      "sd_pop_ddof0": 1.4553,
-      "median": 7.0,
-      "q1_linear": 6.0,
-      "q3_linear": 8.0,
-      "iqr_linear": 2.0,
-      "q1_tukey": 6.0,
-      "q3_tukey": 8.0,
-      "iqr_tukey": 2.0,
-      "min": 4,
-      "max": 9,
-      "range_str": "4-9",
-      "per_domain": {
-        "D1_PanGenome_Scale": {
-          "mean": 1.4545,
-          "sd_sample": 0.5096,
-          "score_0_n": 0,
-          "score_0_pct": 0.0,
-          "score_1_n": 12,
-          "score_1_pct": 54.5,
-          "score_2_n": 10,
-          "score_2_pct": 45.5,
-          "score_le1_n": 12,
-          "score_le1_pct": 54.5
-        },
-        "D2_Clinical_Isolate_Grounding": {
-          "mean": 0.0,
-          "sd_sample": 0.0,
-          "score_0_n": 22,
-          "score_0_pct": 100.0,
-          "score_1_n": 0,
-          "score_1_pct": 0.0,
-          "score_2_n": 0,
-          "score_2_pct": 0.0,
-          "score_le1_n": 22,
-          "score_le1_pct": 100.0
-        },
-        "D3_Topological_Loop_Confinement": {
-          "mean": 0.9091,
-          "sd_sample": 0.6838,
-          "score_0_n": 6,
-          "score_0_pct": 27.3,
-          "score_1_n": 12,
-          "score_1_pct": 54.5,
-          "score_2_n": 4,
-          "score_2_pct": 18.2,
-          "score_le1_n": 18,
-          "score_le1_pct": 81.8
-        },
-        "D4_MultiLocus_HLA_Typing": {
-          "mean": 0.9545,
-          "sd_sample": 0.2132,
-          "score_0_n": 1,
-          "score_0_pct": 4.5,
-          "score_1_n": 21,
-          "score_1_pct": 95.5,
-          "score_2_n": 0,
-          "score_2_pct": 0.0,
-          "score_le1_n": 22,
-          "score_le1_pct": 100.0
-        },
-        "D5_Peptide_Human_Proteome_Screen": {
-          "mean": 0.7727,
-          "sd_sample": 0.6119,
-          "score_0_n": 7,
-          "score_0_pct": 31.8,
-          "score_1_n": 13,
-          "score_1_pct": 59.1,
-          "score_2_n": 2,
-          "score_2_pct": 9.1,
-          "score_le1_n": 20,
-          "score_le1_pct": 90.9
-        },
-        "D6_3D_Folding_And_TLR_Docking": {
-          "mean": 1.6818,
-          "sd_sample": 0.5679,
-          "score_0_n": 1,
-          "score_0_pct": 4.5,
-          "score_1_n": 5,
-          "score_1_pct": 22.7,
-          "score_2_n": 16,
-          "score_2_pct": 72.7,
-          "score_le1_n": 6,
-          "score_le1_pct": 27.3
-        },
-        "D7_Validation_Depth": {
-          "mean": 1.0909,
-          "sd_sample": 0.5264,
-          "score_0_n": 2,
-          "score_0_pct": 9.1,
-          "score_1_n": 16,
-          "score_1_pct": 72.7,
           "score_2_n": 4,
           "score_2_pct": 18.2,
           "score_le1_n": 18,

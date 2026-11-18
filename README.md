@@ -14,7 +14,7 @@ Open-science data, PRISMA 2020 / SYRCLE audit matrices, and reproducible Python 
 1. **Track 1 — Preclinical Murine Survival Meta-Analysis (`k = 22` Independent Experiments, `20` Publications, `48` Active Arms, `N = 574` Mice):**
    - **Pooled Raw Survival:** `71.8%` (`280/390`) in vaccinated mice vs. `7.1%` (`13/184`) in mock controls.
    - **Multiplicative Risk Ratio (`DL` + `HKSJ`):** `RR_DL = 3.69` (`95% Wald CI: 2.61–5.22`; `HKSJ 95% CI: 2.56–5.33`; `95% PI: 2.56–5.33`; `z = 7.41, p < 0.0001`; `Q = 19.95, df = 21, p = 0.52, I² = 0.0%`).
-   - **Additive Risk Difference (`RD`):** `+62.7` percentage points (`Wald 95% CI: 54.0–71.3`; `HKSJ 95% CI: 53.5–71.8`; `95% PI: +29.3 to +96.0 pp`; `Q_RD = 49.55, p = 0.0004, I²_RD = 57.6%`).
+   - **Additive Risk Difference (`RD`):** `+62.6` percentage points (`Wald 95% CI: 54.0–71.3`; `HKSJ 95% CI: 53.5–71.8`; `95% PI: +29.3 to +96.0 pp`; `Q_RD = 49.55, p = 0.0004, I²_RD = 57.6%`).
    - **Leave-One-Publication-Out Range (`20` iterations):** `RR = 3.52` to `6.34` (all `p < 0.0001`).
 
 2. **Track 2 — Methodological Quality Audit of *In Silico* MEVC Pipelines (`k = 22` Studies, 2018–2026):**

@@ -4,7 +4,7 @@ arm_index,exp_id,publication,doi,arm_name,platform_subgroup,challenge_route,adju
 3,Badmasti_2015,Badmasti 2015,10.1016/j.molimm.2015.07.031,AbOmpA + Bap,Multivalent/chimeric,IP,Alum,7,7,100.0,0,7,3,3,0 deaths vs ATCC 19606 of n=7,15.0,1.0185,220.9196
 4,Singh_2017,Singh 2017,10.1038/s41598-017-12789-3,rBamA,BamA / Oma87,IN,Alum,8,10,80.0,0,10,1,1,80% of n=10,17.0,1.1121,259.8725
 5,Rasooli_2020,Rasooli 2020,10.1007/s10989-020-10056-0,rOma87 (~2xLD),BamA / Oma87,IP,Freund's,8,8,100.0,0,6,1,1,"All vaccinated survived, overall n=8",13.2222,0.9105,192.0154
-6,Araujo_Conde_2021,Araujo/Conde 2021,10.1016/j.micinf.2021.104801,Insoluble rAbBamA,BamA / Oma87,IP,Alum,7,10,70.0,3,10,1,1,70% of n=10,2.3333,0.833,6.5361
+6,Araujo_Conde_2021,Araujo 2021,10.1016/j.micinf.2021.104801,Insoluble rAbBamA,BamA / Oma87,IP,Alum,7,10,70.0,3,10,1,1,70% of n=10,2.3333,0.833,6.5361
 7,Mansouri_2023,Mansouri 2023,10.1016/j.intimp.2023.110650,Oma87,BamA / Oma87,IP,Freund's,14,14,100.0,7,14,3,3,100% of n=14,1.9333,1.1555,3.2348
 8,Mansouri_2023,Mansouri 2023,10.1016/j.intimp.2023.110650,Bap,Other single,IP,Freund's,14,14,100.0,7,14,3,3,100% of n=14,1.9333,1.1555,3.2348
 9,Mansouri_2023,Mansouri 2023,10.1016/j.intimp.2023.110650,Oma87 + Bap,Multivalent/chimeric,IP,Freund's,14,14,100.0,7,14,3,3,100% of n=14,1.9333,1.1555,3.2348

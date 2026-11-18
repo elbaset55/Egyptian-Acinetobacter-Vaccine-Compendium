@@ -58,12 +58,62 @@ copy_map = {
 for src, dst in copy_map.items():
     shutil.copy2(src, dst)
 
+# Sanitize public CSVs & JSON so zero internal pre-audit notes or stale draft columns remain
+_clean_t1_notes = {
+    "Rasooli_2020": "Overall n=8 test and n=6 control stated without explicit per-challenge-dose breakdown (~2xLD primary challenge; ~7xLD also tested with 25% vaccinated survival); 96-h (4-day) follow-up. Evaluated by omission in sensitivity analysis.",
+    "Araujo_Conde_2021": "Insoluble unrefolded rAbBamA inclusion bodies in Alhydrogel; non-zero control survival (3/10 = 30.0% vs 7/10 = 70.0% vaccinated; RR = 2.33, non-significant).",
+    "Akbari_2022": "Also appraised in Track 2 (score 5/14); passive immune-serum survival (66.7% combined, 33.3% single loop) reported separately and excluded from active-immunization synthesis.",
+    "Qamsari_2020": "Loop 11 arm had n=6 instead of n=8 because 2 mice were inadvertently removed prior to challenge (2/6 = 33.3%).",
+    "Ren_2019": "rMEP comprises Ata(420-621) fragment fused to predicted FilF and NucAb epitopes (GGGGSGGGG linker) in Freund's adjuvant. Also appraised in Track 2 (score 2/14); 72 mice procured vs 63 allocated across groups.",
+    "Prather_2026_exp2": "AMEV5 comprises TrxA leader fused to seven peptides (pNlpE, pNucAB, pTonB, pPlc1, pBauA, pBlp2, pOmp38) in AddaS03. Also appraised in Track 2 (score 4/14).",
+    "Jeffreys_2024": "Also appraised in Track 2 (score 5/14; rAMEV2 in AddaS03, 30-day IN Ci79 challenge). Separate IP AB5075 pilot (80% survival, n=10 vaccinated) excluded from quantitative pooling because PBS mock group n was not stated.",
+}
+
+def _rewrite_clean_csv(path: Path, drop_cols=(), row_mutator=None):
+    with open(path, encoding="utf-8") as _f:
+        _reader = csv.DictReader(_f)
+        _fields = [c for c in (_reader.fieldnames or []) if c not in drop_cols]
+        _rows = []
+        for _r in _reader:
+            for _k in list(_r.keys()):
+                if _r[_k]:
+                    _r[_k] = _r[_k].replace("Araujo/Conde 2021", "Araujo 2021").replace("Araujo/Conde et al., 2021", "Araujo et al., 2021")
+            if row_mutator:
+                row_mutator(_r)
+            _rows.append({k: _r[k] for k in _fields})
+    with open(path, "w", encoding="utf-8", newline="") as _f:
+        _w = csv.DictWriter(_f, fieldnames=_fields)
+        _w.writeheader()
+        _w.writerows(_rows)
+
+def _mutate_t1_exp(r):
+    if r["exp_id"] in _clean_t1_notes:
+        r["caveats_notes"] = _clean_t1_notes[r["exp_id"]]
+    for neg_tag in [" (NO OmpA)", " (NO BamA, NO LptD)"]:
+        r["antigens_exact"] = r["antigens_exact"].replace(neg_tag, "")
+
+_rewrite_clean_csv(DATA_DIR / "Track1_22_experiments_verified.csv", row_mutator=_mutate_t1_exp)
+for _c_name in ("Track1_48_arms_verified.csv", "Track1_30_platform_units_verified.csv", "Track1_20_leave_one_out_verified.csv", "Track1_20_SYRCLE_verified.csv"):
+    _rewrite_clean_csv(DATA_DIR / _c_name)
+_rewrite_clean_csv(
+    DATA_DIR / "Track2_22_insilico_rubric_verified.csv",
+    drop_cols=("study_draft", "old_D1", "old_D2", "old_D3", "old_D4", "old_D5", "old_D6", "old_D7", "old_total_14", "score_delta", "d7_lenient_or_rule", "total_lenient_14", "key_corrections"),
+    row_mutator=lambda r: r.update({"targets_verified": r["targets_verified"].replace(" (NO OmpA)", "").replace(" (NO BamA, NO LptD)", "").replace(" (NO BauA, NO Omp34)", "")}),
+)
+_rewrite_clean_csv(
+    DATA_DIR / "Track3_17_cohorts_verified.csv",
+    drop_cols=("draft_table4_discrepancies",),
+)
+
 with open(AUDIT_DIR / "track1" / "track1_stats.json", encoding="utf-8") as f:
-    t1_stats = json.load(f)
+    t1_stats = json.loads(f.read().replace("Araujo/Conde 2021", "Araujo 2021"))
 with open(AUDIT_DIR / "track2" / "track2_stats.json", encoding="utf-8") as f:
     t2_stats = json.load(f)
+    t2_stats.pop("old_unverified_draft", None)
 with open(AUDIT_DIR / "track3" / "track3_stats.json", encoding="utf-8") as f:
     t3_stats = json.load(f)
+    if isinstance(t3_stats.get("corpus_totals"), dict):
+        t3_stats["corpus_totals"].pop("N_draft_legacy_sum_eg_isolates_plus_mena_patients", None)
 
 with open(DATA_DIR / "Track1_22_experiments_verified.csv", encoding="utf-8") as f:
     t1_exps = list(csv.DictReader(f))
@@ -340,8 +390,8 @@ def build_fig2_forest():
         "Garg_2016": "Garg et al., 2016 (NucAb; IT)",
         "Skerniskyte_2019": "Skerniškytė et al., 2019 (Blp1; IP)",
         "Behrouz_2024": "Behrouz et al., 2024 (FliC-Omp22/Omp22; IP)",
-        "Freitas_2024_exp_a": "Freitas et al., 2024, exp. a (CAM87009.1+AgNP; IP)",
-        "Freitas_2024_exp_b": "Freitas et al., 2024, exp. b (CAM87009.1+Alum; IP)",
+        "Freitas_2024_exp_a": "de Freitas et al., 2024, exp. a (CAM87009.1+AgNP; IP)",
+        "Freitas_2024_exp_b": "de Freitas et al., 2024, exp. b (CAM87009.1+Alum; IP)",
         "Badmasti_2015": "Badmasti et al., 2015 (AbOmpA/Bap; IP)",
         "Akbari_2022": "Akbari et al., 2022 (LCL BauA/Omp34; IP)",
         "Chaudhuri_2022": "Chaudhuri et al., 2022 (rBauA & LCL loops; IP)",
@@ -462,8 +512,8 @@ def build_fig2_forest():
 
     footer = (
         "Heterogeneity (RR scale): Q = 19.95, df = 21, p = 0.52, I² = 0.0%, τ² = 0.000  |  HKSJ 95% CI: 2.56–5.33 (t = 7.41, p < 0.0001)  |  95% PI: 2.56–5.33\n"
-        "Additive Risk Difference (RD): +62.7 pp [HKSJ 95% CI: 53.5–71.8; 95% PI: +29.3 to +96.0 pp], Q_RD = 49.55 (p = 0.0004), I²_RD = 57.6%  |  "
-        "Teal squares: ec > 0 (4 expts, 71.0% weight); Blue squares: ec = 0 (+0.5 Haldane, 18 expts)"
+        "Additive Risk Difference (RD): +62.6 pp [HKSJ 95% CI: 53.5–71.8; 95% PI: +29.3 to +96.0 pp], Q_RD = 49.55 (p = 0.0004), I²_RD = 57.6%  |  "
+        "Teal squares: ec > 0 (4 expts, 71.0% weight); Blue squares: ec = 0 (+0.5 Haldane, 18 expts); †control survival inferred from lethal dose"
     )
     ax.text(x_study, -1.35, footer, fontsize=7.8, color="#334155", va="top", linespacing=1.35)
 
@@ -504,10 +554,11 @@ def build_fig3_subgroups_h2h():
     ax1.spines["right"].set_visible(False)
     ax1.grid(axis="x", linestyle=":", alpha=0.5)
 
+    _lbl_bbox = dict(boxstyle="round,pad=0.12", fc="white", ec="none", alpha=0.92)
     for idx, p in enumerate(platforms):
         yi = y_pos[idx]
-        ax1.text(p[1] + 2.0, yi + 0.11, f"{p[1]:.1f}% ({p[2]})", fontsize=8.2, fontweight="bold", color="#0F172A", va="center")
-        ax1.text(p[1] + 2.0, yi - 0.14, f"RR = {p[3]:.2f} [{p[4]:.2f}–{p[5]:.2f}]", fontsize=7.6, color="#334155", va="center")
+        ax1.text(p[1] + 2.0, yi + 0.11, f"{p[1]:.1f}% ({p[2]})", fontsize=8.2, fontweight="bold", color="#0F172A", va="center", bbox=_lbl_bbox, zorder=5)
+        ax1.text(p[1] + 2.0, yi - 0.14, f"RR = {p[3]:.2f} [{p[4]:.2f}–{p[5]:.2f}]", fontsize=7.6, color="#334155", va="center", bbox=_lbl_bbox, zorder=5)
     ax1.legend(loc="upper center", bbox_to_anchor=(0.5, -0.15), fontsize=8.0, frameon=True, facecolor="white")
 
     h2h = [
@@ -715,7 +766,8 @@ def build_fig6_route_adjuvant_sensitivity():
     for idx, (kind, lbl, rr, cl, ch, surv_txt) in enumerate(sub_items):
         yi = y_a[idx]
         if kind == "HEADER":
-            ax1.text(0.82, yi, lbl, fontsize=8.4, fontweight="bold", color=NAVY, va="center")
+            ax1.text(0.82, yi, lbl, fontsize=8.4, fontweight="bold", color=NAVY, va="center",
+                     bbox=dict(boxstyle="round,pad=0.15", fc="white", ec="none", alpha=0.94), zorder=5)
         else:
             ytick_pos.append(yi)
             ytick_lbl.append(lbl)
@@ -738,7 +790,7 @@ def build_fig6_route_adjuvant_sensitivity():
     ax1.grid(axis="x", linestyle=":", alpha=0.45)
 
     sens_models = [
-        ("Primary dataset (all k=22, N=574)", 3.69, 2.56, 5.33, "+62.7 pp"),
+        ("Primary dataset (all k=22, N=574)", 3.69, 2.56, 5.33, "+62.6 pp"),
         ("Fixed-effect IV (+0.5 Haldane, k=22)", 3.69, 2.61, 5.22, "Wald CI"),
         ("Omit inferred controls (k=20, N=536)", 3.52, 2.42, 5.12, "+59.5 pp"),
         ("IP challenge only (k=17, N=470)", 3.35, 2.27, 4.94, "+63.9 pp"),
@@ -858,7 +910,8 @@ def build_fig7_track2_heatmap(include_thesis_benchmark=False, out_name="Fig_SR4_
     ax_tot.grid(axis="x", linestyle=":", alpha=0.45)
 
     for i, tot in enumerate(tots):
-        ax_tot.text(tot + 0.35, i, f"{tot}/14", va="center", fontsize=8.2, fontweight="bold", color="#0F172A")
+        ax_tot.text(tot + 0.35, i, f"{tot}/14", va="center", fontsize=8.2, fontweight="bold", color="#0F172A",
+                    bbox=dict(boxstyle="round,pad=0.10", fc="white", ec="none", alpha=0.92), zorder=5)
 
     title_str = (
         "Methodological Quality Appraisal of Published In Silico A. baumannii MEVC Pipelines (k = 22, 2018–2026)\n"
