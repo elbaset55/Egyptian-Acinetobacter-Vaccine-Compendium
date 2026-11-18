@@ -1,0 +1,49 @@
+arm_index,exp_id,publication,doi,arm_name,platform_subgroup,challenge_route,adjuvant_subgroup,vacc_events,vacc_n,vacc_pct,ctrl_events_shared,ctrl_n_shared,arms_in_experiment,platforms_in_experiment,count_reporting_basis,arm_RR_vs_full_ctrl,arm_RR_ci_low,arm_RR_ci_high
+1,Badmasti_2015,Badmasti 2015,10.1016/j.molimm.2015.07.031,AbOmpA(8-346aa),OmpA,IP,Alum,5,7,71.43,0,7,3,3,2 deaths by day 2 of n=7,11.0,0.7216,167.6782
+2,Badmasti_2015,Badmasti 2015,10.1016/j.molimm.2015.07.031,Bap(1-487aa),Other single,IP,Alum,3,7,42.86,0,7,3,3,4 deaths by day 4 of n=7,7.0,0.4272,114.7042
+3,Badmasti_2015,Badmasti 2015,10.1016/j.molimm.2015.07.031,AbOmpA + Bap,Multivalent/chimeric,IP,Alum,7,7,100.0,0,7,3,3,0 deaths vs ATCC 19606 of n=7,15.0,1.0185,220.9196
+4,Singh_2017,Singh 2017,10.1038/s41598-017-12789-3,rBamA,BamA / Oma87,IN,Alum,8,10,80.0,0,10,1,1,80% of n=10,17.0,1.1121,259.8725
+5,Rasooli_2020,Rasooli 2020,10.1007/s10989-020-10056-0,rOma87 (~2xLD),BamA / Oma87,IP,Freund's,8,8,100.0,0,6,1,1,"All vaccinated survived, overall n=8",13.2222,0.9105,192.0154
+6,Araujo_Conde_2021,Araujo/Conde 2021,10.1016/j.micinf.2021.104801,Insoluble rAbBamA,BamA / Oma87,IP,Alum,7,10,70.0,3,10,1,1,70% of n=10,2.3333,0.833,6.5361
+7,Mansouri_2023,Mansouri 2023,10.1016/j.intimp.2023.110650,Oma87,BamA / Oma87,IP,Freund's,14,14,100.0,7,14,3,3,100% of n=14,1.9333,1.1555,3.2348
+8,Mansouri_2023,Mansouri 2023,10.1016/j.intimp.2023.110650,Bap,Other single,IP,Freund's,14,14,100.0,7,14,3,3,100% of n=14,1.9333,1.1555,3.2348
+9,Mansouri_2023,Mansouri 2023,10.1016/j.intimp.2023.110650,Oma87 + Bap,Multivalent/chimeric,IP,Freund's,14,14,100.0,7,14,3,3,100% of n=14,1.9333,1.1555,3.2348
+10,Huang_2015,Huang 2015,10.1016/j.vaccine.2015.07.031,Trx-OmpW,OmpW,IP,Alum,6,6,100.0,1,6,1,1,100% of n=6,4.3333,1.0336,18.1679
+11,Abdollahi_2023,Abdollahi 2023,10.1016/j.micpath.2023.106317,OmpW2 whole protein,OmpW,IN,Freund's,8,8,100.0,0,8,2,1,"Completely protective, challenge n=8",17.0,1.1444,252.5433
+12,Abdollahi_2023,Abdollahi 2023,10.1016/j.micpath.2023.106317,OmpW2 epitopes 1+3,OmpW,IN,Freund's,8,8,100.0,0,8,2,1,"Completely protective, challenge n=8",17.0,1.1444,252.5433
+13,Huang_2016,Huang 2016,10.1038/srep20724,Trx-Omp22 (50 ug),Other single,IP,Alum,6,6,100.0,0,6,4,1,100% of n=6,13.0,0.8923,189.3923
+14,Huang_2016,Huang 2016,10.1038/srep20724,Trx-Omp22 (20 ug),Other single,IP,Alum,2,6,33.33,0,6,4,1,33% of n=6,5.0,0.2892,86.4304
+15,Huang_2016,Huang 2016,10.1038/srep20724,Trx-Omp22 (10 ug),Other single,IP,Alum,2,6,33.33,0,6,4,1,33% of n=6,5.0,0.2892,86.4304
+16,Huang_2016,Huang 2016,10.1038/srep20724,Trx-Omp22 (5 ug),Other single,IP,Alum,0,6,0.0,0,6,4,1,0% of n=6,1.0,0.0229,43.6995
+17,Akbari_2022,Akbari 2022,10.1016/j.intimp.2022.108731,LCL BauA loop 7,Other single,IP,Freund's,3,7,42.86,0,7,3,2,42.86% of n=7,7.0,0.4272,114.7042
+18,Akbari_2022,Akbari 2022,10.1016/j.intimp.2022.108731,LCL Omp34 loop 3,Other single,IP,Freund's,3,7,42.86,0,7,3,2,42.86% of n=7,7.0,0.4272,114.7042
+19,Akbari_2022,Akbari 2022,10.1016/j.intimp.2022.108731,LCL BauA loop 7 + Omp34 loop 3,Multivalent/chimeric,IP,Freund's,5,7,71.43,0,7,3,2,71.43% of n=7,11.0,0.7216,167.6782
+20,Chaudhuri_2022,Chaudhuri 2022,10.3389/fimmu.2022.933445,rBauA,Other single,IP,Freund's,6,6,100.0,0,6,7,2,100% of n=6,13.0,0.8923,189.3923
+21,Chaudhuri_2022,Chaudhuri 2022,10.3389/fimmu.2022.933445,LCL BauA loop 5,Other single,IP,Freund's,4,6,66.67,0,6,7,2,66.7% of n=6,9.0,0.5885,137.6453
+22,Chaudhuri_2022,Chaudhuri 2022,10.3389/fimmu.2022.933445,LCL BauA loop 7,Other single,IP,Freund's,6,6,100.0,0,6,7,2,100% of n=6,13.0,0.8923,189.3923
+23,Chaudhuri_2022,Chaudhuri 2022,10.3389/fimmu.2022.933445,LCL BauA loop 8,Other single,IP,Freund's,3,6,50.0,0,6,7,2,50.0% of n=6,7.0,0.4378,111.9126
+24,Chaudhuri_2022,Chaudhuri 2022,10.3389/fimmu.2022.933445,LCL BauA loops 7+5,Multivalent/chimeric,IP,Freund's,5,6,83.33,0,6,7,2,83.3% of n=6,11.0,0.7401,163.4893
+25,Chaudhuri_2022,Chaudhuri 2022,10.3389/fimmu.2022.933445,LCL BauA loops 8+5,Multivalent/chimeric,IP,Freund's,4,6,66.67,0,6,7,2,66.7% of n=6,9.0,0.5885,137.6453
+26,Chaudhuri_2022,Chaudhuri 2022,10.3389/fimmu.2022.933445,LCL BauA loops 8+7+5,Multivalent/chimeric,IP,Freund's,5,6,83.33,0,6,7,2,83.3% of n=6,11.0,0.7401,163.4893
+27,Qamsari_2020,Qamsari 2020,10.3389/fimmu.2020.00158,rZnuD,Other single,IP,Freund's,5,8,62.5,0,8,6,2,Printed 5/8,11.0,0.7077,170.9826
+28,Qamsari_2020,Qamsari 2020,10.3389/fimmu.2020.00158,LCL ZnuD loop 2,Other single,IP,Freund's,3,8,37.5,0,8,6,2,Printed 3/8,7.0,0.4191,116.9061
+29,Qamsari_2020,Qamsari 2020,10.3389/fimmu.2020.00158,LCL ZnuD loop 5,Other single,IP,Freund's,2,8,25.0,0,8,6,2,Printed 2/8,5.0,0.2772,90.1806
+30,Qamsari_2020,Qamsari 2020,10.3389/fimmu.2020.00158,LCL ZnuD loop 7,Other single,IP,Freund's,4,8,50.0,0,8,6,2,Printed 4/8,9.0,0.5629,143.8876
+31,Qamsari_2020,Qamsari 2020,10.3389/fimmu.2020.00158,LCL ZnuD loop 11,Other single,IP,Freund's,2,6,33.33,0,8,6,2,Printed 2/6 (2 mice removed pre-challenge),6.4286,0.364,113.519
+32,Qamsari_2020,Qamsari 2020,10.3389/fimmu.2020.00158,LCL ZnuD 4-loop hybrid,Multivalent/chimeric,IP,Freund's,8,8,100.0,0,8,6,2,Printed 8/8,17.0,1.1444,252.5433
+33,Ren_2019,Ren 2019,10.4414/smw.2019.20052,rMEP (Ata + FilF + NucAb),Multivalent/chimeric,IP,Freund's,8,9,88.89,0,9,1,1,88.9% of n=9,17.0,1.1265,256.5579
+34,Hagag_2022,Hagag 2022,10.1007/s00253-022-12231-3,Wza,Other single,IP,Alum,7,10,70.0,2,10,3,2,70% of n=10,3.5,0.9498,12.898
+35,Hagag_2022,Hagag 2022,10.1007/s00253-022-12231-3,YiaD,Other single,IP,Alum,6,10,60.0,2,10,3,2,60% of n=10,3.0,0.7864,11.4447
+36,Hagag_2022,Hagag 2022,10.1007/s00253-022-12231-3,Wza + YiaD,Multivalent/chimeric,IP,Alum,10,10,100.0,2,10,3,2,100% of n=10,4.2,1.4019,12.583
+37,Prather_2026_exp1,Prather 2026,10.3390/vaccines14030275,rAMEV1,Multivalent/chimeric,IP,Other/None,6,10,60.0,0,10,2,1,60% of n=10,13.0,0.8291,203.8339
+38,Prather_2026_exp1,Prather 2026,10.3390/vaccines14030275,rAMEV2 (exp. 1),Multivalent/chimeric,IP,Other/None,8,10,80.0,0,10,2,1,80% of n=10,17.0,1.1121,259.8725
+39,Prather_2026_exp2,Prather 2026,10.3390/vaccines14030275,rAMEV2 (exp. 2),Multivalent/chimeric,IP,Other/None,7,10,70.0,0,10,2,1,70% of n=10,15.0,0.9705,231.8415
+40,Prather_2026_exp2,Prather 2026,10.3390/vaccines14030275,rAMEV5,Multivalent/chimeric,IP,Other/None,9,10,90.0,0,10,2,1,90% of n=10,19.0,1.2538,287.9193
+41,Singh_2016,Singh 2016,10.3389/fmicb.2016.00158,FilF,Other single,IT,Freund's,5,10,50.0,0,10,1,1,50% of n=10,11.0,0.688,175.8626
+42,Garg_2016,Garg 2016,10.1016/j.ijmm.2015.10.005,NucAb,Other single,IT,Freund's,2,10,20.0,0,10,1,1,"20% at 48 h healthy through day 7, n=10",5.0,0.2699,92.6216
+43,Skerniskyte_2019,Skerniskyte 2019,10.1186/s12866-019-1615-3,Blp1 C-terminal fragment,Other single,IP,Freund's,3,5,60.0,0,5,1,1,60% of n=5,7.0,0.4526,108.2584
+44,Behrouz_2024,Behrouz 2024,10.1038/s41598-024-79013-x,FliC-Omp22 fusion,Other single,IP,Other/None,6,8,75.0,0,8,2,1,Printed 6/8 (75%),13.0,0.8529,198.138
+45,Behrouz_2024,Behrouz 2024,10.1038/s41598-024-79013-x,Omp22,Other single,IP,Other/None,3,8,37.5,0,8,2,1,Printed 3/8,7.0,0.4191,116.9061
+46,Freitas_2024_exp_a,Freitas 2024,10.1016/j.vaccine.2024.04.094,rCAM87009.1 + bio-AgNP,Other single,IP,Other/None,7,7,100.0,0,7,1,1,100% of n=7,15.0,1.0185,220.9196
+47,Freitas_2024_exp_b,Freitas 2024,10.1016/j.vaccine.2024.04.094,rCAM87009.1 + Alhydrogel,Other single,IP,Alum,7,7,100.0,0,7,1,1,100% of n=7,15.0,1.0185,220.9196
+48,Jeffreys_2024,Jeffreys 2024,10.3390/vaccines12040358,rAMEV2 (IN main),Multivalent/chimeric,IN,Other/None,6,10,60.0,0,10,1,1,60% of n=10 over 30 d,13.0,0.8291,203.8339
